@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CASA one-word domains still available to buy.
 
-This dataset contains 4,329 .CASA one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,328 .CASA one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CASA one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=casa-oneword-domains&utm_content=description.top) (4,330) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,14 +24,14 @@ If you want to search & filters the complete database of [.CASA one word domains
 | aaa.casa        | available | 70       | 38%    | 3      |           |         |         |
 | abactinal.casa  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.casa      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.casa  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.casa  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.casa    | available | 60       | 2%     | 7      |           |         |         |
 | abatable.casa   | available | 54       | 1%     | 8      |           |         |         |
 | abatic.casa     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.casa    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.casa   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.casa  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.casa  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.casa  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.casa | available | 56       | 1%     | 10     |           |         |         |
 | abducens.casa   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.casa   | available | 68       | 1%     | 8      |           |         |         |
@@ -40,7 +40,7 @@ If you want to search & filters the complete database of [.CASA one word domains
 | aberdonian.casa | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.casa   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.casa    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.casa  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.casa  | available | 54       | 3%     | 9      |           |         |         |
 | abient.casa     | available | 54       | 1%     | 6      |           |         |         |
 | abit.casa       | available | 66       | 16%    | 5      |           |         |         |
 | abject.casa     | available | 94       | 8%     | 6      |           |         |         |
@@ -49,7 +49,7 @@ If you want to search & filters the complete database of [.CASA one word domains
 | abkhazian.casa  | available | 78       | 1%     | 9      |           |         |         |
 | ablated.casa    | available | 52       | 2%     | 7      |           |         |         |
 | ablative.casa   | available | 68       | 3%     | 8      |           |         |         |
-| able.casa       | available | 80       | 32%    | 4      |           |         |         |
+| able.casa       | available | 80       | 26%    | 4      |           |         |         |
 | abloom.casa     | available | 72       | 5%     | 6      |           |         |         |
 
 <p align="center">
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.CASA one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
