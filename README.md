@@ -1,22 +1,22 @@
-# Available .CASA One-Word Domains (8,725)
+# Available .CASA One-Word Domains (11,421)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C726%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C725%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C421%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .casa one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .casa one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,421 domains** on the canonical page below.
 
-**Public extract:** 8,726 rows · **Live catalog:** 8,725 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,421 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/casa`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CASA one-word domain 
 
 ### Files
 
-- `casa.csv` — public CSV extract (8,726 rows)
-- `casa.json` — public JSON extract (8,726 rows)
+- `casa.csv` — public CSV extract (1,000 rows)
+- `casa.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| seventeen.casa  | available | $17.98    | —             | 84             | 62     | 9      | namecheap            |
-| awesome.casa    | resell    | —         | —             | 98             | 99     | 7      | Spaceship, Inc.      |
-| converse.casa   | premium   | $50       | $23.99        | 64             | 73     | 8      | name.com             |
-| athletics.casa  | available | $17.98    | —             | 69             | 52     | 9      | namecheap            |
-| love.casa       | resell    | —         | —             | 86             | 99     | 4      | Spaceship, Inc.      |
-| enterprise.casa | premium   | $52       | $13           | 68             | 61     | 10     | namecheap            |
-| strategy.casa   | available | $17.98    | —             | 74             | 43     | 8      | namecheap            |
-| link.casa       | resell    | —         | —             | 68             | 99     | 4      | Dynadot Inc          |
-| fast.casa       | premium   | $50       | $23.99        | 82             | 52     | 4      | name.com             |
-| conscious.casa  | available | $17.98    | —             | 89             | 38     | 9      | namecheap            |
-| apple.casa      | resell    | —         | —             | 98             | 88     | 5      | Porkbun              |
-| all.casa        | premium   | $100      | $100          | 88             | 48     | 3      | name.com             |
-| unify.casa      | available | $17.98    | —             | 72             | 38     | 5      | namecheap            |
-| http.casa       | resell    | —         | —             | 80             | 72     | 4      | Porkbun              |
-| trade.casa      | premium   | $52       | $13           | 116            | 46     | 5      | namecheap            |
-| instant.casa    | available | $17.98    | —             | 108            | 37     | 7      | namecheap            |
-| hello.casa      | resell    | —         | —             | 130            | 70     | 5      | UM Domains Pte. Ltd. |
-| law.casa        | premium   | $260      | $13           | 82             | 46     | 3      | namecheap            |
-| terminal.casa   | available | $17.98    | —             | 104            | 36     | 8      | namecheap            |
-| match.casa      | resell    | —         | —             | 102            | 65     | 5      | NameCheap, Inc.      |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| RedSox.casa       | available | $17.98    | —             | 72             | 60     | 7      | namecheap       |
+| insight.casa      | resell    | —         | —             | 76             | 69     | 8      | Spaceship, Inc. |
+| skills.casa       | premium   | $100      | —             | 58             | 47     | 6      | name.com        |
+| regions.casa      | available | $17.98    | —             | 64             | 59     | 7      | namecheap       |
+| houses.casa       | resell    | —         | —             | 66             | 18     | 6      | NameCheap, Inc. |
+| William.casa      | premium   | $112      | $14           | 74             | 31     | 7      | namecheap       |
+| spaces.casa       | available | $17.98    | —             | 54             | 30     | 6      | namecheap       |
+| videos.casa       | premium   | $50       | —             | 52             | 30     | 6      | name.com        |
+| commonground.casa | available | $17.98    | —             | 74             | 28     | 13     | namecheap       |
+| SanDiego.casa     | premium   | $96       | $11.80        | 74             | 29     | 9      | namesilo        |
+| sites.casa        | available | $17.98    | —             | 53             | 26     | 5      | namecheap       |
+| brands.casa       | premium   | $50       | —             | 62             | 28     | 6      | name.com        |
+| destination.casa  | available | $17.98    | —             | 90             | 25     | 11     | namecheap       |
+| tips.casa         | premium   | $100      | —             | 80             | 26     | 4      | name.com        |
+| Trex.casa         | available | $17.98    | —             | 80             | 24     | 5      | namecheap       |
+| pls.casa          | premium   | $50       | —             | 60             | 23     | 3      | name.com        |
+| shops.casa        | available | $17.98    | —             | 64             | 24     | 5      | namecheap       |
+| investors.casa    | premium   | $50       | —             | 60             | 23     | 9      | name.com        |
+| holidays.casa     | available | $2.19     | $12.99        | 78             | 23     | 8      | namesilo        |
+| VHS.casa          | premium   | $56       | $14           | 71             | 20     | 3      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,726-row public sample | 8,725 live domains                               |
+| 1,000-row public sample | 11,421 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASA One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASA One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
