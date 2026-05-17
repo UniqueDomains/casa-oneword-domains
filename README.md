@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .casa one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,596 domains · **Median ask:** $20.87 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/casa`  
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,7 @@ print(df.head())
 | tips.casa         | premium   | $100      | —             | 80             | 26     | 4      | name.com        |
 | sites.casa        | available | $17.98    | —             | 53             | 26     | 5      | namecheap       |
 | pls.casa          | premium   | $50       | —             | 60             | 23     | 3      | name.com        |
-| destination.casa  | available | $17.98    | —             | 90             | 25     | 11     | namecheap       |
+| destination.casa  | available | $17.98    | —             | 90             | 24     | 11     | namecheap       |
 | investors.casa    | premium   | $50       | —             | 60             | 23     | 9      | name.com        |
 | Trex.casa         | available | $17.98    | —             | 80             | 24     | 5      | namecheap       |
 | VHS.casa          | premium   | $56       | $14           | 71             | 20     | 3      | namecheap       |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASA One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASA One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
