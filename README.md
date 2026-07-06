@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .casa one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,596 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,596 domains · **Median ask:** $20.87 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,596 domains · **Median ask:** $23.90 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/casa`  
+**Last updated:** 2026-07-06
+**Canonical page:** `https://unique.domains/domains/tld/casa`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CASA one-word domain 
 
 ### Files
 
-- `casa.csv` — public CSV extract (1,000 rows)
-- `casa.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `casa.csv`, public CSV extract (1,000 rows)
+- `casa.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| RedSox.casa       | available | $17.98    | —             | 72             | 60     | 7      | namecheap       |
-| insight.casa      | resell    | —         | —             | 76             | 69     | 8      | Spaceship, Inc. |
-| skills.casa       | premium   | $100      | —             | 58             | 47     | 6      | name.com        |
-| regions.casa      | available | $17.98    | —             | 64             | 59     | 7      | namecheap       |
-| houses.casa       | resell    | —         | —             | 66             | 18     | 6      | NameCheap, Inc. |
-| videos.casa       | premium   | $50       | —             | 52             | 30     | 6      | name.com        |
-| spaces.casa       | available | $17.98    | —             | 54             | 30     | 6      | namecheap       |
-| brands.casa       | premium   | $50       | —             | 62             | 28     | 6      | name.com        |
-| commonground.casa | available | $17.98    | —             | 74             | 28     | 13     | namecheap       |
-| tips.casa         | premium   | $100      | —             | 80             | 26     | 4      | name.com        |
-| sites.casa        | available | $17.98    | —             | 53             | 26     | 5      | namecheap       |
-| pls.casa          | premium   | $50       | —             | 60             | 23     | 3      | name.com        |
-| destination.casa  | available | $17.98    | —             | 90             | 24     | 11     | namecheap       |
-| investors.casa    | premium   | $50       | —             | 60             | 23     | 9      | name.com        |
-| Trex.casa         | available | $17.98    | —             | 80             | 24     | 5      | namecheap       |
-| VHS.casa          | premium   | $56       | $14           | 71             | 20     | 3      | namecheap       |
-| shops.casa        | available | $17.98    | —             | 64             | 24     | 5      | namecheap       |
-| snaps.casa        | premium   | $50       | —             | 52             | 20     | 5      | name.com        |
-| holidays.casa     | available | $2.19     | $12.99        | 78             | 23     | 8      | namesilo        |
-| phones.casa       | premium   | $96       | $11.80        | 76             | 19     | 6      | namesilo        |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| able.casa    | available | $2.19     | $12.99        | high           | low    | 4      | namesilo         |
+| romance.casa | resell    | $17.98    | —             | high           | low    | 7      | Spaceship, Inc.  |
+| and.casa     | premium   | $96       | $11.80        | high           | medium | 3      | namesilo         |
+| blob.casa    | available | $1.99     | —             | medium         | low    | 4      | name.com         |
+| dock.casa    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| ant.casa     | premium   | $2,500    | —             | high           | medium | 3      | name.com         |
+| brie.casa    | available | $17.98    | —             | high           | low    | 4      | namecheap        |
+| food.casa    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
+| ate.casa     | premium   | $96       | $11.80        | high           | low    | 3      | namesilo         |
+| cyan.casa    | available | $1.99     | —             | high           | low    | 4      | name.com         |
+| http.casa    | resell    | —         | —             | high           | high   | 4      | Porkbun          |
+| beg.casa     | premium   | $96       | $11.80        | medium         | low    | 3      | namesilo         |
+| damn.casa    | available | $2.19     | $12.99        | high           | low    | 4      | namesilo         |
+| king.casa    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| day.casa     | premium   | $242      | $11.80        | high           | low    | 3      | namesilo         |
+| dong.casa    | available | $17.98    | —             | medium         | low    | 4      | namecheap        |
+| life.casa    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
+| dig.casa     | premium   | $96       | $11.80        | high           | low    | 3      | namesilo         |
+| duty.casa    | available | $2.19     | $12.99        | medium         | low    | 4      | namesilo         |
+| link.casa    | resell    | —         | —             | medium         | high   | 4      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .casa domains, which naturally signal home, housing, property, or a Spanish-language brand context. The set is broad, ranging from clear words like belong.casa and condition.casa to weaker or more awkward options such as grandfatherinlaw.casa. For founders, the best picks are short, familiar words that sound credible beside the .casa ending. For investors, the focus is whether the word has obvious end-user relevance and whether the ask leaves room for resale upside. Be cautious with names that are unusually long, negative in tone, or likely to raise trademark issues, such as ford.casa.
+This list of .casa domain names spans 11,596 options, from lifestyle terms like jewels.casa and ladies.casa to service-oriented names such as primarycare.casa and shoparound.casa. With a median ask near $24, the set stays affordable for founders building a home, wellness, or local-service brand, while investors can scan pricing across a large pool of names for potential value. Since ".casa" reads as "house" in Spanish and Italian, many names in this selection carry a warm, residential or lifestyle tone suited to real estate, home goods, and family-focused projects.
 
-- 11,592 one-word .casa domains in this selection
-- Median ask: 20.87
-- Best fit: home, housing, interiors, residential brands
-- Watch for long words, weak fit, and trademark exposure
+- 11,596 .casa domain names in this selection, updated daily
+- Median ask near $24 across the set
+- Lifestyle and home-themed names like jewels.casa, ladies.casa
+- Service-style names such as primarycare.casa, shoparound.casa
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASA One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASA One-Word Domains*. Version 2026-07-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
