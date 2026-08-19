@@ -1,10 +1,10 @@
-# Available .CASA One-Word Domains (15,688)
+# Available .CASA One-Word Domains (16,286)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C688%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C286%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .casa one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **15,688 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **16,286 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 15,688 domains · **Median ask:** $16.75 · **High-demand under $2,500:** 11
+**Public extract:** 1,000 rows · **Live catalog:** 16,286 domains · **Median ask:** $16.39 · **High-demand under $2,500:** 11
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-19
 **Canonical page:** `https://unique.domains/domains/tld/casa`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| damn.casa    | available | $2.19     | $12.99        | high           | low    | 4      | namesilo         |
 | able.casa    | available | $2.19     | $12.99        | high           | low    | 4      | namesilo         |
 | romance.casa | resell    | $17.98    | —             | high           | low    | 7      | Spaceship, Inc.  |
 | and.casa     | premium   | $96       | $11.80        | high           | medium | 3      | namesilo         |
@@ -83,7 +84,6 @@ print(df.head())
 | life.casa    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
 | cxv.casa     | premium   | $47.20    | $11.80        | low            | low    | 3      | namesilo         |
 | cyan.casa    | available | $1.99     | —             | high           | low    | 4      | name.com         |
-| link.casa    | resell    | —         | —             | medium         | high   | 4      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 15,688 live domains                        |
+| 1,000-row public sample | 16,286 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 11 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASA One-Word Domains*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASA One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
