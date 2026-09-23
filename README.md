@@ -1,10 +1,10 @@
-# Available .CASA One-Word Domains (27,651)
+# Available .CASA One-Word Domains (30,094)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C651%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C094%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .casa one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,651 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,094 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,651 domains · **Median ask:** $11.39 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 30,094 domains · **Median ask:** $11.07 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/casa`
 **Best for:** founders, investors, studios
 
@@ -64,11 +64,11 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| able.casa    | available | $2.19     | $12.99        | high           | low    | 4      | namesilo         |
+| able.casa    | available | $2.19     | $12.99        | medium         | low    | 4      | namesilo         |
 | romance.casa | resell    | $17.98    | —             | high           | low    | 7      | Spaceship, Inc.  |
 | air.casa     | premium   | $96       | $11.80        | medium         | low    | 3      | namesilo         |
 | asat.casa    | available | $1.98     | $17.98        | low            | low    | 4      | namecheap        |
-| dock.casa    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| dock.casa    | resell    | —         | —             | low            | low    | 4      | Dynadot Inc      |
 | and.casa     | premium   | $96       | $11.80        | high           | medium | 3      | namesilo         |
 | blob.casa    | available | $1.99     | —             | medium         | low    | 4      | name.com         |
 | food.casa    | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.  |
@@ -80,10 +80,10 @@ print(df.head())
 | life.casa    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
 | ate.casa     | premium   | $96       | $11.80        | high           | low    | 3      | namesilo         |
 | clxx.casa    | available | $1.98     | $17.98        | low            | low    | 4      | namecheap        |
-| link.casa    | resell    | —         | —             | medium         | high   | 4      | Dynadot Inc      |
+| brave.casa   | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc.  |
 | beg.casa     | premium   | $96       | $11.80        | medium         | low    | 3      | namesilo         |
-| cyan.casa    | available | $1.99     | —             | high           | low    | 4      | name.com         |
-| open.casa    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| damn.casa    | available | $2.19     | $12.99        | medium         | low    | 4      | namesilo         |
+| queen.casa   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,651 live domains                        |
+| 1,000-row public sample | 30,094 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 15 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASA One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASA One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
