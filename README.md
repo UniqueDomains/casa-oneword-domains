@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .casa one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,094 domains · **Median ask:** $11.07 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/casa`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,12 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| fancy.casa   | premium   | $47.20    | $11.80        | high           | low    | 5      | namesilo         |
+| leg.casa     | premium   | $96       | $11.80        | high           | low    | 3      | namesilo         |
+| primary.casa | premium   | $47.20    | $11.80        | high           | low    | 7      | namesilo         |
+| uncle.casa   | available | $2.19     | $12.99        | high           | low    | 5      | namesilo         |
+| class.casa   | premium   | $100      | —             | high           | low    | 5      | name.com         |
+| diy.casa     | premium   | $242      | $11.80        | high           | low    | 3      | namesilo         |
 | able.casa    | available | $2.19     | $12.99        | medium         | low    | 4      | namesilo         |
 | romance.casa | resell    | $17.98    | —             | high           | low    | 7      | Spaceship, Inc.  |
 | air.casa     | premium   | $96       | $11.80        | medium         | low    | 3      | namesilo         |
@@ -78,12 +84,6 @@ print(df.head())
 | ass.casa     | premium   | $96       | $11.80        | low            | low    | 3      | namesilo         |
 | buns.casa    | available | $1.98     | $17.98        | low            | low    | 4      | namecheap        |
 | life.casa    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
-| ate.casa     | premium   | $96       | $11.80        | high           | low    | 3      | namesilo         |
-| clxx.casa    | available | $1.98     | $17.98        | low            | low    | 4      | namecheap        |
-| brave.casa   | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc.  |
-| beg.casa     | premium   | $96       | $11.80        | medium         | low    | 3      | namesilo         |
-| damn.casa    | available | $2.19     | $12.99        | medium         | low    | 4      | namesilo         |
-| queen.casa   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CASA One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CASA One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
