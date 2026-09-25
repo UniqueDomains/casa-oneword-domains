@@ -1,1001 +1,1001 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 bc7d20f1-e0be-4ece-9dd3-fbd5afbd8bab,howso.casa,available,2.19,12.99,medium,low,6,namesilo,,,
 fe4f59e2-6cdb-45b2-9172-9edb02d7c822,baneful.casa,available,1.98,17.98,low,low,7,namecheap,,,08/08/2026 09:44
-1ed2d24b-a084-4051-995d-30984677c194,ascendant.casa,available,1.98,17.98,low,low,9,namecheap,,,
-64a0da8a-d1d2-48cd-8695-b4805260e532,lordloveyou.casa,available,17.98,,medium,low,13,namecheap,,,
-e9beadb3-9bb5-4de1-90e6-15f97ebbf09b,aboveboard.casa,available,1.98,17.98,low,low,10,namecheap,,,
-9f7204ed-a050-4a90-a619-2f476bd72679,hallwaymonitor.casa,available,17.98,,medium,low,15,namecheap,,,
-da8017b0-4e8d-4288-a266-13d8b7079bdd,arbitral.casa,available,1.98,17.98,low,low,8,namecheap,,,06/08/2026 12:48
-5abb1cc2-543b-481e-be40-07ac76e3595b,aeriferous.casa,available,1.98,17.98,low,low,10,namecheap,,,
+1ed2d24b-a084-4051-995d-30984677c194,ascendant.casa,available,1.98,17.98,high,low,9,namecheap,,,
+e9beadb3-9bb5-4de1-90e6-15f97ebbf09b,aboveboard.casa,available,1.98,17.98,medium,low,10,namecheap,,,
+da8017b0-4e8d-4288-a266-13d8b7079bdd,arbitral.casa,available,1.98,17.98,medium,low,8,namecheap,,,06/08/2026 12:48
+5abb1cc2-543b-481e-be40-07ac76e3595b,aeriferous.casa,available,1.98,17.98,medium,low,10,namecheap,,,
 7ba92165-4e6a-4081-813b-1d14f6dd6281,unmannered.casa,available,1.98,17.98,low,low,10,namecheap,,,08/08/2026 07:28
-1be1e6d9-4d19-4c03-aac7-9ccfab05d10b,newyear.casa,available,2.19,12.99,medium,low,8,namesilo,,,
-e72288a0-e009-4874-86a2-d88c2e936dcd,westwood.casa,premium,96,11.8,low,low,8,namesilo,,,
-d287bf71-0fbb-46c4-ad26-da0c77c4610e,studiocity.casa,available,2.19,12.99,low,low,11,namesilo,,,
-b97aa389-d3e9-4e0f-9321-2c88be86c841,unhappy.casa,available,17.98,,high,low,7,namecheap,,,
-9e0c6bd6-2a61-4b7f-a5ea-f0a2c0b8408b,albinal.casa,available,1.98,17.98,low,low,7,namecheap,,,
-7e167b7e-49e1-451d-8f48-39a5600e914c,bearsized.casa,available,1.98,17.98,low,low,10,namecheap,,,09/08/2026 04:23
+e72288a0-e009-4874-86a2-d88c2e936dcd,westwood.casa,premium,96,11.8,high,low,8,namesilo,,,
 9922bdc5-5499-46b3-879f-3257663f8f63,scented.casa,premium,47.2,11.8,high,low,7,namesilo,,,
 c555a370-f8f7-4a85-8430-9aae5e559fd7,complement.casa,available,2.19,12.99,high,low,10,namesilo,,,
-7f8b078f-a72b-4d6c-bd65-1fad1e9f4242,autogamic.casa,available,1.98,17.98,low,low,9,namecheap,,,07/08/2026 20:11
-111ed6bd-2a4a-4f7a-a3ba-5e74b77ae004,fellowcitizen.casa,available,2.19,12.99,medium,low,14,namesilo,,,
-930db6ab-972f-42dd-b142-0800157133a5,barbiepink.casa,available,2.19,12.99,high,low,11,namesilo,,,
-db8d1acd-6bf9-4637-86eb-89d9e916cf2e,planned.casa,available,2.19,12.99,medium,low,7,namesilo,,,21/09/2026 22:06
-72162a11-a7f5-452c-94c7-1c9980b3d60d,brief.casa,available,1.98,17.98,medium,low,5,namecheap,,,21/09/2026 13:42
-33fad73d-746b-4c72-ad90-31774c4906f0,determined.casa,available,2.19,12.99,high,low,10,namesilo,,,
 3cb84055-86b5-427d-b7c5-bde278e4ca0b,november.casa,available,2.19,12.99,high,low,8,namesilo,,,
-d17d19cc-bace-4b5d-b750-ba9080aa0c6e,carryout.casa,available,2.19,12.99,high,low,9,namesilo,,,
-d545a47b-0b46-4f4a-a589-51b4360f796b,keepup.casa,available,2.19,12.99,high,low,7,namesilo,,,
-d9eb86b6-abd0-43c5-856e-cabc0b8a6a8b,oxygen.casa,premium,47.2,11.8,medium,low,6,namesilo,,,
+d9eb86b6-abd0-43c5-856e-cabc0b8a6a8b,oxygen.casa,premium,47.2,11.8,high,low,6,namesilo,,,
 85de439c-c1e4-495e-a680-10412c11f0b4,woman.casa,resell,,,high,low,5,"Spaceship, Inc.",01/12/2025 21:38,01/12/2026 21:38,
 9ee08e90-0991-4811-9c89-93ec75e5c9e7,cannot.casa,available,2.19,12.99,high,low,6,namesilo,,,
 3151683c-fb06-44aa-9acb-a5b17bbe7f50,replace.casa,premium,47.2,11.8,high,low,7,namesilo,,,
-88fdd6ae-3ee5-4553-b233-aba566dc8b66,fortyeight.casa,available,2.19,12.99,high,low,11,namesilo,,,
-3add093d-af0d-4131-9b1b-5a8cd4ba1ca5,graywolf.casa,available,2.19,12.99,high,low,9,namesilo,,,
-8c7ace64-ec05-4ed4-a17a-41f05ce1fc4b,dong.casa,available,17.98,,medium,low,4,namecheap,,,
-ec7cdb16-6deb-4e48-b14c-e7260757d839,azotic.casa,available,1.98,17.98,low,low,6,namecheap,,,08/08/2026 02:53
+8c7ace64-ec05-4ed4-a17a-41f05ce1fc4b,dong.casa,available,17.98,,high,low,4,namecheap,,,
+ec7cdb16-6deb-4e48-b14c-e7260757d839,azotic.casa,available,1.98,17.98,medium,low,6,namecheap,,,08/08/2026 02:53
 ba2a19af-1812-42fa-b943-798679e2738d,isle.casa,available,2.19,12.99,high,low,4,namesilo,,,
-ef04346c-e917-45d1-ae9e-4ace20bf9fc0,eremitical.casa,available,1.98,17.98,low,low,10,namecheap,,,
 458606b8-940d-481e-b90a-2fa50b183b3f,boat.casa,premium,96,11.8,high,low,4,namesilo,,,
-198cffb9-a142-4044-b317-2b210ffccdbb,eyrie.casa,available,1.98,17.98,medium,low,5,namecheap,,,
-30e44072-5258-4e24-a8ab-8cc0bf14bb97,biddable.casa,available,1.98,17.98,low,low,8,namecheap,,,
-5546bf24-f5a3-417a-b31b-5d86581427f0,extensive.casa,premium,50,23.99,low,low,9,name.com,,,
-d3053756-5031-411c-beb1-54fee3866eb7,abovewritten.casa,available,2.19,12.99,low,low,13,namesilo,,,
+198cffb9-a142-4044-b317-2b210ffccdbb,eyrie.casa,available,1.98,17.98,high,low,5,namecheap,,,
+30e44072-5258-4e24-a8ab-8cc0bf14bb97,biddable.casa,available,1.98,17.98,medium,low,8,namecheap,,,
+5546bf24-f5a3-417a-b31b-5d86581427f0,extensive.casa,premium,50,23.99,high,low,9,name.com,,,
 c2eea7fd-2968-4164-9e97-aec59b3e2661,valuable.casa,premium,47.2,11.8,high,low,8,namesilo,,,
-5a9bd15f-364e-4cc9-9790-de61d4a0b373,drawup.casa,available,2.19,12.99,high,low,7,namesilo,,,
 e68fdfb9-80d3-4362-a465-894c39c5c69e,lowercase.casa,available,2.19,12.99,high,low,9,namesilo,,,
-7d7d3b3d-8a98-4e58-9570-2d1060da0c99,hacking.casa,available,2.19,12.99,medium,low,7,namesilo,,,
-550b8d01-533b-406c-93c8-c74359ce19f8,acoustic.casa,available,1.98,17.98,low,low,8,namecheap,,,
-b3703bd4-101c-46b8-8250-c9f6afa004ed,blackcomedy.casa,available,2.19,12.99,high,low,12,namesilo,,,
+7d7d3b3d-8a98-4e58-9570-2d1060da0c99,hacking.casa,available,2.19,12.99,high,low,7,namesilo,,,
+550b8d01-533b-406c-93c8-c74359ce19f8,acoustic.casa,available,1.98,17.98,high,low,8,namecheap,,,
 babf5ed5-170c-47c2-866d-a2fa01ffb018,electricity.casa,premium,52,13,high,low,11,namecheap,,,
-2e71c135-26a2-4991-a8c4-103033b8b9c8,hermitic.casa,available,1.98,17.98,low,low,8,namecheap,,,
 a6793b4e-c66c-46e1-9f99-b36fa5bb1e32,ocean.casa,premium,47.2,47.2,high,low,5,namesilo,,,
 210a6335-9908-41e2-988b-636fffcd34e6,significant.casa,available,2.19,12.99,high,low,11,namesilo,,,
-0aa7c55f-2f53-4a46-b339-f8d1316255ed,gail.casa,available,2.19,12.99,medium,low,4,namesilo,,,
-9d0455ad-f51b-47be-a1df-16459c062dc8,azoic.casa,available,1.98,17.98,low,low,5,namecheap,,,08/08/2026 02:22
-5fe89be8-70d0-401c-a74d-f1169165b1a6,air.casa,premium,96,11.8,medium,low,3,namesilo,,,19/09/2026 13:23
-b5486250-b8c5-4731-832c-04630f4fd9c7,handdown.casa,available,1.98,17.98,low,low,9,namecheap,,,20/08/2026 23:08
-fd1eae38-b713-495b-8415-bedee144e1bd,carousing.casa,available,1.98,17.98,low,low,9,namecheap,,,08/08/2026 04:24
-ad234324-44b6-41b1-8420-2d59d64cf04f,baldfaced.casa,available,1.98,17.98,low,low,10,namecheap,,,08/08/2026 09:26
-f50bce4b-a7b8-47b7-b769-352ec22351e8,nonstop.casa,available,2.19,12.99,medium,low,7,namesilo,,,22/09/2026 08:07
-28f64af9-e1b9-4945-a547-457038af63a0,platter.casa,available,2.19,12.99,medium,low,7,namesilo,,,
-6487b59c-325b-41a7-912b-ae6511274088,environment.casa,available,2.19,12.99,medium,low,11,namesilo,,,23/09/2026 08:17
-9f9a9819-a249-4e00-8057-23fd0b7b23dc,shiny.casa,premium,47.2,11.8,medium,low,5,namesilo,,,23/09/2026 11:51
-eef6f7aa-80e3-4b7c-a135-e8a2fe22b8b2,havethelastlaugh.casa,available,2.19,12.99,high,low,19,namesilo,,,
-f7a7b532-d3ef-45fa-ba81-ab9fd86e6345,fellowman.casa,available,2.19,12.99,medium,low,10,namesilo,,,21/09/2026 03:03
-531fd6d4-c212-41d4-9d2d-90469f9fa324,streamer.casa,available,1.98,17.98,low,low,8,namecheap,,,08/08/2026 13:57
-1947cdbb-ccc3-4763-80b6-f3c5ca3ea210,beastly.casa,available,1.98,17.98,low,low,7,namecheap,,,09/08/2026 04:54
-95155aff-c50a-4ff6-bdc9-ccdc1604a1ee,lxxv.casa,available,1.98,17.98,low,low,4,namecheap,,,
+0aa7c55f-2f53-4a46-b339-f8d1316255ed,gail.casa,available,2.19,12.99,high,low,4,namesilo,,,
+9d0455ad-f51b-47be-a1df-16459c062dc8,azoic.casa,available,1.98,17.98,medium,low,5,namecheap,,,08/08/2026 02:22
+fd1eae38-b713-495b-8415-bedee144e1bd,carousing.casa,available,1.98,17.98,medium,low,9,namecheap,,,08/08/2026 04:24
+28f64af9-e1b9-4945-a547-457038af63a0,platter.casa,available,2.19,12.99,high,low,7,namesilo,,,
+531fd6d4-c212-41d4-9d2d-90469f9fa324,streamer.casa,available,1.98,17.98,high,low,8,namecheap,,,08/08/2026 13:57
+1947cdbb-ccc3-4763-80b6-f3c5ca3ea210,beastly.casa,available,1.98,17.98,medium,low,7,namecheap,,,09/08/2026 04:54
+95155aff-c50a-4ff6-bdc9-ccdc1604a1ee,lxxv.casa,available,1.98,17.98,medium,low,4,namecheap,,,
 45529e8d-5ddf-4942-9d1c-c2846c18189b,cockpit.casa,available,2.19,12.99,high,low,7,namesilo,,,
-0dfd60b1-a054-4127-8c1f-6c14f34aeac4,indrawing.casa,available,2.19,12.99,low,low,10,namesilo,,,
-91a5be66-87b5-4f8b-b462-1fef76e9af96,lplate.casa,available,2.19,12.99,medium,low,7,namesilo,,,
-e00cb70a-5749-4d97-9f04-c2c9af49c209,thinkof.casa,available,2.19,12.99,medium,low,8,namesilo,,,
 97fcbaef-03a5-4446-9f7b-9019792d4f05,berlin.casa,available,2.19,12.99,high,low,6,namesilo,,,
-d58d1e82-a43f-4d6b-a41d-aeedc15d242b,liv.casa,premium,47.2,11.8,low,low,3,namesilo,,,
-2752158a-fb13-425d-a3bf-8a6c2e25d07f,getthere.casa,available,2.19,12.99,high,low,9,namesilo,,,
-a0fe2f3a-253f-490b-bbfd-ff771c622581,unhappiness.casa,available,17.98,,low,low,11,namecheap,,,
-f4799dc0-3874-4520-b78b-b30015e17473,bacillary.casa,available,1.98,17.98,low,low,9,namecheap,,,08/08/2026 04:56
-283eb350-084f-472c-9257-349ab5f2e235,instantmessage.casa,available,17.98,,high,low,15,namecheap,,,
+d58d1e82-a43f-4d6b-a41d-aeedc15d242b,liv.casa,premium,47.2,11.8,high,low,3,namesilo,,,
+a0fe2f3a-253f-490b-bbfd-ff771c622581,unhappiness.casa,available,17.98,,medium,low,11,namecheap,,,
 933d450e-f34e-4868-90e0-a97ea1a82448,police.casa,resell,,,high,low,6,"Spaceship, Inc.",22/02/2026 17:45,22/02/2027 17:45,
-7db33d1c-528f-431a-9ab7-fac38fb827df,aphonic.casa,available,1.98,17.98,low,low,7,namecheap,,,05/08/2026 23:17
-22a40b49-3c90-4e8f-b346-d2013da45a64,signlanguage.casa,available,2.19,12.99,medium,low,13,namesilo,,,
-6b6634dd-5b00-4379-840e-f45c5f0c440a,evident.casa,available,1.98,17.98,low,low,7,namecheap,,,06/08/2026 05:13
-edb859a7-a28d-4d56-ac45-2fd654fbd713,longhaired.casa,available,17.98,,low,low,11,namecheap,,,
-be3ea23e-a1f2-4ca6-a8fe-94ac41af5aaa,monitor.casa,premium,47.2,11.8,medium,low,7,namesilo,,,
-73592169-a480-47b3-878b-718a8ccc8efc,awlshaped.casa,available,1.98,17.98,low,low,10,namecheap,,,08/08/2026 01:10
-51766b1c-01a1-4010-a29b-faea197fe990,artnouveau.casa,premium,96,11.8,medium,low,11,namesilo,,,
+7db33d1c-528f-431a-9ab7-fac38fb827df,aphonic.casa,available,1.98,17.98,medium,low,7,namecheap,,,05/08/2026 23:17
+6b6634dd-5b00-4379-840e-f45c5f0c440a,evident.casa,available,1.98,17.98,high,low,7,namecheap,,,06/08/2026 05:13
+be3ea23e-a1f2-4ca6-a8fe-94ac41af5aaa,monitor.casa,premium,47.2,11.8,high,low,7,namesilo,,,
 fb939fd2-e6cb-4455-b6f3-1c44b4175279,lacking.casa,premium,47.2,11.8,high,low,7,namesilo,,,
-d8b3564a-d882-40a7-8015-f719f4740b94,anorectic.casa,available,1.98,17.98,low,low,9,namecheap,,,
-ffa6339e-73c4-493a-ba66-2b246fcb7670,burned.casa,available,2.19,12.99,low,low,6,namesilo,,,23/09/2026 11:37
-5aef68e4-dbb6-47c8-9ebf-c6fa8f6a4e8a,aquiferous.casa,available,1.98,17.98,low,low,10,namecheap,,,06/08/2026 10:55
-358e42f5-321d-4ab2-8fed-7cee4029e00a,accurst.casa,available,1.98,17.98,low,low,7,namecheap,,,
-e6f57d32-d203-487b-b0cc-46edb17cee1a,whopping.casa,premium,47.2,11.8,low,low,8,namesilo,,,08/08/2026 13:14
-933ed5de-49e4-4b24-86a0-346354b78cd2,xxxi.casa,available,1.98,17.98,low,low,4,namecheap,,,
+358e42f5-321d-4ab2-8fed-7cee4029e00a,accurst.casa,available,1.98,17.98,medium,low,7,namecheap,,,
+e6f57d32-d203-487b-b0cc-46edb17cee1a,whopping.casa,premium,47.2,11.8,high,low,8,namesilo,,,08/08/2026 13:14
+933ed5de-49e4-4b24-86a0-346354b78cd2,xxxi.casa,available,1.98,17.98,high,low,4,namecheap,,,
 e4e8571a-e0a6-443a-a35e-ace14a9022e9,sets.casa,premium,47.2,11.8,medium,low,4,namesilo,,,
-73d4c7b2-52a2-4b8a-a912-8488e39365e1,keepsomeonecompany.casa,available,2.19,12.99,high,low,20,namesilo,,,
-5ca58066-d881-4664-b644-a9969c367914,antennary.casa,available,1.98,17.98,low,low,9,namecheap,,,
-5314afff-9bc4-4848-aaeb-8bb6681065be,ablated.casa,available,,,low,low,7,,,,
+5314afff-9bc4-4848-aaeb-8bb6681065be,ablated.casa,available,,,medium,low,7,,,,
 71ad7b91-0504-4d00-b1ac-ae9462ad5e46,clap.casa,premium,47.2,11.8,high,low,4,namesilo,,,
-55e7bfbb-c84f-4b35-b1ef-446c067c631e,answerable.casa,available,2.19,12.99,medium,low,10,namesilo,,,22/09/2026 05:32
 f27a8c48-5cd9-4ee6-b84b-5cb032a47977,crash.casa,premium,47.2,11.8,high,low,5,namesilo,,,
-d0feaac6-c3c8-4d40-b402-a8edb321972b,starred.casa,available,1.98,17.98,low,low,7,namecheap,,,07/08/2026 08:52
-b1f22be7-0bc6-4212-bd87-12454c5fa099,pen.casa,premium,96,11.8,medium,low,3,namesilo,,,
-4cecb839-a7c6-4b6e-aae1-9f057cf824bc,idolized.casa,available,1.98,17.98,low,low,8,namecheap,,,
-edc8aa8b-6b84-438a-ace9-f1a644ba6762,joint.casa,premium,47.2,11.8,medium,low,5,namesilo,,,22/09/2026 08:50
-079d44dc-1471-45ae-bf31-c73de0b6ca83,politicalparty.casa,available,17.98,,medium,low,15,namecheap,,,
-a080ec7d-36e2-444c-a861-746b49065436,oppose.casa,available,2.19,12.99,medium,low,6,namesilo,,,
+d0feaac6-c3c8-4d40-b402-a8edb321972b,starred.casa,available,1.98,17.98,medium,low,7,namecheap,,,07/08/2026 08:52
+b1f22be7-0bc6-4212-bd87-12454c5fa099,pen.casa,premium,96,11.8,high,low,3,namesilo,,,
+4cecb839-a7c6-4b6e-aae1-9f057cf824bc,idolized.casa,available,1.98,17.98,high,low,8,namecheap,,,
+a080ec7d-36e2-444c-a861-746b49065436,oppose.casa,available,2.19,12.99,high,low,6,namesilo,,,
 8a37d1db-be5e-4fc7-85de-c2fef84de1aa,hurry.casa,premium,50,,high,low,5,name.com,,,
 c14736ef-9e61-43a6-8f76-42af18bedfd1,informative.casa,available,17.98,,high,low,11,namecheap,,,
-68717b20-5c4e-409f-8ad9-71f0bdf4c263,sliced.casa,available,2.19,12.99,medium,low,6,namesilo,,,23/09/2026 14:26
-48fe7001-4955-469a-ba53-0ab0d458775b,shaking.casa,available,2.19,12.99,medium,low,7,namesilo,,,
-0b052056-36ef-420f-b763-38cfaae6794f,seedy.casa,available,1.98,17.98,low,low,5,namecheap,,,
-a10837ad-cc97-43a8-86c4-38b8ff13c9f4,closein.casa,available,2.19,12.99,high,low,8,namesilo,,,
+48fe7001-4955-469a-ba53-0ab0d458775b,shaking.casa,available,2.19,12.99,high,low,7,namesilo,,,
+0b052056-36ef-420f-b763-38cfaae6794f,seedy.casa,available,1.98,17.98,high,low,5,namecheap,,,
 6a3ff7a2-f0ef-490b-a254-641727344e93,pride.casa,available,2.19,12.99,high,low,5,namesilo,,,
-c48d765e-d7a7-4942-a9b8-fa25df909fec,publicschool.casa,available,17.98,,high,low,13,namecheap,,,
 f2b23d16-55cc-406b-9b6e-ad7b01f6529b,swim.casa,premium,47.2,11.8,high,low,4,namesilo,,,
 1c55392d-94f3-493b-a44d-3b86037a285c,spice.casa,available,2.19,12.99,high,low,5,namesilo,,,
-f0c72796-7beb-437e-be23-a405cd87faec,imputable.casa,available,1.98,17.98,low,low,9,namecheap,,,07/08/2026 01:22
 ec62f613-0e6e-4173-b8ac-7d957fb7f744,sharing.casa,available,2.19,12.99,high,low,7,namesilo,,,
-21a12766-f286-4626-b54f-9e39cfb04266,alienating.casa,available,,,medium,low,10,,,,
-523e276c-7b48-46c9-990b-6d48d9a2fa9d,softwarepackage.casa,available,2.19,12.99,high,low,16,namesilo,,,
 db923765-c84c-420e-a4ab-ba5058d9c6d1,life.casa,resell,,,high,medium,4,"Spaceship, Inc.",27/02/2023 00:01,27/02/2027 00:01,
-267d0933-aa44-4832-b2bf-e19c46c7c8d6,discerning.casa,available,1.98,17.98,low,low,10,namecheap,,,06/08/2026 08:23
-7e08934c-6c6e-4515-b6f7-863f90cc4977,clustered.casa,available,1.98,17.98,low,low,9,namecheap,,,
-4f474435-2eb8-4933-9d90-0bba6ee217df,voicemessage.casa,available,2.19,12.99,high,low,13,namesilo,,,
-6a5d97a2-bd6b-44c9-9d2f-2e310f861821,panoplied.casa,available,1.98,17.98,low,low,9,namecheap,,,06/08/2026 21:42
-05387888-5b47-4ae9-83a7-1838b5a46fd8,damn.casa,available,2.19,12.99,medium,low,4,namesilo,,,22/09/2026 00:35
-0483b0fe-d660-401a-9eba-49b91932c52d,sandy.casa,premium,47.2,11.8,low,low,5,namesilo,,,06/08/2026 17:31
-a88a5985-a4bb-476e-a46f-4922cfa95536,blunt.casa,premium,47.2,11.8,low,low,5,namesilo,,,22/09/2026 23:15
-34fecab3-1910-4179-81dc-64ca28ff2608,turmeric.casa,available,2.19,12.99,medium,low,8,namesilo,,,19/09/2026 15:28
-e1efca2c-28fb-4944-8cd2-b8f67b9e2f3b,taxassessment.casa,available,2.19,12.99,medium,low,14,namesilo,,,
-3e8be6ff-b668-4978-82dc-c8f36a776b15,lxxxiv.casa,available,1.98,17.98,low,low,6,namecheap,,,
-ceb7c106-fe9b-4392-a405-2dd9d55ccc59,unioncity.casa,premium,47.2,11.8,low,low,10,namesilo,,,
-5ee8d40d-b571-48bb-b9ef-177f7e45ce57,peachy.casa,available,,,medium,low,6,,,,
-ade4621d-d996-4ea8-b66b-54635dffa017,assailable.casa,available,1.98,17.98,low,low,10,namecheap,,,07/08/2026 05:27
-60a16610-50de-4bd5-8165-79198b84df7b,accountability.casa,available,2.19,12.99,medium,low,14,namesilo,,,
-d87f3055-9999-4449-9f78-2afbc2af4340,iceblue.casa,available,2.19,12.99,high,low,8,namesilo,,,
-64e34ce7-5fc8-4ca2-904c-8209c2bf845c,communist.casa,available,2.19,12.99,low,low,9,namesilo,,,23/09/2026 16:14
-ce23e89c-a77c-4a14-adb2-336b7a84f1c7,chemically.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-263d3225-c28d-4528-9d93-5729e5dec21b,algore.casa,available,2.19,12.99,high,low,7,namesilo,,,
+267d0933-aa44-4832-b2bf-e19c46c7c8d6,discerning.casa,available,1.98,17.98,high,low,10,namecheap,,,06/08/2026 08:23
+7e08934c-6c6e-4515-b6f7-863f90cc4977,clustered.casa,available,1.98,17.98,high,low,9,namecheap,,,
+6a5d97a2-bd6b-44c9-9d2f-2e310f861821,panoplied.casa,available,1.98,17.98,medium,low,9,namecheap,,,06/08/2026 21:42
+0483b0fe-d660-401a-9eba-49b91932c52d,sandy.casa,premium,47.2,11.8,high,low,5,namesilo,,,06/08/2026 17:31
+3e8be6ff-b668-4978-82dc-c8f36a776b15,lxxxiv.casa,available,1.98,17.98,medium,low,6,namecheap,,,
+5ee8d40d-b571-48bb-b9ef-177f7e45ce57,peachy.casa,available,,,high,low,6,,,,
+60a16610-50de-4bd5-8165-79198b84df7b,accountability.casa,available,2.19,12.99,high,low,14,namesilo,,,
 3743f8d6-196e-415a-80a2-9aa2f2c6110d,ages.casa,premium,47.2,11.8,medium,low,4,namesilo,,,
-a4fec669-ba96-4c6b-94cb-d7edd64953d3,brave.casa,resell,,,medium,low,5,"NameCheap, Inc.",24/07/2020 11:42,24/07/2027 11:42,22/09/2026 12:10
-ba645fcd-60e5-4f3b-ad65-6a55fc65b12d,mordacious.casa,available,1.98,17.98,low,low,10,namecheap,,,08/08/2026 16:52
 c5d1bdca-5693-4008-8c82-0eb55a3f0ef4,lettuce.casa,available,17.98,,high,low,7,namecheap,,,
 55e1438a-4d3f-4f3e-9db0-8bb172ba8bd6,rudimentary.casa,available,2.19,12.99,high,low,11,namesilo,,,
-b06ff932-8b27-4761-b196-fa282f31ee3e,allfired.casa,available,1.98,17.98,low,low,9,namecheap,,,
 5a8c0a67-5371-441d-9a33-adf016048a8d,suv.casa,premium,47.2,11.8,high,low,3,namesilo,,,
 68a7256b-7168-4826-a146-8780aa94a452,liquor.casa,available,17.98,,high,low,6,namecheap,,,
 590bde15-1267-4b89-ae1b-bfed6ca965f8,heat.casa,premium,96,11.8,high,low,4,namesilo,,,
 d635f4a4-5daf-47e6-be8f-bd0bdec7c8c2,mum.casa,premium,96,11.8,high,low,3,namesilo,,,
-71211cda-1439-4cbf-ab68-bda341bade06,whatisthat.casa,available,2.19,12.99,low,low,12,namesilo,,,
-c44628ba-c4b6-42d9-afd8-93320c7b9276,turnabout.casa,available,2.19,12.99,low,low,10,namesilo,,,
-050ad918-1e18-4e62-8a18-231648ce575d,feelgood.casa,available,2.19,12.99,high,low,9,namesilo,,,
-6abf0ef3-3ad6-45ab-899d-50f5e1e8433f,westlake.casa,premium,96,11.8,medium,low,8,namesilo,,,
-f94a9728-4f41-4702-8088-58a39ca7b149,childneglect.casa,available,2.19,12.99,medium,low,13,namesilo,,,
-48c2c1b8-83b2-415e-ae1f-736e430088d1,dip.casa,premium,100,23.99,high,low,3,name.com,,,
-28d5deb0-5c30-446e-9983-3126a4f7a002,thirdway.casa,available,2.19,12.99,high,low,9,namesilo,,,
+c44628ba-c4b6-42d9-afd8-93320c7b9276,turnabout.casa,available,2.19,12.99,high,low,10,namesilo,,,
+6abf0ef3-3ad6-45ab-899d-50f5e1e8433f,westlake.casa,premium,96,11.8,high,low,8,namesilo,,,
 255a45d8-ab29-448e-972a-ead4568c0145,creek.casa,premium,50,,high,low,5,name.com,,,
-6334fb68-63e8-4a6c-865c-3145141255db,styptic.casa,available,1.98,17.98,low,low,7,namecheap,,,07/08/2026 10:00
+6334fb68-63e8-4a6c-865c-3145141255db,styptic.casa,available,1.98,17.98,medium,low,7,namecheap,,,07/08/2026 10:00
 1af6bc36-85a3-4374-a1a8-2b944a575c16,interstate.casa,available,2.19,12.99,high,low,10,namesilo,,,
-acfdc008-3cf3-4489-9d3b-3c7d4f408317,givenotice.casa,available,2.19,12.99,medium,low,11,namesilo,,,
-9e1aa2a4-1f80-46e4-ab6e-fba8a2edf7ae,febrifuge.casa,available,1.98,17.98,medium,low,9,namecheap,,,
-1e602211-47f4-4068-81a5-cc7b19458da7,clxxx.casa,available,1.98,17.98,low,low,5,namecheap,,,
-27b4336d-28aa-4dbe-8899-7854f6ea0040,poor.casa,premium,47.2,11.8,medium,low,4,namesilo,,,
-60aee46e-333b-4040-9ff6-03b4a2e804e3,passengerseat.casa,available,17.98,,high,low,14,namecheap,,,
-52b87690-8ed3-4b8a-af34-4c821eb21ccd,actiondoll.casa,available,2.19,12.99,high,low,11,namesilo,,,
-a94bc89b-8290-4c45-9f45-1678ff40fe1f,spongecake.casa,available,17.98,,medium,low,11,namecheap,,,
-bcea00a7-4d69-4479-8b96-22590633945f,beechen.casa,available,1.98,17.98,low,low,7,namecheap,,,09/08/2026 07:39
-b7de1d11-f8c4-416b-a3b5-35fb7394f896,controversial.casa,available,2.19,12.99,high,low,13,namesilo,,,
-1dbbe283-0803-4713-9af8-56fc0dea14c3,restructuring.casa,available,2.19,12.99,medium,low,13,namesilo,,,
+1e602211-47f4-4068-81a5-cc7b19458da7,clxxx.casa,available,1.98,17.98,medium,low,5,namecheap,,,
+b7de1d11-f8c4-416b-a3b5-35fb7394f896,controversial.casa,available,2.19,12.99,medium,low,13,namesilo,,,
+1dbbe283-0803-4713-9af8-56fc0dea14c3,restructuring.casa,available,2.19,12.99,high,low,13,namesilo,,,
 0ae660d8-66a9-4189-8384-6d5b2e6fdf7a,diving.casa,premium,47.2,11.8,high,low,6,namesilo,,,
-41dbf56c-0f01-4fe7-9042-dc3fb7285c7f,genuinely.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-50bed8f3-da9b-4b16-b8af-e6bb0e593b8c,autotomic.casa,available,1.98,17.98,low,low,9,namecheap,,,07/08/2026 21:13
-bc3765d1-732f-430b-9af8-6de723d090d7,relieved.casa,available,1.98,17.98,low,low,8,namecheap,,,
+41dbf56c-0f01-4fe7-9042-dc3fb7285c7f,genuinely.casa,available,2.19,12.99,high,low,9,namesilo,,,
+50bed8f3-da9b-4b16-b8af-e6bb0e593b8c,autotomic.casa,available,1.98,17.98,medium,low,9,namecheap,,,07/08/2026 21:13
+bc3765d1-732f-430b-9af8-6de723d090d7,relieved.casa,available,1.98,17.98,high,low,8,namecheap,,,
 1fcc4d21-8e3c-4ba0-ac7c-639845963b75,pot.casa,premium,242,11.8,high,low,3,namesilo,,,
 e7b493f9-7261-484d-ab08-83e71aa67b32,flowers.casa,premium,242,11.8,high,medium,7,namesilo,,,
-568e405e-40bc-42b2-b79c-11b7d809129a,resultant.casa,available,1.98,17.98,low,low,9,namecheap,,,
-a8207db8-1956-43fd-96f4-201ea10b7eb3,letterperfect.casa,available,2.19,12.99,high,low,14,namesilo,,,
-d224c797-3575-4791-8b1c-c377250a52b1,undeveloped.casa,available,17.98,,low,low,11,namecheap,,,
-2959f910-61a4-4b0d-b35e-e75fd86b8eda,baleful.casa,available,1.98,17.98,low,low,7,namecheap,,,08/08/2026 09:39
-d609b738-9c6a-47d3-98ea-8b93849ae892,bedlinen.casa,available,2.19,12.99,low,low,9,namesilo,,,22/09/2026 22:56
+568e405e-40bc-42b2-b79c-11b7d809129a,resultant.casa,available,1.98,17.98,high,low,9,namecheap,,,
+d224c797-3575-4791-8b1c-c377250a52b1,undeveloped.casa,available,17.98,,high,low,11,namecheap,,,
+2959f910-61a4-4b0d-b35e-e75fd86b8eda,baleful.casa,available,1.98,17.98,medium,low,7,namecheap,,,08/08/2026 09:39
 62b893b9-a2b7-4214-aee4-c46ac3b38e4e,fanta.casa,available,17.98,,high,low,5,namecheap,,,
 36694366-8fe8-4afa-8b91-2a91885f4f4d,ropes.casa,available,2.19,12.99,medium,low,5,namesilo,,,
-cd9ad620-1b39-4679-a290-bd6ba4a26ce0,atthemoment.casa,available,2.19,12.99,high,low,13,namesilo,,,
-78e86ab9-088a-4510-abfe-07036b6a84e7,influential.casa,available,1.98,17.98,medium,low,11,namecheap,,,08/09/2026 05:20
-2ce904db-a0e8-446e-81df-82dfb8e4cb5f,atrophied.casa,available,1.98,17.98,low,low,9,namecheap,,,07/08/2026 14:56
-0cc8c304-f4c9-4138-be22-6429a584e56a,fortysix.casa,available,1.98,17.98,low,low,9,namecheap,,,
-aaa1daf4-c805-4668-81a4-0142b2334841,childprostitution.casa,available,2.19,12.99,medium,low,18,namesilo,,,
+78e86ab9-088a-4510-abfe-07036b6a84e7,influential.casa,available,1.98,17.98,high,low,11,namecheap,,,08/09/2026 05:20
 022165ff-c848-4cd0-b973-3785bdf9bdcc,relations.casa,available,2.19,12.99,high,low,9,namesilo,,,
 9645bdd5-6677-426b-ada6-fc35440e1b22,firefighter.casa,available,17.98,,high,low,11,namecheap,,,
-dad1c4d6-cd10-4e5a-acd0-3d4c3833eb12,oddman.casa,available,2.19,12.99,low,low,7,namesilo,,,
 87187beb-3385-4c46-92ae-5da9678c333c,latitude.casa,available,2.19,12.99,high,low,8,namesilo,,,
-59777827-7658-49de-8306-6932d6861a0e,earned.casa,available,17.98,,high,low,6,namecheap,,,
-2eaadc7f-8a33-40cf-99b7-033c48683088,alienate.casa,available,1.98,17.98,low,low,8,namecheap,,,
-41edecbe-ce19-4b15-83f1-b6b1c884f480,afrikander.casa,available,1.98,17.98,low,low,10,namecheap,,,
-38e618da-6ddd-47ca-954c-d8c370b3258a,lifelesson.casa,available,17.98,,high,low,11,namecheap,,,
+2eaadc7f-8a33-40cf-99b7-033c48683088,alienate.casa,available,1.98,17.98,high,low,8,namecheap,,,
 0c9cdec7-7b68-4bca-ba26-df1c77bc9e44,want.casa,premium,50,,high,low,4,name.com,,,
-20ab669c-40f1-41ff-8cc1-745a1a9e69bf,avionic.casa,available,1.98,17.98,low,low,7,namecheap,,,07/08/2026 23:35
-03ffcd32-bad7-4b49-8715-e8e9a1d7a684,riveravon.casa,available,2.19,12.99,high,low,10,namesilo,,,
-ea6ccd3e-663c-49ff-ab67-95e2c7158723,abundantly.casa,available,2.19,12.99,low,low,10,namesilo,,,
-1c3a44a5-86ea-4d27-ba59-e523eb3c07af,greatuncle.casa,available,2.19,12.99,medium,low,11,namesilo,,,
-ebcb588b-6eb4-4158-8af9-d7b79031fac6,fifth.casa,available,1.98,17.98,low,low,5,namecheap,,,
-54d39728-c765-4f8d-9067-bcf04211f314,adductive.casa,available,1.98,17.98,low,low,9,namecheap,,,
+20ab669c-40f1-41ff-8cc1-745a1a9e69bf,avionic.casa,available,1.98,17.98,medium,low,7,namecheap,,,07/08/2026 23:35
+ea6ccd3e-663c-49ff-ab67-95e2c7158723,abundantly.casa,available,2.19,12.99,high,low,10,namesilo,,,
+ebcb588b-6eb4-4158-8af9-d7b79031fac6,fifth.casa,available,1.98,17.98,high,low,5,namecheap,,,
+54d39728-c765-4f8d-9067-bcf04211f314,adductive.casa,available,1.98,17.98,medium,low,9,namecheap,,,
 75184856-d6d9-4d59-858a-28d919e236a5,touch.casa,premium,47.2,11.8,high,low,5,namesilo,,,
-e478621e-2602-4d0e-a6a2-354079cc3dad,oneman.casa,available,2.19,12.99,low,low,7,namesilo,,,
 c8c1fcb0-5ebb-4fd3-a8a1-2ea2e266ce75,uml.casa,premium,47.2,11.8,high,low,3,namesilo,,,
 f4dd7050-6840-4a4c-965c-22349c4fa31d,stink.casa,available,2.19,12.99,high,low,5,namesilo,,,
-c903cc87-a562-4a3e-af1c-e07fc4690646,tectonic.casa,available,1.98,17.98,low,low,8,namecheap,,,06/08/2026 15:47
-194a5456-b2f2-4f0e-af0f-cf9d56429213,them.casa,available,2.19,12.99,medium,low,4,namesilo,,,
-4a556a16-eb3e-4a13-8f84-66de3040bdd2,amnic.casa,available,1.98,17.98,low,low,5,namecheap,,,
-5bae613b-cf17-49ee-b93c-3bc1e4771c47,ambagious.casa,available,1.98,17.98,low,low,9,namecheap,,,
+c903cc87-a562-4a3e-af1c-e07fc4690646,tectonic.casa,available,1.98,17.98,high,low,8,namecheap,,,06/08/2026 15:47
+194a5456-b2f2-4f0e-af0f-cf9d56429213,them.casa,available,2.19,12.99,high,low,4,namesilo,,,
+4a556a16-eb3e-4a13-8f84-66de3040bdd2,amnic.casa,available,1.98,17.98,medium,low,5,namecheap,,,
 7281ba36-fb90-46a5-ac81-f2cebc922f57,dismay.casa,available,2.19,12.99,high,low,6,namesilo,,,
-ba4c300d-76d7-49d6-945d-3ff9ba54ae0f,conformto.casa,available,2.19,12.99,high,low,10,namesilo,,,
-4c073124-7929-412b-9ff3-3c11ddf44b74,scornful.casa,available,2.19,12.99,low,low,8,namesilo,,,23/09/2026 21:53
 51bba0fc-2533-48de-ab3d-1039a29286bf,existence.casa,available,2.19,12.99,high,low,9,namesilo,,,
 ff72d32f-02a2-46af-995e-9248d9a76185,regional.casa,available,2.19,12.99,high,low,8,namesilo,,,
-ad715486-f5d1-4244-980d-ee510fa5056d,adulatory.casa,available,1.98,17.98,low,low,9,namecheap,,,
-a3d5a196-f605-4da0-91e8-d69b42717c9e,withoutfail.casa,available,2.19,12.99,high,low,12,namesilo,,,
-f4d448ec-6392-4380-97d5-0ed56c0c9651,fire.casa,premium,47.2,11.8,high,high,4,namesilo,,,
-454cbfc8-c42e-48e8-910b-c02f9df75e14,outdated.casa,available,2.19,12.99,medium,low,8,namesilo,,,
-282837d2-f5ba-4747-b281-e240f5ea99d2,noone.casa,available,2.19,12.99,low,low,6,namesilo,,,20/09/2026 00:54
-6046c3a6-dc72-4f31-91b9-bfb29c796e87,attendant.casa,available,2.19,12.99,medium,low,9,namesilo,,,21/09/2026 15:40
-d9f83789-7f06-45a9-820e-0d4e28aa8729,teenager.casa,available,1.99,23.99,low,low,8,name.com,,,21/09/2026 19:08
+454cbfc8-c42e-48e8-910b-c02f9df75e14,outdated.casa,available,2.19,12.99,high,low,8,namesilo,,,
 eed0e70f-d293-4916-8182-bbb1233a9f0d,smiling.casa,available,2.19,12.99,high,low,7,namesilo,,,
-62bb255c-a35b-448c-a09c-4f77cbb8f390,thelike.casa,available,2.19,12.99,medium,low,8,namesilo,,,
 61f77675-207b-4f8e-bd94-830cacf64e5c,papa.casa,premium,242,11.8,high,low,4,namesilo,,,
-dc9ca61d-e545-4fde-a777-ec45284c5508,aircooled.casa,available,1.98,17.98,low,low,10,namecheap,,,
-32be0c50-42de-42b3-8c93-ab3c98776b0a,howno.casa,available,2.19,12.99,medium,low,6,namesilo,,,
-21398da7-19ef-446d-afde-bd2345ecee74,deviate.casa,available,1.98,17.98,low,low,7,namecheap,,,
+21398da7-19ef-446d-afde-bd2345ecee74,deviate.casa,available,1.98,17.98,high,low,7,namecheap,,,
 4e44f98d-df40-49df-938d-ad8d1dc01c5d,hardworking.casa,available,2.19,12.99,high,low,11,namesilo,,,
 422c9a49-e6a1-48cb-b1a7-92921acc0d1c,joking.casa,available,2.19,12.99,high,low,6,namesilo,,,
-edd299cd-1bcd-4d5c-96f4-2b651a65a073,electronic.casa,available,2.19,12.99,low,low,10,namesilo,,,19/09/2026 14:31
-48989065-4db6-4247-b2bf-2b7da516dcd3,tow.casa,premium,96,11.8,medium,low,3,namesilo,,,
+48989065-4db6-4247-b2bf-2b7da516dcd3,tow.casa,premium,96,11.8,high,low,3,namesilo,,,
 9150525e-fe06-4c0e-8cee-f61d34007ec6,leaders.casa,available,2.19,12.99,high,low,7,namesilo,,,
-78637eec-314a-4295-bb16-3cf8a3439cb4,spectral.casa,available,1.98,17.98,low,low,8,namecheap,,,06/08/2026 05:38
-9157d5fe-4d1e-475e-b88d-c302a0a697ad,alienated.casa,available,1.98,17.98,low,low,9,namecheap,,,
+78637eec-314a-4295-bb16-3cf8a3439cb4,spectral.casa,available,1.98,17.98,high,low,8,namecheap,,,06/08/2026 05:38
+9157d5fe-4d1e-475e-b88d-c302a0a697ad,alienated.casa,available,1.98,17.98,medium,low,9,namecheap,,,
 d29ec795-8e87-4ee9-9156-ad1c4de30c92,czechoslovakia.casa,available,2.19,12.99,medium,low,14,namesilo,,,
-f20eb9f2-c2a3-4607-9ad6-19ec738b7883,rowingboat.casa,available,2.19,12.99,high,low,11,namesilo,,,
-7c404c08-640a-4207-a760-eb476337f318,stigmatic.casa,available,1.98,17.98,low,low,9,namecheap,,,
-a9bdf017-7868-4295-a9d5-61e36cfa632c,familybusiness.casa,available,2.19,12.99,high,low,15,namesilo,,,
 f4efddc2-312b-4d85-9d55-a4d6781371ec,athlete.casa,available,2.19,12.99,high,low,7,namesilo,,,
-19ea76d8-a0ea-4289-8d08-6d0639990616,accumbent.casa,available,1.98,17.98,low,low,9,namecheap,,,
 4e107cf0-7b14-4c7b-96e5-91e46cf67096,supernatural.casa,available,2.19,12.99,high,low,12,namesilo,,,
-cd9524c4-bc30-4eab-90ff-dc690dc8fa7a,parkingspot.casa,available,2.19,12.99,high,low,12,namesilo,,,
-ace83529-3655-48b3-86c5-9b810d8946a5,campaigner.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-da654180-2f41-4a7e-9e2d-942bd0af0c2d,aching.casa,available,1.98,17.98,low,low,6,namecheap,,,
-6d17eb53-1157-4c81-ac24-26b5f80cb733,jealous.casa,available,1.98,17.98,low,low,7,namecheap,,,24/09/2026 01:04
+ace83529-3655-48b3-86c5-9b810d8946a5,campaigner.casa,available,2.19,12.99,high,low,10,namesilo,,,
+da654180-2f41-4a7e-9e2d-942bd0af0c2d,aching.casa,available,1.98,17.98,medium,low,6,namecheap,,,
 9c508619-82b6-4bea-9c4d-1e48e77392a0,indecent.casa,available,2.19,12.99,medium,low,8,namesilo,,,
-90a73909-7caf-45aa-85a2-fa9bf7d5a53c,likehell.casa,available,1.98,17.98,low,low,9,namecheap,,,15/09/2026 11:35
-330cd393-c60e-4d9d-9548-0aab2e0bb701,buns.casa,available,1.98,17.98,low,low,4,namecheap,,,09/08/2026 10:54
-5eacc34f-b6fb-40f8-92fb-6f64c4bbde92,breatheeasy.casa,available,2.19,12.99,high,low,12,namesilo,,,
+330cd393-c60e-4d9d-9548-0aab2e0bb701,buns.casa,available,1.98,17.98,medium,low,4,namecheap,,,09/08/2026 10:54
 8c404266-1e98-4a3f-96b6-f081d38b01b9,lager.casa,available,1.99,,high,low,5,name.com,,,
-81496561-130d-49b5-a13f-b999f0f0ad26,muchas.casa,available,2.19,12.99,medium,low,7,namesilo,,,
 186010f6-f943-4b38-93ba-260d2833501c,pain.casa,available,2.19,12.99,high,low,4,namesilo,,,
-9bc70f08-b8f8-4f82-bc36-590a9b774ed4,composite.casa,available,1.98,17.98,medium,low,9,namecheap,,,23/09/2026 17:39
 df15fb71-598a-459d-bdf2-5df9182d3285,facilitate.casa,available,2.19,12.99,high,low,10,namesilo,,,
-688e57ae-4a32-4ab8-821f-f6dadf701c22,barred.casa,available,1.98,17.98,low,low,6,namecheap,,,08/08/2026 20:37
-075789f3-9b17-432c-9a5b-949d955db5d8,aneyeforaneye.casa,available,2.19,12.99,medium,low,17,namesilo,,,
-5cb57daa-e1cc-4aed-8865-f5546e9505c7,sly.casa,premium,104,13,low,low,3,namecheap,,,24/09/2026 01:29
-d1dff94c-500b-43fe-85bb-77bf97143ffb,adherent.casa,available,1.98,17.98,low,low,8,namecheap,,,
-0404874b-a3fe-4427-b2a3-796ee5dc3a4b,loose.casa,available,1.99,23.99,low,low,5,name.com,,,22/09/2026 10:42
-472a8160-e10c-4861-bfdd-75e1e85fda78,assuring.casa,available,1.98,17.98,low,low,8,namecheap,,,07/08/2026 08:31
+688e57ae-4a32-4ab8-821f-f6dadf701c22,barred.casa,available,1.98,17.98,medium,low,6,namecheap,,,08/08/2026 20:37
+d1dff94c-500b-43fe-85bb-77bf97143ffb,adherent.casa,available,1.98,17.98,high,low,8,namecheap,,,
+472a8160-e10c-4861-bfdd-75e1e85fda78,assuring.casa,available,1.98,17.98,medium,low,8,namecheap,,,07/08/2026 08:31
 b39e30c2-ebd5-4bd2-b44c-84d5ba09179e,lecture.casa,available,2.19,12.99,high,low,7,namesilo,,,
 830649a4-fc2b-4661-bb21-7b2e621ce47c,exhaustion.casa,available,17.98,,medium,low,10,namecheap,,,
-ace506bd-beeb-4ee9-881f-04ce8dd23b8e,outofhand.casa,available,2.19,12.99,low,low,11,namesilo,,,
 8096eb11-ed4a-488e-93c0-e3ecc87a1874,yesterday.casa,premium,47.2,11.8,high,low,9,namesilo,,,
-a4baee37-5120-43a3-ac10-e5585f8088e6,cliche.casa,available,2.19,12.99,medium,low,6,namesilo,,,23/09/2026 16:07
-30f55d4b-417a-4e65-9713-801cc018d117,petalless.casa,available,1.98,17.98,low,low,9,namecheap,,,05/08/2026 22:41
-f64a1b61-eb31-4adf-ab63-75c637b3669e,chemicalweapon.casa,available,17.98,,medium,low,15,namecheap,,,
 6337f751-167a-4d18-b1bf-4cdd844f06b3,immense.casa,premium,47.2,11.8,high,low,7,namesilo,,,
-34628b0e-6b0c-4037-ad1d-371a9ce82c51,liverish.casa,available,1.98,17.98,low,low,8,namecheap,,,07/08/2026 14:19
 87622b1a-27f6-44b8-9e61-a5e43e9dfac7,sale.casa,premium,100,,high,low,4,name.com,,,
-f777b466-3fd4-4b63-b44e-427776d4ffe7,fancy.casa,premium,47.2,11.8,high,low,5,namesilo,,,
-135dc4d9-b461-4188-addb-071c5c816bb8,tertiary.casa,available,1.98,17.98,low,low,8,namecheap,,,
-0f16d3d2-024c-417c-90be-c1e8aed0421c,aone.casa,available,1.98,17.98,low,low,5,namecheap,,,
+135dc4d9-b461-4188-addb-071c5c816bb8,tertiary.casa,available,1.98,17.98,medium,low,8,namecheap,,,
 aff32b71-7683-4232-94b3-b2d34a073ec2,undesirable.casa,available,2.19,12.99,high,low,11,namesilo,,,
-9e7eafbe-6ffc-4b85-a1e7-fd64effff3be,eventhough.casa,available,2.19,12.99,medium,low,11,namesilo,,,
-45bec778-c713-4dd6-ab77-aa9aa9b08462,blacktuesday.casa,available,2.19,12.99,medium,low,13,namesilo,,,
-295097b1-4f3d-481d-b9c3-e93f333188e5,head.casa,premium,47.2,11.8,low,low,4,namesilo,,,23/09/2026 14:18
-dc60c4a7-4643-4824-95dd-4b5a37a2f437,araneidan.casa,available,1.98,17.98,low,low,9,namecheap,,,06/08/2026 12:24
-619f2ff9-99a4-48be-aefa-4d0d033ad4e7,abstainer.casa,available,1.98,17.98,low,low,9,namecheap,,,
-192461c2-b339-4bcf-93c2-720920cb1259,modish.casa,available,1.98,17.98,medium,low,6,namecheap,,,
-592241dc-9af2-4c04-affe-646242d88cc0,component.casa,available,1.98,17.98,medium,low,9,namecheap,,,23/09/2026 20:58
+192461c2-b339-4bcf-93c2-720920cb1259,modish.casa,available,1.98,17.98,high,low,6,namecheap,,,
 84b6ccdd-0491-4f44-b792-eddfde2c9794,atomistic.casa,available,1.98,17.98,low,low,9,namecheap,,,07/08/2026 13:42
 e41cfdd6-b5d8-4175-8f8b-a2c128449a71,dignity.casa,available,2.19,12.99,high,low,7,namesilo,,,
-25b075fa-cdce-4072-ae48-99885560089b,coldrubber.casa,available,2.19,12.99,medium,low,11,namesilo,,,
 54e50c5b-c3fa-48b7-93fb-8f5ba629e61f,literal.casa,available,2.19,12.99,high,low,7,namesilo,,,
-ccaa7687-19b7-4679-99de-fb739e3cae81,pointless.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-1d22fd57-e09f-44f1-941b-eb19687182e0,romannumerals.casa,available,2.19,12.99,low,low,14,namesilo,,,
-a44008db-685a-46c6-94cf-6228b8bdc269,rising.casa,available,,,medium,low,6,,,,
+ccaa7687-19b7-4679-99de-fb739e3cae81,pointless.casa,available,2.19,12.99,high,low,9,namesilo,,,
+a44008db-685a-46c6-94cf-6228b8bdc269,rising.casa,available,,,high,low,6,,,,
 5066d153-0895-45b8-a988-b03106d5f7eb,cell.casa,premium,47.2,11.8,high,low,4,namesilo,,,
-7b18ca0c-a8d8-4342-80fa-0cf4cf16de18,anappleaday.casa,available,17.98,,medium,low,14,namecheap,,,
-77a11ab9-5830-40f2-ae4e-ee5ae1a3f296,thereagain.casa,available,17.98,,low,low,11,namecheap,,,
-60902358-d634-4bf3-b72a-2109b4611386,ibegyourpardon.casa,available,2.19,12.99,medium,low,17,namesilo,,,
-e9f861d7-51ed-4544-b240-5d61317489e5,foreign.casa,premium,47.2,11.8,low,low,7,namesilo,,,
-a8633ee9-9091-4665-b92e-288f4f522ea7,enterthechat.casa,available,2.19,12.99,medium,low,14,namesilo,,,
-9cf24868-b46f-4aa1-ae5a-65a0e6fd2373,abaxial.casa,available,1.98,17.98,low,low,7,namecheap,,,
-8aa42c93-9a94-4935-b975-5391afb0a146,turntup.casa,available,17.98,,high,low,8,namecheap,,,
-b9500f5c-e0a5-4059-b502-150187015665,arboreal.casa,available,1.98,17.98,medium,low,8,namecheap,,,06/08/2026 13:18
-3172edd8-4261-484b-94e4-620193dd57aa,whitegold.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-e12d9968-180c-446b-85b4-f5930f151be1,lightbulb.casa,available,2.19,12.99,high,low,10,namesilo,,,
-c4e7239a-46b4-4ae7-bfa5-2e6beb981433,primetime.casa,available,2.19,12.99,high,low,10,namesilo,,,
-2a46856c-7435-40f5-9f5c-ebc1d69778cb,nutritive.casa,available,1.98,17.98,medium,low,9,namecheap,,,08/09/2026 09:04
+e9f861d7-51ed-4544-b240-5d61317489e5,foreign.casa,premium,47.2,11.8,high,low,7,namesilo,,,
+9cf24868-b46f-4aa1-ae5a-65a0e6fd2373,abaxial.casa,available,1.98,17.98,medium,low,7,namecheap,,,
+b9500f5c-e0a5-4059-b502-150187015665,arboreal.casa,available,1.98,17.98,high,low,8,namecheap,,,06/08/2026 13:18
+2a46856c-7435-40f5-9f5c-ebc1d69778cb,nutritive.casa,available,1.98,17.98,high,low,9,namecheap,,,08/09/2026 09:04
 ec9cc91c-b78b-44ef-922a-f168497c0128,chiliad.casa,available,,,medium,low,7,,,,
-03acbbf5-c78a-434e-8016-2eba09f94538,sloppy.casa,available,1.98,17.98,low,low,6,namecheap,,,08/08/2026 08:22
-939e113d-90f7-4413-b075-8f1e4af55685,rapidantigentest.casa,available,2.19,12.99,high,low,18,namesilo,,,
-6838ba20-dbef-4741-9c52-6f87833e91a6,themorethemerrier.casa,available,2.19,12.99,medium,low,20,namesilo,,,
-b1ef7a5f-8b07-4f73-a0ec-838ab5b382f9,risen.casa,available,17.98,,medium,low,5,namecheap,,,
-c8872455-aab8-4b29-af54-35dbda92ee1c,silverprint.casa,available,2.19,12.99,low,low,12,namesilo,,,
-6f972932-9880-4477-9369-1c0dd426898a,buried.casa,available,2.19,12.99,low,low,6,namesilo,,,23/09/2026 11:29
-981c32df-9097-423e-947f-8f7d864f15ff,justnow.casa,available,2.19,12.99,medium,low,8,namesilo,,,
-e4b4ed17-e584-4a0f-bf0a-f9c15f464670,inshortpants.casa,available,17.98,,medium,low,14,namecheap,,,
+03acbbf5-c78a-434e-8016-2eba09f94538,sloppy.casa,available,1.98,17.98,high,low,6,namecheap,,,08/08/2026 08:22
+b1ef7a5f-8b07-4f73-a0ec-838ab5b382f9,risen.casa,available,17.98,,high,low,5,namecheap,,,
 a0b41e35-ecb1-4253-bc46-6cb3748b7117,apologise.casa,available,2.19,12.99,high,low,9,namesilo,,,
 e07fe302-15bb-417d-be3f-378417f0acf8,organs.casa,available,2.19,12.99,high,low,6,namesilo,,,
-68bc528c-e530-4b82-ac4c-d9b4ccc44862,confusion.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-f01a20b7-787e-401b-8e05-d1e59bdadc5c,peel.casa,premium,47.2,11.8,medium,low,4,namesilo,,,
-ee158234-800a-47c3-8ae0-000de4448bbc,folicacid.casa,available,2.19,12.99,high,low,10,namesilo,,,
-e28773c1-b4ec-48ef-8ebc-68d3194fe334,whitesatin.casa,available,2.19,12.99,medium,low,11,namesilo,,,
+68bc528c-e530-4b82-ac4c-d9b4ccc44862,confusion.casa,available,2.19,12.99,high,low,9,namesilo,,,
+f01a20b7-787e-401b-8e05-d1e59bdadc5c,peel.casa,premium,47.2,11.8,high,low,4,namesilo,,,
 d634f35a-91e9-4e2f-8dd5-7c559647d309,oatmeal.casa,available,2.19,12.99,high,low,7,namesilo,,,
-96c95fa0-e8da-4980-bff7-0c7f551bb669,eater.casa,available,2.19,12.99,low,low,5,namesilo,,,19/09/2026 09:42
-8596aee1-47f1-4408-a035-9340b4df38c3,apophyseal.casa,available,1.98,17.98,low,low,10,namecheap,,,06/08/2026 03:24
 2f303c1a-1e6d-44d1-a622-1010a2589c8b,ford.casa,premium,242,11.8,high,high,4,namesilo,,,
-4d385fd2-a271-4dc7-8020-fe764f6aee8c,grandfatherinlaw.casa,available,2.19,12.99,high,low,18,namesilo,,,
 11593421-99c1-49f6-84c5-c8ed38d1b0aa,condition.casa,available,2.19,12.99,high,low,9,namesilo,,,
-86fbd523-8128-440f-beda-f77f00be32f4,eyewitness.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-48ba0c7a-e3e7-434c-959e-3a15b6ec7ca4,burnt.casa,premium,52,13,low,low,5,namecheap,,,23/09/2026 11:41
-d675eac0-0cac-4653-9261-37e6c8125ed8,ammoniac.casa,available,1.98,17.98,low,low,8,namecheap,,,
-0a6b93f6-3673-41c3-abb1-f621b08061d1,neutrality.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-ccfcfd99-176e-4bec-a6ce-1e2167da58c4,noble.casa,premium,50,23.99,medium,low,5,name.com,,,08/08/2026 20:18
-ce67c6d8-f748-4e92-9d16-45e6cc7eb21b,sundeck.casa,available,17.98,,high,low,8,namecheap,,,
-683c84b4-1493-4cff-8fb1-2b59b6b2b557,amoristic.casa,available,1.98,17.98,low,low,9,namecheap,,,
-2ede060b-0eb0-4068-a8e0-7c2a7e75bcb5,attested.casa,available,1.98,17.98,low,low,8,namecheap,,,07/08/2026 15:41
+86fbd523-8128-440f-beda-f77f00be32f4,eyewitness.casa,available,2.19,12.99,high,low,10,namesilo,,,
+d675eac0-0cac-4653-9261-37e6c8125ed8,ammoniac.casa,available,1.98,17.98,medium,low,8,namecheap,,,
+0a6b93f6-3673-41c3-abb1-f621b08061d1,neutrality.casa,available,2.19,12.99,high,low,10,namesilo,,,
+ccfcfd99-176e-4bec-a6ce-1e2167da58c4,noble.casa,premium,50,23.99,high,low,5,name.com,,,08/08/2026 20:18
+2ede060b-0eb0-4068-a8e0-7c2a7e75bcb5,attested.casa,available,1.98,17.98,medium,low,8,namecheap,,,07/08/2026 15:41
 103c429e-ee74-4776-805e-a69d4b61abc2,respects.casa,available,2.19,12.99,high,low,8,namesilo,,,
-8d8c4da1-28bb-463c-abb7-8a6e5c5a63c8,treeoflife.casa,available,17.98,,medium,low,12,namecheap,,,
-d1eb8146-319b-49f5-a142-ffdf53dc9427,anachronic.casa,available,1.98,17.98,low,low,10,namecheap,,,
-c64156dd-5b28-45f0-bbbf-8b1727ce7b2d,ass.casa,premium,96,11.8,low,low,3,namesilo,,,09/08/2026 12:05
-45af857d-b595-42e0-bed6-957aa21086a2,apheretic.casa,available,1.98,17.98,low,low,9,namecheap,,,05/08/2026 22:50
-2053732d-1403-4b3a-8cfb-c7d7d60cd7ff,wintertire.casa,available,17.98,,high,low,11,namecheap,,,
-6f09e9f6-6c55-4685-b88a-c6c214c1a6e5,wasted.casa,premium,47.2,11.8,low,low,6,namesilo,,,22/09/2026 11:10
-c5faaca2-17c4-4378-abe2-05ac6dfbeccd,socialliberal.casa,available,2.19,12.99,low,low,14,namesilo,,,
+d1eb8146-319b-49f5-a142-ffdf53dc9427,anachronic.casa,available,1.98,17.98,medium,low,10,namecheap,,,
+c64156dd-5b28-45f0-bbbf-8b1727ce7b2d,ass.casa,premium,96,11.8,high,low,3,namesilo,,,09/08/2026 12:05
 db4b916a-6576-416e-a4e1-d99814cffe64,belong.casa,premium,47.2,11.8,high,low,6,namesilo,,,
 fcc8bcb5-c1a1-48f4-8a93-aeb970d25b35,expertise.casa,available,2.19,12.99,high,low,9,namesilo,,,
-00ad3d5a-3ab9-4e61-9140-03f0eb8c1261,relatedto.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-2874de06-4c62-4d99-9f5c-0af349d473db,boots.casa,available,2.19,12.99,medium,low,5,namesilo,,,
-373a6236-4708-4f3a-91db-79a687f2ab38,notions.casa,available,2.19,12.99,low,low,7,namesilo,,,
+2874de06-4c62-4d99-9f5c-0af349d473db,boots.casa,available,2.19,12.99,high,low,5,namesilo,,,
+373a6236-4708-4f3a-91db-79a687f2ab38,notions.casa,available,2.19,12.99,medium,low,7,namesilo,,,
 8cf4c2bf-6882-4e4c-ae38-a10b3574b162,since.casa,available,2.19,12.99,high,low,5,namesilo,,,
-f443070c-1aef-4c6c-a741-07eac463d210,blank.casa,premium,47.2,11.8,low,low,5,namesilo,,,22/09/2026 21:48
 dedc6f55-afbc-4d97-9713-05ed69442f73,plague.casa,available,2.19,12.99,high,low,6,namesilo,,,
-6a687380-d18a-434b-a9f6-96032d956eaf,adequate.casa,premium,52,13,medium,low,8,namecheap,,,21/09/2026 18:22
-0245f479-3067-483f-bfc6-715b56b46230,wagon.casa,available,2.19,12.99,medium,low,5,namesilo,,,
-7bb7ae8a-d46c-4f0d-be21-fed1d4928d47,atfault.casa,available,1.98,17.98,low,low,8,namecheap,,,07/08/2026 11:18
-212e24f6-7286-4599-9301-c2e0e34c8f20,briary.casa,available,1.98,17.98,low,low,6,namecheap,,,08/08/2026 17:02
+0245f479-3067-483f-bfc6-715b56b46230,wagon.casa,available,2.19,12.99,high,low,5,namesilo,,,
+212e24f6-7286-4599-9301-c2e0e34c8f20,briary.casa,available,1.98,17.98,medium,low,6,namecheap,,,08/08/2026 17:02
 bb2d3435-98d0-49e9-94ab-25564fad5eed,understood.casa,available,2.19,12.99,high,low,10,namesilo,,,
-025c680f-c54c-4b15-9825-ad60d5d11daf,annalistic.casa,available,,,medium,low,10,,,,
 ae9c4dc6-33fb-41d0-a4cb-44603391c8cd,sworn.casa,available,2.19,12.99,high,low,5,namesilo,,,
-265e926c-ed4b-490a-a590-f7da601b8ad8,magnifyingglass.casa,available,2.19,12.99,high,low,16,namesilo,,,
-1e3dd51d-8887-4c1a-8803-d2e56368f35b,lynxeyed.casa,available,1.98,17.98,low,low,9,namecheap,,,06/08/2026 18:48
-c35326c6-e4b6-4df9-adf6-a41152cfd764,baboonish.casa,available,1.98,17.98,low,low,9,namecheap,,,08/08/2026 03:42
-c0abe4f4-72d3-4a7c-af6c-cc40e83158b5,aetiologic.casa,available,1.98,17.98,low,low,10,namecheap,,,
-a7fac69a-05a7-48e8-b260-8981182c8384,achievable.casa,available,2.19,12.99,medium,low,10,namesilo,,,21/09/2026 15:42
-902cf261-20e7-4ebd-be54-9082f394d8e3,acarpous.casa,available,1.98,17.98,low,low,8,namecheap,,,
-a1f9f730-6537-47a3-b98d-b4b761e853df,jump.casa,premium,47.2,11.8,low,low,4,namesilo,,,22/09/2026 02:34
-8d827f7a-9740-4671-b79e-12cd1c105cc5,andfinally.casa,available,2.19,12.99,medium,low,11,namesilo,,,
-f3e9bf27-8ce9-437c-b0d6-55c765082437,eve.casa,premium,100,,high,medium,3,name.com,,,
+902cf261-20e7-4ebd-be54-9082f394d8e3,acarpous.casa,available,1.98,17.98,medium,low,8,namecheap,,,
 7692af40-969e-423c-b385-094b832cea41,succeed.casa,available,2.19,12.99,high,low,7,namesilo,,,
 618f5ca2-0421-4de6-ac1a-b5fc7533e700,possession.casa,available,17.98,,high,low,10,namecheap,,,
-e7426347-8a2b-42e2-9b19-91276dd134e1,heavycream.casa,available,2.19,12.99,medium,low,11,namesilo,,,
-ce0b1209-5cdc-4819-9e58-0ff3d28470c6,gillless.casa,available,1.98,17.98,low,low,9,namecheap,,,
-de448afd-ca35-4d93-9bae-492a7bb5e5f1,beatout.casa,available,1.98,17.98,low,low,8,namecheap,,,09/08/2026 05:17
-2be1b096-64d4-4409-bca2-3f7e88c5f9df,unemployment.casa,available,2.19,12.99,low,low,12,namesilo,,,
-b8fd8668-5ed5-4f9a-ba0b-c4f66c47c7da,suspension.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-84c3af2d-a311-4236-880d-0189a85c84e8,cornering.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-fa212d4c-9e27-4832-adad-5f3d8c3a36c8,retail.casa,premium,47.2,11.8,medium,low,6,namesilo,,,24/09/2026 02:35
-06645250-d0e9-4419-8f64-44ebe6bba97f,whitesauce.casa,available,2.19,12.99,low,low,11,namesilo,,,
+2be1b096-64d4-4409-bca2-3f7e88c5f9df,unemployment.casa,available,2.19,12.99,high,low,12,namesilo,,,
+b8fd8668-5ed5-4f9a-ba0b-c4f66c47c7da,suspension.casa,available,2.19,12.99,high,low,10,namesilo,,,
 5f7f2459-454e-4d9c-bf33-d6a816ac99e4,version.casa,available,2.19,12.99,high,low,7,namesilo,,,
-a1fc70bc-44cb-423c-9e78-8d6eeef0fc46,judgment.casa,available,2.19,12.99,medium,low,8,namesilo,,,
-f90bc7a3-4efc-4539-b63f-3a12e837e586,structure.casa,available,1.98,17.98,medium,low,9,namecheap,,,04/09/2026 05:19
-a0498256-810a-4d69-a195-c904b0ec6787,sympathise.casa,available,2.19,12.99,high,low,10,namesilo,,,
+a1fc70bc-44cb-423c-9e78-8d6eeef0fc46,judgment.casa,available,2.19,12.99,high,low,8,namesilo,,,
+f90bc7a3-4efc-4539-b63f-3a12e837e586,structure.casa,available,1.98,17.98,high,low,9,namecheap,,,04/09/2026 05:19
 e2fbd937-3831-46b4-be3a-465fe16999a7,speech.casa,available,2.19,12.99,high,low,6,namesilo,,,
 74efb694-21e7-4a24-bd23-5a11f9a5c5fd,rider.casa,available,2.19,12.99,high,low,5,namesilo,,,
-22462efe-48da-46e8-9173-e2994c3a73fc,abovecited.casa,available,2.19,12.99,low,low,11,namesilo,,,
-23c1de3a-f866-42e5-9906-2795e3e8aa31,antlered.casa,available,1.98,17.98,low,low,8,namecheap,,,05/08/2026 20:11
-cfa62b49-eba3-46fb-966c-a88c39b8b62c,garbed.casa,available,1.98,17.98,low,low,6,namecheap,,,06/08/2026 04:52
-84a67aa8-d90d-4b1d-8da8-03570d8cda31,knockover.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-9102ad7e-3d4a-4a3a-8c6d-b90b402bc159,foreigner.casa,available,1.98,17.98,low,low,9,namecheap,,,
+23c1de3a-f866-42e5-9906-2795e3e8aa31,antlered.casa,available,1.98,17.98,medium,low,8,namecheap,,,05/08/2026 20:11
+9102ad7e-3d4a-4a3a-8c6d-b90b402bc159,foreigner.casa,available,1.98,17.98,high,low,9,namecheap,,,
 3f865438-5ef0-4794-a948-813fdd0fcd99,alcohol.casa,premium,96,11.8,high,low,7,namesilo,,,
-2ab82287-23cf-4ed4-ba57-486b416c0a75,computerchip.casa,available,1.98,17.98,low,low,13,namecheap,,,08/09/2026 06:52
 d6d37298-db50-4734-ba2e-040f6b1ce69a,weave.casa,premium,50,,high,low,5,name.com,,,
 65241a8f-7349-4c09-ac2b-38dee98c40a7,streetcleaner.casa,available,17.98,,low,low,14,namecheap,,,
 a1ae6bab-9eae-4617-9f40-fd0815438b41,sympathy.casa,available,2.19,12.99,high,low,8,namesilo,,,
-4434e0f0-64af-4671-8b33-3b17748140dd,instant.casa,available,2.19,12.99,medium,low,7,namesilo,,,24/09/2026 02:22
-bbc969bb-e24a-4153-a35a-6c206327c80d,anatomic.casa,available,1.98,17.98,low,low,8,namecheap,,,
-9639d6f3-6502-4b96-bf06-9b882d00431a,able.casa,available,2.19,12.99,medium,low,4,namesilo,,,21/09/2026 13:57
+bbc969bb-e24a-4153-a35a-6c206327c80d,anatomic.casa,available,1.98,17.98,medium,low,8,namecheap,,,
 7dcec459-fb1c-495d-9ca6-c9c79078c5f3,pushing.casa,available,2.19,12.99,high,low,7,namesilo,,,
 72e9bf0b-5885-48b7-8655-4aa7352b01fb,packing.casa,premium,96,11.8,high,low,7,namesilo,,,
-74afd202-edb9-42ea-a7dc-f108e0a5f1ee,fort.casa,premium,47.2,11.8,medium,low,4,namesilo,,,
-d5205371-e836-43dc-ac70-3e4949bbfd3b,thrown.casa,premium,47.2,11.8,medium,low,6,namesilo,,,
-02b2d2a3-7c6f-4d5c-b8f9-95848c9ed911,howyousay.casa,available,2.19,12.99,medium,low,11,namesilo,,,
-959c6cfd-703a-48c6-8fa3-d971875d13f5,carry.casa,premium,47.2,11.8,medium,low,5,namesilo,,,
-62bdedfb-cc06-4b4b-8791-ce7435b41b0d,compatible.casa,available,2.19,12.99,medium,low,10,namesilo,,,23/09/2026 16:57
-d13b8a35-2c3d-48e3-b0b2-3d5bac2f6f86,xxix.casa,available,1.98,17.98,low,low,4,namecheap,,,
-ba6a3045-f81e-4cf2-bd9d-ab854b2f5b80,common.casa,premium,47.2,11.8,low,low,6,namesilo,,,23/09/2026 15:53
-1c831dec-07eb-4004-84ad-e769cbab84ab,chiseling.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-d0e335ba-0728-4fd7-8aeb-0be3498d3794,doughnut.casa,premium,47.2,11.8,medium,low,8,namesilo,,,
-15d3001b-acc7-450b-b0f4-2983504959f3,deuce.casa,available,2.19,12.99,low,low,5,namesilo,,,21/09/2026 12:17
-1e372fa0-1f4b-4c94-b80f-ef102fac79ac,algonquin.casa,available,1.98,17.98,low,low,9,namecheap,,,
-582a7a92-4f86-41db-a109-248a3ddb3c32,dances.casa,available,2.19,12.99,medium,low,6,namesilo,,,
-8668ff4e-082c-48da-8b19-32c20a24ecb4,enviable.casa,available,17.98,,high,low,8,namecheap,,,
-08ba5e0a-0992-45ce-9cf0-cb2d7970c569,stillborn.casa,available,1.98,17.98,low,low,9,namecheap,,,
-17e48d48-e84b-4c8d-8a62-51f3964d513b,xii.casa,premium,47.2,11.8,low,low,3,namesilo,,,21/09/2026 11:25
-d9d6e963-5aad-4bbe-9c8d-e2f034c0b47a,businessventure.casa,available,2.19,12.99,high,low,16,namesilo,,,
-1660aadc-142a-45b3-970a-220a7c9bce6a,walloping.casa,available,1.98,17.98,low,low,9,namecheap,,,08/08/2026 13:19
-27c57f9c-8f27-4d0d-982b-6f6bdb457f57,likeatrain.casa,available,2.19,12.99,medium,low,12,namesilo,,,
-0060b947-b7b6-45af-8f47-9fc6aad0bff0,squint.casa,available,1.98,17.98,low,low,6,namecheap,,,07/08/2026 03:15
-6975eb4b-02cb-45d8-a6b0-388394d1d05e,giveitupfor.casa,available,2.19,12.99,medium,low,14,namesilo,,,
-5a1878ee-1e16-49d8-9276-e50df4b80839,blob.casa,available,1.99,,medium,low,4,name.com,,,
-4007ff76-4b95-425c-8c17-5338f057baed,transportation.casa,available,2.19,12.99,low,low,14,namesilo,,,19/09/2026 03:16
-b98ccec1-f746-4100-bb63-74dcd39930c3,nightlong.casa,available,1.98,17.98,low,low,9,namecheap,,,
-80d637d6-42b0-44ed-a32f-c3d8b352b406,released.casa,available,2.19,12.99,low,low,8,namesilo,,,
-eaf2b553-4141-4e18-b848-a019fdd0321a,diskbrake.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-ac051f59-4664-44ab-bd39-69852cc8e497,handmedown.casa,available,2.19,12.99,high,low,12,namesilo,,,
-2f4adfd6-4ad4-4e91-b662-25179459fa37,hairfollicle.casa,available,2.19,12.99,high,low,13,namesilo,,,
-eb76cb1d-9028-4f5d-ab4b-9c4c13e944b1,flame.casa,premium,47.2,11.8,high,low,5,namesilo,,,
-112c81c5-259d-470d-aae2-777553053495,bluegreen.casa,available,2.19,12.99,medium,low,10,namesilo,,,22/09/2026 22:55
+74afd202-edb9-42ea-a7dc-f108e0a5f1ee,fort.casa,premium,47.2,11.8,high,low,4,namesilo,,,
+d5205371-e836-43dc-ac70-3e4949bbfd3b,thrown.casa,premium,47.2,11.8,high,low,6,namesilo,,,
+959c6cfd-703a-48c6-8fa3-d971875d13f5,carry.casa,premium,47.2,11.8,high,low,5,namesilo,,,
+d13b8a35-2c3d-48e3-b0b2-3d5bac2f6f86,xxix.casa,available,1.98,17.98,medium,low,4,namecheap,,,
+d0e335ba-0728-4fd7-8aeb-0be3498d3794,doughnut.casa,premium,47.2,11.8,high,low,8,namesilo,,,
+1e372fa0-1f4b-4c94-b80f-ef102fac79ac,algonquin.casa,available,1.98,17.98,high,low,9,namecheap,,,
+582a7a92-4f86-41db-a109-248a3ddb3c32,dances.casa,available,2.19,12.99,high,low,6,namesilo,,,
+08ba5e0a-0992-45ce-9cf0-cb2d7970c569,stillborn.casa,available,1.98,17.98,high,low,9,namecheap,,,
+0060b947-b7b6-45af-8f47-9fc6aad0bff0,squint.casa,available,1.98,17.98,high,low,6,namecheap,,,07/08/2026 03:15
+5a1878ee-1e16-49d8-9276-e50df4b80839,blob.casa,available,1.99,,high,low,4,name.com,,,
+80d637d6-42b0-44ed-a32f-c3d8b352b406,released.casa,available,2.19,12.99,medium,low,8,namesilo,,,
 4017d1ea-64cd-4d1e-a878-a67e51ca3670,ugh.casa,premium,96,11.8,medium,low,3,namesilo,,,
-c66c5ee6-82c5-4c88-a63f-2327edb0b700,cryout.casa,available,2.19,12.99,high,low,7,namesilo,,,
-e1f8ac7e-1d70-454e-9369-19c26ae11d0d,plunkfor.casa,available,1.98,17.98,low,low,9,namecheap,,,08/08/2026 05:28
-11e6913c-43e5-4416-8e86-cc2fe0c626da,asterismal.casa,available,1.98,17.98,low,low,10,namecheap,,,07/08/2026 09:01
 45a4c0b6-54f5-45db-ada7-93e54faf4eec,thoughtless.casa,available,2.19,12.99,medium,low,11,namesilo,,,
-d1222a40-45da-456e-8f2a-b9de6473154b,backstairs.casa,available,1.98,17.98,low,low,10,namecheap,,,08/08/2026 06:26
-255c446d-721a-4676-802e-010149427d01,alliaceous.casa,available,1.98,17.98,low,low,10,namecheap,,,
+d1222a40-45da-456e-8f2a-b9de6473154b,backstairs.casa,available,1.98,17.98,high,low,10,namecheap,,,08/08/2026 06:26
+255c446d-721a-4676-802e-010149427d01,alliaceous.casa,available,1.98,17.98,medium,low,10,namecheap,,,
 f07a5e73-829f-497e-ab81-988d2294894c,subscribe.casa,available,2.19,12.99,high,low,9,namesilo,,,
-ed53f042-b221-4c9a-aecd-f83471b90b32,evaporate.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-499abe8c-fb86-4c38-873a-1fcc63499119,apostolic.casa,available,1.98,17.98,low,low,9,namecheap,,,06/08/2026 04:04
-1cc60031-5db8-47f5-bb8c-3ff0dffd5d55,nun.casa,premium,96,11.8,medium,low,3,namesilo,,,
-5d9d26ed-267d-4e1a-9566-443660538311,asof.casa,available,17.98,,medium,low,5,namecheap,,,
+ed53f042-b221-4c9a-aecd-f83471b90b32,evaporate.casa,available,2.19,12.99,high,low,9,namesilo,,,
+499abe8c-fb86-4c38-873a-1fcc63499119,apostolic.casa,available,1.98,17.98,high,low,9,namecheap,,,06/08/2026 04:04
+1cc60031-5db8-47f5-bb8c-3ff0dffd5d55,nun.casa,premium,96,11.8,high,low,3,namesilo,,,
 c419a74e-0f8e-48b9-8045-8002360240da,offspring.casa,available,2.19,12.99,high,low,9,namesilo,,,
-d09fb2a3-4ddc-4aab-aaa2-31a5bdda958e,adhoc.casa,available,1.98,17.98,low,low,6,namecheap,,,
-389eb6af-7dfc-4da6-a1fe-cb7ab1ed384e,deuceace.casa,available,1.98,17.98,low,low,9,namecheap,,,
-f63f20e6-c800-4aea-b3c3-a4b6736eae1c,velcro.casa,available,1.98,17.98,medium,low,6,namecheap,,,19/09/2026 10:11
 14344566-4c03-493c-9655-a7273b30fd67,moscow.casa,premium,47.2,11.8,high,low,6,namesilo,,,
 e422a009-0901-47ec-b4c9-82e8e9cce1f2,seeing.casa,available,2.19,12.99,high,low,6,namesilo,,,
-9639c10a-1eb9-4aeb-bedc-7d70ae81034e,licensed.casa,available,2.19,12.99,low,low,8,namesilo,,,19/09/2026 16:56
-7fbea233-0701-4b53-bd0c-be2ae12d64b6,twoyearsago.casa,available,2.19,12.99,low,low,13,namesilo,,,
 f2d079f5-9a55-4d62-93be-2cf471c8597a,riled.casa,available,,,medium,low,5,,,,
 3ca24e83-f0fe-4408-bc81-cc56a6b85e4d,poll.casa,available,2.19,12.99,high,low,4,namesilo,,,
 97fc9be1-ee8a-494e-b33c-8c6e77c727f2,leadership.casa,available,2.19,12.99,high,low,10,namesilo,,,
-c2c5f6af-5dc6-4a11-879d-a43fcfaffb38,voter.casa,available,2.19,12.99,medium,low,5,namesilo,,,
-1cc618ac-8d7e-4e12-bfc7-1ee178d411fc,alary.casa,available,1.98,17.98,low,low,5,namecheap,,,
-8a4e2e4c-d599-4b84-8d1d-f44c444d47e9,sportsdrink.casa,available,2.19,12.99,high,low,12,namesilo,,,
+c2c5f6af-5dc6-4a11-879d-a43fcfaffb38,voter.casa,available,2.19,12.99,high,low,5,namesilo,,,
+1cc618ac-8d7e-4e12-bfc7-1ee178d411fc,alary.casa,available,1.98,17.98,medium,low,5,namecheap,,,
 1c85d72b-a99e-4fcf-aab3-3ef687a5b8a4,everbody.casa,available,2.19,12.99,medium,low,8,namesilo,,,
-e70e6841-1b32-4822-a14e-7c534a9b7c74,americaneagle.casa,available,1.98,17.98,low,low,14,namecheap,,,19/09/2026 11:21
-90693238-092c-41ec-ad64-4fc2bc96448c,amebous.casa,available,,,medium,low,7,,,,
-3b10745e-d746-48a9-a42f-8079f4f3032a,northkorea.casa,available,2.19,12.99,low,low,11,namesilo,,,
-2fe8e025-a161-4dda-9eec-0596678b2266,vanity.casa,available,2.19,12.99,medium,low,6,namesilo,,,
-bee1833a-56e0-4d51-b9b8-6d9a17fbdac6,compliant.casa,available,2.19,12.99,medium,low,9,namesilo,,,23/09/2026 17:44
+2fe8e025-a161-4dda-9eec-0596678b2266,vanity.casa,available,2.19,12.99,high,low,6,namesilo,,,
 9f97930d-48f9-40c5-8000-b79e311f661b,relation.casa,available,2.19,12.99,high,low,8,namesilo,,,
 a4e4b92e-d9d2-4523-943f-f0ceb94aadba,conscience.casa,available,2.19,12.99,high,low,10,namesilo,,,
-424aefd1-ccc0-47c2-aa4f-74262b6cc7f8,commonlaw.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-17a4b72c-b65b-4aa7-900e-24a45c3cc1ab,scarlett.casa,available,2.19,12.99,medium,low,8,namesilo,,,
+17a4b72c-b65b-4aa7-900e-24a45c3cc1ab,scarlett.casa,available,2.19,12.99,high,low,8,namesilo,,,
 6467bbb6-6dca-4269-9e57-64cf969cd4eb,strengthen.casa,premium,47.2,11.8,high,low,10,namesilo,,,
 5aef2514-4c13-417d-868c-42d2e1de9d44,profile.casa,available,2.19,12.99,high,low,7,namesilo,,,
-40af56f3-8996-49d8-8994-3b1f0df33a43,acoustical.casa,available,1.98,17.98,low,low,10,namecheap,,,
+40af56f3-8996-49d8-8994-3b1f0df33a43,acoustical.casa,available,1.98,17.98,medium,low,10,namecheap,,,
 3507f503-ec1e-464b-9c24-f8e1ef73c296,promotion.casa,available,2.19,12.99,high,low,9,namesilo,,,
 b2b2beba-8b41-4fcb-917f-6931e164ded2,came.casa,premium,47.2,11.8,high,low,4,namesilo,,,
-a6b2e650-36b3-4000-a2d5-8a13a48b12ba,pastrychef.casa,available,2.19,12.99,medium,low,11,namesilo,,,23/09/2026 09:00
-a43ff098-cef8-4733-9163-168be054969f,peremptory.casa,available,1.98,17.98,low,low,10,namecheap,,,07/08/2026 19:45
 a41374a6-0215-4b26-a896-fd93d1bf6cb7,solve.casa,available,2.19,12.99,high,low,5,namesilo,,,
 8d734d3f-aa40-4a3c-8bba-69bcddf4e820,suppose.casa,available,2.19,12.99,high,low,7,namesilo,,,
-4ab9c3c4-143a-4f70-8643-4b9610f1bf38,dress.casa,premium,100,23.99,high,low,5,name.com,,,
-c79d54e2-c5ad-4fbd-9d9f-a468538c78a6,deviant.casa,available,1.98,17.98,low,low,7,namecheap,,,
-8e1635c4-76f6-4df5-9feb-388fbbde8e2b,classicalguitar.casa,available,2.19,12.99,high,low,16,namesilo,,,
-38fd1eab-59e9-4073-9619-9142cbfe5c8b,takeaknee.casa,available,2.19,12.99,low,low,11,namesilo,,,
-65d60a37-1c3b-4203-a1de-882587b30dcb,letterofcredit.casa,available,2.19,12.99,high,low,16,namesilo,,,
-b14a8b10-62d3-4f9b-8fe8-c8414cfefc5a,audacious.casa,available,2.19,12.99,medium,low,9,namesilo,,,22/09/2026 12:06
-05eb3e7b-7854-49dd-b967-ff848951e212,doyoumind.casa,available,17.98,,medium,low,11,namecheap,,,
-a577ebb9-6d31-4500-9147-bb2dfd4791db,baccate.casa,available,1.98,17.98,low,low,7,namecheap,,,08/08/2026 04:03
-5b4d7fcc-1b98-4db3-b635-029b5588da25,economically.casa,available,2.19,12.99,medium,low,12,namesilo,,,
-e9474483-a211-471e-97d5-e49aa30faf5c,franks.casa,available,2.19,12.99,medium,low,6,namesilo,,,
-351c0138-1839-41c5-aea3-66a4733b9f1b,wishful.casa,available,1.98,17.98,low,low,7,namecheap,,,07/08/2026 05:07
-9b797fd8-2692-432f-baa7-06c98d85541d,adynamic.casa,available,1.98,17.98,low,low,8,namecheap,,,
+c79d54e2-c5ad-4fbd-9d9f-a468538c78a6,deviant.casa,available,1.98,17.98,high,low,7,namecheap,,,
+5b4d7fcc-1b98-4db3-b635-029b5588da25,economically.casa,available,2.19,12.99,high,low,12,namesilo,,,
+e9474483-a211-471e-97d5-e49aa30faf5c,franks.casa,available,2.19,12.99,high,low,6,namesilo,,,
+351c0138-1839-41c5-aea3-66a4733b9f1b,wishful.casa,available,1.98,17.98,medium,low,7,namecheap,,,07/08/2026 05:07
+9b797fd8-2692-432f-baa7-06c98d85541d,adynamic.casa,available,1.98,17.98,medium,low,8,namecheap,,,
 14c0d6ed-4583-4d02-92cd-038178ff34d7,profitable.casa,available,2.19,12.99,high,low,10,namesilo,,,
-be23d26f-7e45-4f9f-ae2b-263783e9d6cc,curative.casa,available,2.19,12.99,medium,low,8,namesilo,,,22/09/2026 02:19
-d2b351b3-73f9-4c58-bbac-a231582820bd,closethedoor.casa,available,2.19,12.99,high,low,14,namesilo,,,
 ae9494c8-2f3e-49ba-8acd-2a68a122c772,posting.casa,available,2.19,12.99,high,low,7,namesilo,,,
 4b348475-6bf5-41e8-b490-96e8078d72c8,dvd.casa,premium,47.2,11.8,high,low,3,namesilo,,,
-f5a4e13b-e041-42f4-a826-d18994766539,lxxii.casa,available,1.98,17.98,low,low,5,namecheap,,,
-7a0dbd2e-6386-4bca-91cc-a1e5938f6dda,apodous.casa,available,1.98,17.98,low,low,7,namecheap,,,06/08/2026 01:21
+7a0dbd2e-6386-4bca-91cc-a1e5938f6dda,apodous.casa,available,1.98,17.98,medium,low,7,namecheap,,,06/08/2026 01:21
 1562ac1f-d333-46c4-84ec-f62a76460bfe,laugh.casa,available,2.19,12.99,high,low,5,namesilo,,,
-74112633-8cee-4088-8665-82a92520de46,ogdoad.casa,available,1.98,17.98,low,low,6,namecheap,,,
-bf10eeeb-d64d-4efd-b72d-8760b975272a,deal.casa,premium,96,11.8,low,low,4,namesilo,,,19/09/2026 16:06
-165f9ccc-606e-41f2-a98b-47cd5620f3e1,manytime.casa,available,17.98,,medium,low,9,namecheap,,,
-8ea786a4-8145-42ff-89e6-628345c6a735,mobmentality.casa,available,2.19,12.99,medium,low,13,namesilo,,,
-1ee63113-bf0d-4edd-a436-15fb9f23ac7d,getinto.casa,available,2.19,12.99,high,low,8,namesilo,,,
-4ee1b2c5-cdca-44d5-9da1-b512263e584c,detached.casa,premium,50,23.99,medium,low,8,name.com,,,
 39904490-d939-4bb0-8ec7-afc765f87e01,uncle.casa,available,2.19,12.99,high,low,5,namesilo,,,
-ccee3601-28e4-433b-b72e-f5990f5ef3e2,corridor.casa,available,2.19,12.99,medium,low,8,namesilo,,,
-f718e879-5da1-4c5e-bb6b-bfba8170678f,threatening.casa,available,2.19,12.99,high,low,11,namesilo,,,
-da1173f0-6a65-48fe-b6a0-ee23bbeeabec,attired.casa,available,1.98,17.98,low,low,7,namecheap,,,06/08/2026 04:47
-fecf365a-7274-4846-be23-7773afb52b02,rockbottom.casa,available,2.19,12.99,high,low,11,namesilo,,,
-2b6d0158-d5f8-4f40-8947-14f3a1307064,eonian.casa,available,1.98,17.98,low,low,6,namecheap,,,
+ccee3601-28e4-433b-b72e-f5990f5ef3e2,corridor.casa,available,2.19,12.99,high,low,8,namesilo,,,
+f718e879-5da1-4c5e-bb6b-bfba8170678f,threatening.casa,available,2.19,12.99,medium,low,11,namesilo,,,
+da1173f0-6a65-48fe-b6a0-ee23bbeeabec,attired.casa,available,1.98,17.98,medium,low,7,namecheap,,,06/08/2026 04:47
+2b6d0158-d5f8-4f40-8947-14f3a1307064,eonian.casa,available,1.98,17.98,medium,low,6,namecheap,,,
 6400a73b-864a-4073-9ce9-b5c195dd0879,hall.casa,premium,242,11.8,high,low,4,namesilo,,,
 b26e2cfb-9a4f-41f5-a898-8e28ba1d75c2,employee.casa,available,2.19,12.99,high,low,8,namesilo,,,
-c02aaabb-bed0-4772-868a-f7cd9e083a87,amnestic.casa,available,1.98,17.98,low,low,8,namecheap,,,
 66843229-6eb6-4f0e-b1fa-0f2d1d60481f,sing.casa,premium,47.2,11.8,high,low,4,namesilo,,,
-2d25c43b-421b-472d-ad94-17c2d4d0d174,quintuplet.casa,available,1.98,17.98,low,low,10,namecheap,,,
-e534e2d5-f83e-4e05-8ceb-abc41ebde0c6,getthepoint.casa,available,2.19,12.99,high,low,13,namesilo,,,
-2f9b26d3-2fdc-46d8-b4eb-0a4cecd9c570,miserable.casa,available,1.98,17.98,low,low,9,namecheap,,,
+2f9b26d3-2fdc-46d8-b4eb-0a4cecd9c570,miserable.casa,available,1.98,17.98,high,low,9,namecheap,,,
 73a45a58-bdbd-4ca3-aee4-378de42499d9,hazard.casa,premium,242,11.8,medium,low,6,namesilo,,,
-676af802-7f13-4ce8-a66a-6cccd2e12e82,artgallery.casa,available,2.19,12.99,high,low,11,namesilo,,,
-2b9cc4a5-341a-477b-801e-76b164b153c4,littlejoe.casa,available,1.98,17.98,low,low,10,namecheap,,,
-4db5bdec-b224-4c2e-bbf0-28fe4577873b,concussion.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-ca55d554-8aa5-4a28-b94f-fdf1db886487,aliphatic.casa,available,1.98,17.98,low,low,9,namecheap,,,
+4db5bdec-b224-4c2e-bbf0-28fe4577873b,concussion.casa,available,2.19,12.99,high,low,10,namesilo,,,
 32e0ae12-f92b-4e95-a820-8ee454c85852,yur.casa,premium,47.2,11.8,high,low,3,namesilo,,,
-cd652782-89c3-4fec-8763-ea89b9bcbee2,hunkydory.casa,available,2.19,12.99,medium,low,10,namesilo,,,22/09/2026 01:09
 0eb4f43a-5964-49e2-bd5c-191543321767,except.casa,available,2.19,12.99,high,low,6,namesilo,,,
-318c76b9-a002-4483-87bb-7ebe5223622d,sellbydate.casa,available,2.19,12.99,medium,low,12,namesilo,,,
-842d9fc3-0be4-43a6-b499-9a5cb7c45faa,coming.casa,available,2.19,12.99,medium,low,6,namesilo,,,23/09/2026 15:31
-0cdea838-432c-4428-a5d0-d97247ce30f9,arterial.casa,available,1.98,17.98,low,low,8,namecheap,,,06/08/2026 22:29
-85a37a5b-2de4-4ab6-9a52-d648941354fc,cows.casa,premium,50,,medium,low,4,name.com,,,
-9eaa0929-d8fc-41bf-97dc-e616ea22a041,attenuated.casa,available,1.98,17.98,low,low,10,namecheap,,,07/08/2026 15:27
-bf57b92d-adbc-44f5-9828-a05fc126e214,until.casa,available,2.19,12.99,medium,low,5,namesilo,,,
-ddb8086d-f16e-41d5-ac08-d28067da0744,atsomepoint.casa,available,2.19,12.99,high,low,13,namesilo,,,
-70f2504e-5619-4897-bc54-8fea0e0fa8f8,alittle.casa,available,2.19,12.99,medium,low,8,namesilo,,,
-db00c073-c716-4854-a3f1-36c4226cfaa9,intheear.casa,available,17.98,,medium,low,10,namecheap,,,
-381401d6-edb0-4dc4-a8e5-dc272dad48b4,amendable.casa,available,1.98,17.98,low,low,9,namecheap,,,22/09/2026 04:07
-82bd39d1-be3a-47e1-8d9c-16c89462d30f,mahfugga.casa,available,2.19,12.99,medium,low,8,namesilo,,,
+0cdea838-432c-4428-a5d0-d97247ce30f9,arterial.casa,available,1.98,17.98,high,low,8,namecheap,,,06/08/2026 22:29
+85a37a5b-2de4-4ab6-9a52-d648941354fc,cows.casa,premium,50,,high,low,4,name.com,,,
+bf57b92d-adbc-44f5-9828-a05fc126e214,until.casa,available,2.19,12.99,high,low,5,namesilo,,,
 e47018e8-b502-4c86-a291-db171a58989e,leg.casa,premium,96,11.8,high,low,3,namesilo,,,
 75866383-6074-436d-b2f8-d81fec1bb32b,child.casa,available,2.19,12.99,high,low,5,namesilo,,,
-760ee2e1-1d3c-4769-b128-9ac7f4ad0759,backswept.casa,available,1.98,17.98,low,low,9,namecheap,,,08/08/2026 06:37
 3b9c5f31-739a-4f98-9875-1527da15efaa,hashtag.casa,available,2.19,12.99,high,low,7,namesilo,,,
-068ba198-87d8-4e1e-b886-219592273741,food.casa,resell,,,medium,low,4,"Spaceship, Inc.",28/08/2018 20:28,28/08/2034 20:28,23/09/2026 03:58
-9138e634-cc0e-416c-84cd-01a9242109b4,assoonas.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-5476d6f0-8f5a-49d8-b5a4-d9a3b15b6e88,believeyoume.casa,available,2.19,12.99,medium,low,14,namesilo,,,
-2ed698b4-4b32-4b4b-91e2-93f49733a115,moneyed.casa,available,1.98,17.98,low,low,7,namecheap,,,
+2ed698b4-4b32-4b4b-91e2-93f49733a115,moneyed.casa,available,1.98,17.98,high,low,7,namecheap,,,
 5bcf52e7-7e14-4094-b27b-2343719ecd68,vary.casa,available,2.19,12.99,high,low,4,namesilo,,,
-116b9a87-2749-44ce-b344-e8b75d201b23,repeat.casa,available,17.98,,high,low,6,namecheap,,,
-3b10e471-b304-43fc-93d8-4a17cb04e575,silverspoon.casa,available,2.19,12.99,medium,low,12,namesilo,,,
-791fec87-c380-4813-9f9c-129b52d00cf0,parody.casa,premium,47.2,11.8,medium,low,6,namesilo,,,23/09/2026 11:34
 34ae05e0-ded5-4106-a4eb-321231cd2b02,kick.casa,available,,,high,low,4,,,,
-bfbb509a-7cc3-44fd-b802-a4b0a8d954b4,agronomic.casa,available,1.98,17.98,low,low,9,namecheap,,,
-f8253ac6-9224-4a76-9905-71303594c7c7,producing.casa,available,2.19,12.99,low,low,9,namesilo,,,
-a74f2432-0b03-4b61-95ba-ef2fd4d43d9e,alamode.casa,available,2.19,12.99,medium,low,9,namesilo,,,21/09/2026 13:34
-d6ca0ca3-dcbd-4f07-8542-e1b94f4ef533,visual.casa,premium,52,13,medium,low,6,namecheap,,,19/09/2026 17:59
-bbfd613c-2e59-4d72-9339-4623c109a117,twentysix.casa,available,1.98,17.98,medium,low,10,namecheap,,,21/09/2026 12:53
-78eb317b-1d03-4ec4-b6f8-53c7e1d8a7a2,greekalphabet.casa,available,2.19,12.99,medium,low,14,namesilo,,,
-b0c62aa0-4dc2-4a34-8e4b-c9ff9bc62013,letterofmotivation.casa,available,2.19,12.99,medium,low,20,namesilo,,,
-7d4cda63-999f-40e5-ad88-511456b6f39d,allover.casa,available,1.98,17.98,low,low,8,namecheap,,,
+bfbb509a-7cc3-44fd-b802-a4b0a8d954b4,agronomic.casa,available,1.98,17.98,medium,low,9,namecheap,,,
+f8253ac6-9224-4a76-9905-71303594c7c7,producing.casa,available,2.19,12.99,high,low,9,namesilo,,,
 2c75213b-9ba2-45a4-9bb8-ff7504373adf,baggage.casa,available,2.19,12.99,high,low,7,namesilo,,,
 2f1f6e4a-e2cb-4362-93ec-0e1244095fbf,significantly.casa,available,2.19,12.99,medium,low,13,namesilo,,,
-f12bddff-b164-42e3-924f-646f80d5146b,childlanguage.casa,available,2.19,12.99,medium,low,14,namesilo,,,
 d0711801-2179-4327-9f66-6f9fd78f9084,satisfied.casa,available,2.19,12.99,high,low,9,namesilo,,,
 58dbe778-3390-47bf-9ed9-f02705219574,often.casa,available,17.98,,high,low,5,namecheap,,,
 43ec02ed-663e-4c0b-9636-7b888ecd1a5b,class.casa,premium,100,,high,low,5,name.com,,,
-186a4116-1039-4aac-9229-3abc00abaa21,charmed.casa,available,1.98,17.98,low,low,7,namecheap,,,09/08/2026 09:57
+186a4116-1039-4aac-9229-3abc00abaa21,charmed.casa,available,1.98,17.98,high,low,7,namecheap,,,09/08/2026 09:57
 60b0c4df-9d9a-4795-a6e9-cd5832f0c10a,torch.casa,available,2.19,12.99,high,low,5,namesilo,,,
-e9dd6835-5056-431e-9924-48cf90364a49,smaller.casa,premium,47.2,11.8,medium,low,7,namesilo,,,
+e9dd6835-5056-431e-9924-48cf90364a49,smaller.casa,premium,47.2,11.8,high,low,7,namesilo,,,
 9546503a-9555-4e76-8146-bc4b8d9e1353,luncheon.casa,available,2.19,12.99,high,low,8,namesilo,,,
 66732b00-205b-4f14-9bb2-0d403ecaaf5a,basilar.casa,available,,,medium,low,7,,,,
-5cc0b990-2e98-4eee-8540-461985a55271,allargando.casa,available,1.98,17.98,low,low,10,namecheap,,,
-a856922f-7114-4228-9d09-c8f337adf74f,panther.casa,available,,,medium,low,7,,,,
+5cc0b990-2e98-4eee-8540-461985a55271,allargando.casa,available,1.98,17.98,medium,low,10,namecheap,,,
+a856922f-7114-4228-9d09-c8f337adf74f,panther.casa,available,,,high,low,7,,,,
 94b7e4a2-94c3-4d9f-b674-2ebce2be8e36,relationship.casa,available,2.19,12.99,high,low,12,namesilo,,,
-1ec3c286-8c91-41ca-a8fe-87aaf4556916,intheoldtimes.casa,available,17.98,,medium,low,16,namecheap,,,
-f10c41d2-106c-4e33-95f4-1b826c5840b3,algid.casa,available,1.98,17.98,low,low,5,namecheap,,,
-f2828bba-f65a-4a10-b3f9-2bffbaeff07d,acronymic.casa,available,1.98,17.98,low,low,9,namecheap,,,
-65595bcc-5f07-41dc-b5cd-43630f128875,nontoxic.casa,available,1.98,17.98,medium,low,8,namecheap,,,18/09/2026 21:11
-8890e2a4-40d3-43d7-8337-f691bd961aa3,index.casa,premium,47.2,11.8,medium,medium,5,namesilo,,,
-5e87e756-d0bb-403a-8397-bd0d6643f0e2,broke.casa,available,2.19,12.99,medium,low,5,namesilo,,,23/09/2026 09:49
-813595f6-c5fd-43e1-ac1c-493dd72e4c97,howaboutthat.casa,available,17.98,,medium,low,14,namecheap,,,
-e29b31f0-7a64-457b-864f-761cc2131655,transferableskill.casa,available,2.19,12.99,high,low,18,namesilo,,,
-df337ee2-5a4c-4e0e-8895-3d86d3ee51a5,generaldisease.casa,available,2.19,12.99,medium,low,15,namesilo,,,
-396a9d3a-5bd1-45de-83f1-1272d84a1d99,usage.casa,available,2.19,12.99,medium,low,5,namesilo,,,24/09/2026 04:06
-299bb6a9-9618-43a4-949c-d519d8f7c6b6,kansas.casa,available,2.19,12.99,medium,low,6,namesilo,,,
-a8c32a4c-a23e-4f56-9265-558610935e03,xciv.casa,available,1.98,17.98,low,low,4,namecheap,,,
-de5454e2-bbee-45f9-a9ca-c3f553707eb1,mitigatory.casa,available,1.98,17.98,low,low,10,namecheap,,,
-170e1908-2cb9-4f08-9b79-4f3a0687e601,oldtimer.casa,available,1.98,17.98,medium,low,9,namecheap,,,08/09/2026 04:46
+f10c41d2-106c-4e33-95f4-1b826c5840b3,algid.casa,available,1.98,17.98,medium,low,5,namecheap,,,
+8890e2a4-40d3-43d7-8337-f691bd961aa3,index.casa,premium,47.2,11.8,high,medium,5,namesilo,,,
+299bb6a9-9618-43a4-949c-d519d8f7c6b6,kansas.casa,available,2.19,12.99,high,low,6,namesilo,,,
+a8c32a4c-a23e-4f56-9265-558610935e03,xciv.casa,available,1.98,17.98,medium,low,4,namecheap,,,
 ef551aa3-2dde-45f4-af45-ba2cffe8cae6,success.casa,available,2.19,12.99,high,low,7,namesilo,,,
 2d94af36-03d0-4e03-847a-d24625500828,upper.casa,available,2.19,12.99,high,low,5,namesilo,,,
-1560e8b5-059e-4592-a96c-f821e0b0e361,plane.casa,premium,47.2,11.8,high,low,5,namesilo,,,
 725a128c-d5d9-455c-b85e-8024bd90b69a,day.casa,premium,242,11.8,high,low,3,namesilo,,,
-43e07790-c02f-41d9-9627-1a867e6f5d2f,dull.casa,premium,47.2,11.8,low,low,4,namesilo,,,23/09/2026 00:25
 9ed9945b-a7c0-4fd9-b0d8-b44db8b4670c,conjunction.casa,available,2.19,12.99,high,low,11,namesilo,,,
-25cf30f1-ece5-4ed5-b8ce-1cdd3c691faa,apodictic.casa,available,1.98,17.98,low,low,9,namecheap,,,06/08/2026 01:27
-4d8475f1-a4a9-4b34-8ecd-c3900a17cfa9,cricketscore.casa,available,2.19,12.99,high,low,13,namesilo,,,
+25cf30f1-ece5-4ed5-b8ce-1cdd3c691faa,apodictic.casa,available,1.98,17.98,medium,low,9,namecheap,,,06/08/2026 01:27
 5a7a3b9b-30d4-4df0-a3da-3933b26302a0,employer.casa,available,2.19,12.99,high,low,8,namesilo,,,
-0c8ae742-95a7-4fb2-9c66-5bdc330ecb08,octad.casa,available,1.98,17.98,low,low,5,namecheap,,,
-5b1aaa42-d5d3-46a2-8b42-1204056585dc,reasonable.casa,premium,47.2,11.8,high,low,10,namesilo,,,
-5702192a-3a7d-4352-83fd-4ee319dcea81,getoutofmyface.casa,available,17.98,,medium,low,18,namecheap,,,
-f779d9c2-170c-4651-b744-d36793e38b15,vouchfor.casa,available,17.98,,low,low,9,namecheap,,,
-c0b5692c-fe83-48ad-ac0f-c2b24ada362d,serious.casa,available,,,high,low,7,,,,
-33dd70f4-15b2-4fc4-a00e-cd1a2d08acae,spare.casa,premium,47.2,11.8,medium,low,5,namesilo,,,
+0c8ae742-95a7-4fb2-9c66-5bdc330ecb08,octad.casa,available,1.98,17.98,medium,low,5,namecheap,,,
 250190f7-3e36-4725-994d-34f574be487b,taken.casa,available,2.19,12.99,high,low,5,namesilo,,,
 48ffc82e-b173-4bbb-ac7c-d09800f3f861,harold.casa,premium,47.2,11.8,high,low,6,namesilo,,,
 4ab299c0-afa4-477f-b4c2-c89652a6289e,slam.casa,available,2.19,12.99,high,low,4,namesilo,,,
 abe232a1-e6da-40be-841c-778c4bbff306,decide.casa,premium,47.2,11.8,high,low,6,namesilo,,,
 31b99d2e-5c42-4a7c-9986-a9ad8d718bf7,man.casa,premium,242,11.8,high,low,3,namesilo,,,
-6c2e2cfd-4bfc-4476-a2a0-a50c3670c239,bornyesterday.casa,available,2.19,12.99,medium,low,14,namesilo,,,
-2b9bd318-1f83-49a9-92ea-7bbab8475d5a,schmalzy.casa,available,1.98,17.98,low,low,8,namecheap,,,09/08/2026 01:09
 c0aaaee0-662f-435f-b4fa-87af983f415d,confetti.casa,premium,47.2,11.8,high,low,8,namesilo,,,
-56e7f92f-0be4-4c76-8aca-959a37c1e0ec,overagain.casa,available,1.98,17.98,low,low,10,namecheap,,,13/09/2026 18:13
-d06f65d0-bedd-478a-bebf-86e58b584ebe,childpornography.casa,available,2.19,12.99,medium,low,17,namesilo,,,
-01e16016-0687-4a71-ad98-ea287b7ef29e,gray.casa,premium,242,11.8,medium,low,4,namesilo,,,
 0164772c-4dff-4fce-bdcc-39115c62fa48,float.casa,premium,47.2,11.8,high,low,5,namesilo,,,
-a4bff1c5-2308-4c19-842d-f925113996cc,midseptember.casa,available,17.98,,high,low,13,namecheap,,,
-5e76f091-eb92-43f5-ad0b-be31d5d9bbe9,anionic.casa,available,1.98,17.98,low,low,7,namecheap,,,
+5e76f091-eb92-43f5-ad0b-be31d5d9bbe9,anionic.casa,available,1.98,17.98,medium,low,7,namecheap,,,
 c8797d08-f910-4a88-b6aa-717f4b5239f5,and.casa,premium,96,11.8,high,medium,3,namesilo,,,
 46cd2922-061e-4820-98bf-5b4521f77677,refresh.casa,available,2.19,12.99,high,low,7,namesilo,,,
-02ba3033-86b1-4674-ba1b-8148e551cb50,rosegold.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-272fefa7-44d3-407a-bf8d-75e1f3b1130f,boundary.casa,available,2.19,12.99,low,low,8,namesilo,,,23/09/2026 01:32
-d7881f32-289b-4c22-82a0-8a0b3dedcd35,dishonour.casa,available,2.19,12.99,high,low,9,namesilo,,,
-a10615df-d5cb-4de8-97cb-ffc02c5688af,kamikaze.casa,available,2.19,12.99,high,low,8,namesilo,,,
-62c30eab-e77e-4401-ab82-854aa32aa2d9,unskilled.casa,available,1.98,17.98,low,low,9,namecheap,,,
+d7881f32-289b-4c22-82a0-8a0b3dedcd35,dishonour.casa,available,2.19,12.99,medium,low,9,namesilo,,,
+a10615df-d5cb-4de8-97cb-ffc02c5688af,kamikaze.casa,available,2.19,12.99,medium,low,8,namesilo,,,
+62c30eab-e77e-4401-ab82-854aa32aa2d9,unskilled.casa,available,1.98,17.98,medium,low,9,namecheap,,,
 e4c9e7d8-6989-4e3f-b897-6442eac970ed,nowhere.casa,available,2.19,12.99,high,low,7,namesilo,,,
 7b8db8b3-603b-49d6-9241-ffd8b6dfa795,saint.casa,available,17.98,,high,low,5,namecheap,,,
 0ff7759e-cece-473c-a246-380a593f7228,browse.casa,premium,47.2,11.8,high,low,6,namesilo,,,
 b076eafe-cfec-49dc-a3ad-f7a0df09f83d,bank.casa,premium,47.2,11.8,high,low,4,namesilo,,,
-5c96220d-4caf-4cb8-b807-d59180dfe890,seventyfour.casa,available,2.19,12.99,high,low,12,namesilo,,,
 c027e8fa-5fa0-40a3-9392-7730707c50aa,barbeque.casa,available,2.19,12.99,high,low,8,namesilo,,,
-6eb74338-6bc6-46e7-a8c6-80dca3aa8889,thisisit.casa,available,2.19,12.99,low,low,10,namesilo,,,
-0c0dd04a-6860-4551-8675-f6459cef66d1,biggame.casa,available,2.19,12.99,low,low,8,namesilo,,,23/09/2026 14:31
-a8a0ef98-cb8d-4a62-9774-6236a88f8e5a,atthesightof.casa,available,17.98,,medium,low,15,namecheap,,,
-7aa91b0e-64c3-41c5-9476-40316b80513d,soandso.casa,available,2.19,12.99,low,low,9,namesilo,,,23/09/2026 11:19
-13c3f3b1-7847-423c-beb7-429252dc5112,howgoesthebattle.casa,available,2.19,12.99,medium,low,19,namesilo,,,
 484b7f4c-85c1-416f-a951-578fe67a4fb1,sole.casa,premium,96,11.8,high,low,4,namesilo,,,
-3992eedb-0b91-4252-b9eb-9ce1cbe4e428,demoniac.casa,available,1.98,17.98,low,low,8,namecheap,,,
 152630a4-6ada-4ba2-bc03-5a775be1aeb2,neck.casa,premium,47.2,11.8,high,low,4,namesilo,,,
-55f1dd5a-9b21-49bf-9b28-e7e20ae982cb,stewart.casa,premium,242,11.8,medium,low,7,namesilo,,,
-9715b78a-aea9-4aa2-a296-d2f6d90b40f2,aerated.casa,available,1.98,17.98,low,low,7,namecheap,,,
+55f1dd5a-9b21-49bf-9b28-e7e20ae982cb,stewart.casa,premium,242,11.8,high,low,7,namesilo,,,
 9233a6d1-6520-4840-8440-2e55c967beae,knew.casa,available,2.19,12.99,medium,low,4,namesilo,,,
 e0aa7c69-7f77-432b-84e2-17e4346fb0fc,diy.casa,premium,242,11.8,high,low,3,namesilo,,,
-3cbe7155-ff43-4265-9e6a-dd14968e622b,swallowup.casa,available,2.19,12.99,medium,low,10,namesilo,,,
 06eb3648-d2e1-47f2-94c2-73576622c22a,primary.casa,premium,47.2,11.8,high,low,7,namesilo,,,
-b07196ec-d759-44c2-b84d-364916c2bd94,wealthy.casa,premium,47.2,11.8,medium,low,7,namesilo,,,21/09/2026 21:57
-5899b3b1-266c-4c10-83ed-660a6d262baa,perpetual.casa,available,1.98,17.98,medium,low,9,namecheap,,,
+5899b3b1-266c-4c10-83ed-660a6d262baa,perpetual.casa,available,1.98,17.98,high,low,9,namecheap,,,
 b767dade-5195-4ff0-b96c-252ef137d02a,grammar.casa,available,2.19,12.99,high,low,7,namesilo,,,
-1a673e7c-6e14-469c-9370-dcbc219a16f6,putup.casa,available,17.98,,high,low,6,namecheap,,,
-b3319142-b074-478f-9268-12b6d4a0d155,shears.casa,available,2.19,12.99,medium,low,6,namesilo,,,
-ae65020a-084f-4134-aa22-9f1d31f859ee,shrewd.casa,available,1.98,17.98,low,low,6,namecheap,,,22/09/2026 10:37
+b3319142-b074-478f-9268-12b6d4a0d155,shears.casa,available,2.19,12.99,high,low,6,namesilo,,,
 6ec5a89e-0489-4e48-ab01-723c44677d2b,girth.casa,available,2.19,12.99,high,low,5,namesilo,,,
-c78d9ed6-5b05-4de6-ae91-e9790cb8eda1,aphoristic.casa,available,1.98,17.98,low,low,10,namecheap,,,05/08/2026 23:31
+c78d9ed6-5b05-4de6-ae91-e9790cb8eda1,aphoristic.casa,available,1.98,17.98,medium,low,10,namecheap,,,05/08/2026 23:31
 2a370a6c-1324-4f4e-8fc3-77bcb8038030,falls.casa,premium,47.2,11.8,high,low,5,namesilo,,,
-7b283998-5495-4f6a-a63e-a7ae9e66ac3a,chanukah.casa,available,2.19,12.99,medium,low,8,namesilo,,,
-9496e397-bbb1-48e2-b38d-09b151834167,apotropaic.casa,available,1.98,17.98,low,low,10,namecheap,,,06/08/2026 04:25
-f3b8970b-2d63-45b4-bb37-c864fdfecc5a,asat.casa,available,1.98,17.98,low,low,4,namecheap,,,05/08/2026 19:31
-3c12db27-57fa-4447-8fbf-6504f76641fc,goodafternoon.casa,available,2.19,12.99,medium,low,14,namesilo,,,
-4580d98c-ca23-4765-8ba0-5e73aee30b52,sanative.casa,available,1.98,17.98,low,low,8,namecheap,,,
-ddca90c6-a2d1-46fb-865c-378c46c42c4b,grains.casa,available,17.98,,medium,low,6,namecheap,,,
+7b283998-5495-4f6a-a63e-a7ae9e66ac3a,chanukah.casa,available,2.19,12.99,high,low,8,namesilo,,,
+f3b8970b-2d63-45b4-bb37-c864fdfecc5a,asat.casa,available,1.98,17.98,high,low,4,namecheap,,,05/08/2026 19:31
+4580d98c-ca23-4765-8ba0-5e73aee30b52,sanative.casa,available,1.98,17.98,medium,low,8,namecheap,,,
+ddca90c6-a2d1-46fb-865c-378c46c42c4b,grains.casa,available,17.98,,high,low,6,namecheap,,,
 8beb5d79-37fc-484a-a3a8-63bed166ee26,ant.casa,premium,2500,,high,medium,3,name.com,,,
-542734a4-4670-4135-971d-9e3b47edf17e,nettlesome.casa,available,1.98,17.98,low,low,10,namecheap,,,
-d04d913a-de91-4396-bbad-870617c004d4,backtosquareone.casa,available,2.19,12.99,high,low,18,namesilo,,,
+542734a4-4670-4135-971d-9e3b47edf17e,nettlesome.casa,available,1.98,17.98,medium,low,10,namecheap,,,
 58e3c39c-5c93-458b-b6ac-f45d77623cc7,transparent.casa,available,17.98,,high,low,11,namecheap,,,
 1de3e1ce-b1b6-41cd-8e5c-d914a1c46c22,communicate.casa,available,2.19,12.99,high,low,11,namesilo,,,
 64e56bfa-addf-46b8-baaa-57a2e1ed896f,surfboard.casa,available,17.98,,high,low,9,namecheap,,,
-87e5ec4e-ae7d-4cb0-946a-341481795586,hardcoded.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-dad87cd6-3e23-422f-8871-abc285e7e9aa,arcadian.casa,available,1.98,17.98,low,low,8,namecheap,,,06/08/2026 14:10
-b3199195-9a23-4e06-b59b-ef7b8fcc756b,objects.casa,available,17.98,,low,low,7,namecheap,,,
+dad87cd6-3e23-422f-8871-abc285e7e9aa,arcadian.casa,available,1.98,17.98,high,low,8,namecheap,,,06/08/2026 14:10
+b3199195-9a23-4e06-b59b-ef7b8fcc756b,objects.casa,available,17.98,,medium,low,7,namecheap,,,
 dbaa39f7-4992-43d9-83c2-3fef46360bd5,wages.casa,available,2.19,12.99,high,low,5,namesilo,,,
-630006b0-00fb-48d6-90ea-b8add3cda81d,drinking.casa,available,17.98,,medium,low,8,namecheap,,,
+630006b0-00fb-48d6-90ea-b8add3cda81d,drinking.casa,available,17.98,,high,low,8,namecheap,,,
 848b7ceb-5c7b-4b4b-8ea3-9fc67e224bef,draw.casa,premium,47.2,11.8,high,low,4,namesilo,,,
-5f982bb8-e9d3-488e-83e6-15ac13e953c5,chagrined.casa,available,1.98,17.98,low,low,9,namecheap,,,
+5f982bb8-e9d3-488e-83e6-15ac13e953c5,chagrined.casa,available,1.98,17.98,medium,low,9,namecheap,,,
 1752fd2d-1c3b-43dc-92f1-28da497d1bec,pub.casa,premium,100,,high,low,3,name.com,,,
-86cfc15c-6a69-4a30-a73d-eb8491c75934,airtight.casa,available,1.98,17.98,low,low,8,namecheap,,,
-6e2be149-1738-4c92-a5b3-06c0b4fdb1de,consent.casa,available,1.98,17.98,medium,low,7,namecheap,,,08/09/2026 13:17
+86cfc15c-6a69-4a30-a73d-eb8491c75934,airtight.casa,available,1.98,17.98,high,low,8,namecheap,,,
+6e2be149-1738-4c92-a5b3-06c0b4fdb1de,consent.casa,available,1.98,17.98,high,low,7,namecheap,,,08/09/2026 13:17
 31dc217b-73d8-4723-80f2-7543ed87f363,kirkland.casa,available,,,high,low,8,,,,
-9bad9555-0b35-4075-86f0-1aff44d5a49a,worn.casa,available,1.98,17.98,low,low,4,namecheap,,,23/09/2026 12:58
-1a72abf6-ecf9-414a-88d3-27f6996d9606,bomb.casa,premium,50,,medium,low,4,name.com,,,
-9fbea28f-044c-484f-b974-3e19f4132ce4,setloose.casa,available,17.98,,low,low,9,namecheap,,,
+1a72abf6-ecf9-414a-88d3-27f6996d9606,bomb.casa,premium,50,,high,low,4,name.com,,,
 4e275de2-de9c-4f40-b1d7-fae25d2980a4,rage.casa,premium,50,,high,low,4,name.com,,,
-1f233f3f-4584-487a-b125-e8b0e7658951,allowfor.casa,available,2.19,12.99,high,low,9,namesilo,,,
 47eb0eec-aa45-481e-b25e-e1f210ec2772,ranking.casa,available,2.19,12.99,high,low,7,namesilo,,,
-2b3b781d-cee2-4474-acdb-4fad8936d4e6,financialmarket.casa,available,2.19,12.99,high,low,16,namesilo,,,
-e2111cf7-743c-4034-997f-c1b80bf4d34b,into.casa,available,2.19,12.99,medium,low,4,namesilo,,,
-13701362-435f-4034-b42a-d3a8f949a498,contraband.casa,available,1.98,17.98,low,low,10,namecheap,,,22/09/2026 21:25
-6dfabe82-843f-4113-add2-443bfa6e81da,serialkiller.casa,available,2.19,12.99,medium,low,13,namesilo,,,
-820a3aec-0307-4894-94c7-baa42cc7feee,generaleducation.casa,available,2.19,12.99,high,low,17,namesilo,,,
+e2111cf7-743c-4034-997f-c1b80bf4d34b,into.casa,available,2.19,12.99,high,low,4,namesilo,,,
 7db0e766-041f-4121-ac75-95c65ba20946,respectful.casa,available,17.98,,high,low,10,namecheap,,,
-27ef8bf7-fe48-43fa-8302-053218f38ed1,judgement.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-b416fb8f-a51f-45eb-8f98-090e3d018311,wicked.casa,premium,50,23.99,high,low,6,name.com,,,
-a1c433fb-b31a-41a7-87b7-d11a0d94b90b,telloff.casa,available,2.19,12.99,medium,low,8,namesilo,,,
-a2f64368-f708-40be-b36b-176a40c80b97,allyoucaneat.casa,available,2.19,12.99,high,low,15,namesilo,,,
-3c64ea2d-eef0-4e36-9bc4-0108eb6c4f8a,bigger.casa,available,1.98,17.98,medium,low,6,namecheap,,,22/09/2026 20:34
-3c3adfbe-1b88-49e7-9e38-3c65c5565078,getworkdone.casa,available,2.19,12.99,high,low,13,namesilo,,,
-33f51f0b-cac4-4255-9887-48aab8c1334a,borderline.casa,available,2.19,12.99,low,low,10,namesilo,,,23/09/2026 00:01
-44fedcfe-1533-4001-87b9-ac8c324b66b0,gun.casa,premium,96,11.8,medium,low,3,namesilo,,,
-204b4c9e-e3be-45d0-a137-65f7b0b575e3,undoubtedly.casa,available,2.19,12.99,medium,low,11,namesilo,,,
-059390e8-07ba-4d4f-b0be-09757b361f08,quizbowl.casa,available,2.19,12.99,low,low,9,namesilo,,,
-8dbb5b0f-dc15-44dd-83a8-6f161e74c0d6,lowered.casa,available,2.19,12.99,medium,low,7,namesilo,,,
+27ef8bf7-fe48-43fa-8302-053218f38ed1,judgement.casa,available,2.19,12.99,high,low,9,namesilo,,,
+44fedcfe-1533-4001-87b9-ac8c324b66b0,gun.casa,premium,96,11.8,high,low,3,namesilo,,,
+204b4c9e-e3be-45d0-a137-65f7b0b575e3,undoubtedly.casa,available,2.19,12.99,high,low,11,namesilo,,,
+8dbb5b0f-dc15-44dd-83a8-6f161e74c0d6,lowered.casa,available,2.19,12.99,high,low,7,namesilo,,,
 3d55bc94-c5c3-42fd-8332-0cf52077fa6a,queen.casa,resell,,,high,low,5,"GoDaddy.com, LLC",25/02/2024 21:36,25/02/2029 21:36,
-2e08607c-f91d-44e3-8b8a-b53deefb0dbf,manythanks.casa,available,2.19,12.99,high,low,11,namesilo,,,
-71608b2b-c5a8-47b1-bc78-8e47724281ca,african.casa,available,1.98,17.98,low,low,7,namecheap,,,
+71608b2b-c5a8-47b1-bc78-8e47724281ca,african.casa,available,1.98,17.98,high,low,7,namecheap,,,
 02f9e134-7e05-4864-9445-d75484db0a3b,direction.casa,available,2.19,12.99,high,low,9,namesilo,,,
-58a5fc37-32bc-4bb8-b53b-be6ca5e007e7,northandsouth.casa,available,2.19,12.99,medium,low,15,namesilo,,,
-84a399ed-cf9d-4ef9-8aa8-04c379a6e556,fascinated.casa,available,2.19,12.99,high,low,10,namesilo,,,
-a38e1b30-0d70-404e-9b50-0121972321fd,ilxxx.casa,available,1.98,17.98,low,low,5,namecheap,,,
-3e9ed538-772f-4785-8212-f6fadc8622d7,howdoyoulikethat.casa,available,2.19,12.99,medium,low,20,namesilo,,,
+a38e1b30-0d70-404e-9b50-0121972321fd,ilxxx.casa,available,1.98,17.98,medium,low,5,namecheap,,,
 01bb0b82-96d0-4abd-953b-e1e1b7d16c76,premiere.casa,available,2.19,12.99,high,low,8,namesilo,,,
-b7d53437-eb2a-44e5-b445-343cbdf2390d,tooshie.casa,available,1.98,17.98,low,low,7,namecheap,,,09/08/2026 11:39
-0c248388-ce2f-4776-93f8-684c7a3b9c59,thief.casa,available,17.98,,medium,low,5,namecheap,,,
-36e8d3eb-5112-4305-89f0-00be82b864e2,christalmighty.casa,available,2.19,12.99,high,low,15,namesilo,,,
+0c248388-ce2f-4776-93f8-684c7a3b9c59,thief.casa,available,17.98,,high,low,5,namecheap,,,
 150b4433-45d2-45c2-921a-0201b9cf83be,dining.casa,available,2.19,12.99,high,low,6,namesilo,,,
-e6a9de7e-9bcb-4df4-969f-4bce0d1da69a,prepacked.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-90a1e900-bb84-4aba-a273-042096820982,select.casa,premium,47.2,11.8,medium,low,6,namesilo,,,22/09/2026 23:07
-0f13b37a-49f8-4c13-8ad4-32727d4ed768,tenth.casa,available,2.19,12.99,medium,low,5,namesilo,,,21/09/2026 11:17
-7aef4352-9fde-4f64-91d1-ec11745b2be1,patrisib.casa,available,1.98,17.98,low,low,8,namecheap,,,
-15b951c9-6f5e-4deb-a6c7-ee9059ad5d5d,aided.casa,available,2.19,12.99,low,low,5,namesilo,,,19/09/2026 12:43
-eb67baf6-9c45-4468-8b0e-34d2077e97a3,asthecrowflies.casa,available,17.98,,medium,low,17,namecheap,,,
-24011af6-7c53-44f9-b717-b16e982dff8c,satfat.casa,available,17.98,,medium,low,7,namecheap,,,
-945700e0-93a1-448d-9f8f-e92b5564ebf3,vast.casa,premium,52,13,medium,low,4,namecheap,,,23/09/2026 09:06
-dd902bbd-e88f-48bb-9664-ef6903712483,irritate.casa,available,2.19,12.99,medium,low,8,namesilo,,,
+dd902bbd-e88f-48bb-9664-ef6903712483,irritate.casa,available,2.19,12.99,high,low,8,namesilo,,,
 e5c12377-bcb2-4598-a615-90e4551606b2,glory.casa,premium,50,,high,low,5,name.com,,,
-241bd0b3-5794-4373-b028-e11fef48bffe,onyourmark.casa,available,2.19,12.99,high,low,12,namesilo,,,
-336c5741-9775-4fd9-a060-1e431e7ad2fd,limiting.casa,available,2.19,12.99,low,low,8,namesilo,,,23/09/2026 19:42
-bc2be9a5-9d34-4ce0-846c-1f5fe01553af,quality.casa,premium,96,11.8,medium,low,7,namesilo,,,23/09/2026 14:21
 9362d268-2003-464d-9282-924c9e89dfda,princess.casa,premium,47.2,11.8,high,low,8,namesilo,,,
-ef76f474-f32e-4d5a-8867-6a6c34136f15,buggy.casa,available,2.19,12.99,low,low,5,namesilo,,,22/09/2026 08:13
-3aabbdd1-3d28-464c-a04d-174b7318920a,allthetime.casa,available,17.98,,medium,low,12,namecheap,,,
-79a4844a-7a19-41be-943f-62752abf1dff,bedless.casa,available,1.98,17.98,low,low,7,namecheap,,,09/08/2026 07:23
-725044ab-84c6-4b85-abfe-5ffb8830f152,formal.casa,premium,47.2,11.8,medium,low,6,namesilo,,,24/09/2026 00:47
-1193e841-f394-4742-9409-137ff2fe2562,howshouldiknow.casa,available,2.19,12.99,medium,low,17,namesilo,,,
-e62a2b69-092c-49a1-b92b-e12127009901,workstation.casa,available,2.19,12.99,medium,low,12,namesilo,,,
-a79e6b48-ca54-4ff8-a661-027719af1c6c,takeback.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-a78d89c4-3047-4b19-8ef5-a27e65657f5e,soundout.casa,available,2.19,12.99,low,low,9,namesilo,,,
-497707d2-3eed-45bf-aec8-0f9928ce7dfc,bankable.casa,available,1.98,17.98,low,low,8,namecheap,,,08/08/2026 13:24
-bb066edc-3bb2-42c6-8762-2ff6244b2fd8,establishment.casa,available,17.98,,medium,low,13,namecheap,,,
+497707d2-3eed-45bf-aec8-0f9928ce7dfc,bankable.casa,available,1.98,17.98,high,low,8,namecheap,,,08/08/2026 13:24
+bb066edc-3bb2-42c6-8762-2ff6244b2fd8,establishment.casa,available,17.98,,high,low,13,namecheap,,,
 82d9b670-b105-490e-b9b6-97bd351c47d0,diplomat.casa,available,2.19,12.99,high,low,8,namesilo,,,
-77e8ce96-2947-4a05-b912-f0fd33a89c2c,oppositive.casa,available,1.98,17.98,low,low,10,namecheap,,,
 091b478a-64bd-411d-8efe-5311c2a2f261,punch.casa,premium,47.2,11.8,high,low,5,namesilo,,,
 fdefffea-9c5a-47fa-9486-526bc4053048,impossible.casa,available,2.19,12.99,high,low,10,namesilo,,,
-fd0cd385-f99e-42e7-b208-11d77a12b71b,confounded.casa,available,1.98,17.98,low,low,10,namecheap,,,07/08/2026 11:57
+fd0cd385-f99e-42e7-b208-11d77a12b71b,confounded.casa,available,1.98,17.98,medium,low,10,namecheap,,,07/08/2026 11:57
 2398d0d6-688a-4c5d-855f-5ce27bbb4a7b,used.casa,premium,96,11.8,high,low,4,namesilo,,,
 f423a78b-8aaa-4424-925c-51571d7743e6,archean.casa,available,,,medium,low,7,,,,
-495e487e-19c7-4ec8-bdb7-370f30f568be,welltimed.casa,available,1.98,17.98,low,low,10,namecheap,,,06/08/2026 10:13
-3e5677f7-a3e9-4d98-bf62-af42ce998b4f,poignant.casa,available,1.98,17.98,low,low,8,namecheap,,,
-b934e1e9-15e2-4e12-ad2d-70ef6e97b6e3,againstallodds.casa,available,2.19,12.99,high,low,16,namesilo,,,
-9b95707f-0b3c-457e-81da-693b961ba83c,absent.casa,available,2.19,12.99,low,low,6,namesilo,,,21/09/2026 14:37
+3e5677f7-a3e9-4d98-bf62-af42ce998b4f,poignant.casa,available,1.98,17.98,high,low,8,namecheap,,,
 1f7f5e51-7e67-463b-b2d4-b70f71b065c2,solution.casa,available,2.19,12.99,high,low,8,namesilo,,,
-6b09f1f8-9eab-4e73-bbe4-b0b50b5d986a,fill.casa,premium,47.2,11.8,medium,low,4,namesilo,,,
-2ef7b80f-f65f-4fd6-b953-aebc275ee690,auburn.casa,premium,47.2,11.8,low,low,6,namesilo,,,22/09/2026 12:02
+6b09f1f8-9eab-4e73-bbe4-b0b50b5d986a,fill.casa,premium,47.2,11.8,high,low,4,namesilo,,,
 cf37ba88-d733-4061-865b-fef7bc0bd0df,pamper.casa,available,2.19,12.99,high,low,6,namesilo,,,
-47b8f12d-6f3d-4df7-9aee-18d38ce8cef3,keepgoodtime.casa,available,17.98,,high,low,14,namecheap,,,
-e0d5e95e-18be-4c90-ae94-f2947cfd9a6c,thisandthat.casa,available,2.19,12.99,low,low,13,namesilo,,,
-fdb36c67-54b7-47c3-97b4-c44772c8465d,spacetravel.casa,available,2.19,12.99,medium,low,12,namesilo,,,
-e98abaeb-8cfa-46e7-af21-2237bd8b7f6c,spidery.casa,available,1.98,17.98,low,low,7,namecheap,,,06/08/2026 11:46
-fc1fb86f-d97d-48d0-88bc-a9d1a84a661b,bringon.casa,available,2.19,12.99,high,low,8,namesilo,,,
+fdb36c67-54b7-47c3-97b4-c44772c8465d,spacetravel.casa,available,2.19,12.99,high,low,12,namesilo,,,
+e98abaeb-8cfa-46e7-af21-2237bd8b7f6c,spidery.casa,available,1.98,17.98,medium,low,7,namecheap,,,06/08/2026 11:46
 38f098a5-bd44-47b3-9a22-1ff3a91ff4cb,smartphone.casa,premium,47.2,11.8,high,low,10,namesilo,,,
-dcbcb08f-75ae-451b-aa50-e7afb8070654,approach.casa,available,1.98,17.98,low,low,8,namecheap,,,06/08/2026 08:44
-546ef8dd-fffb-4c6f-b4fb-48cc80a6d3ba,quaternion.casa,available,1.98,17.98,low,low,10,namecheap,,,
-ee66a7d8-f88f-46d9-9b34-f69ca52ec3f4,aecial.casa,available,,,medium,low,6,,,,
-e1687669-6560-4a8e-9f11-69926d8b8375,havesex.casa,available,2.19,12.99,high,low,8,namesilo,,,
-f70845c4-dfdb-4994-a0b8-d00f06885db6,brush.casa,premium,47.2,11.8,medium,low,5,namesilo,,,
-6849ec84-dd02-4db5-92f7-708f3ad3468d,ingenuous.casa,available,1.98,17.98,low,low,9,namecheap,,,06/08/2026 23:41
-e23a9a81-2d9d-44ad-aa2c-94a747e7cba7,closeoneeye.casa,available,2.19,12.99,high,low,13,namesilo,,,
-7a42f0b2-6b3d-485c-a84b-726c6e1b4744,ohreally.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-6d642cbd-bcd1-4e3c-bd5a-01ebea6d4f4a,generalstudies.casa,available,2.19,12.99,high,low,15,namesilo,,,
+dcbcb08f-75ae-451b-aa50-e7afb8070654,approach.casa,available,1.98,17.98,high,low,8,namecheap,,,06/08/2026 08:44
+546ef8dd-fffb-4c6f-b4fb-48cc80a6d3ba,quaternion.casa,available,1.98,17.98,high,low,10,namecheap,,,
+f70845c4-dfdb-4994-a0b8-d00f06885db6,brush.casa,premium,47.2,11.8,high,low,5,namesilo,,,
+6849ec84-dd02-4db5-92f7-708f3ad3468d,ingenuous.casa,available,1.98,17.98,medium,low,9,namecheap,,,06/08/2026 23:41
 6eed3dd1-c707-4e73-abba-c9d1ba4f0c49,tentative.casa,available,2.19,12.99,high,low,9,namesilo,,,
-be600296-ff62-4855-a548-93c32fd6306e,airy.casa,premium,47.2,11.8,medium,low,4,namesilo,,,
+be600296-ff62-4855-a548-93c32fd6306e,airy.casa,premium,47.2,11.8,high,low,4,namesilo,,,
 86245303-7587-4eff-8204-aa8a135fea9a,philip.casa,premium,47.2,11.8,high,low,6,namesilo,,,
-cdf61684-ac47-48c8-a43f-981aec2a12ef,whoknew.casa,available,2.19,12.99,low,low,8,namesilo,,,
-6c698160-a81a-4929-b4b7-3604fd57f788,burry.casa,available,1.98,17.98,low,low,5,namecheap,,,08/08/2026 17:29
-fc118c45-251a-4e80-894f-8a7726a77e85,astonished.casa,available,2.19,12.99,low,low,10,namesilo,,,22/09/2026 03:35
-5bcff57d-19bf-49d0-8c3e-2f96ad19e727,ariled.casa,available,,,medium,low,6,,,,
-92c7d2b7-bf57-4c3d-b332-487845750860,wouldithurt.casa,available,2.19,12.99,low,low,13,namesilo,,,
-4684bd45-af17-4730-a2e8-1d304617a068,apparent.casa,available,1.98,17.98,low,low,8,namecheap,,,06/08/2026 05:08
-956bfc2a-b833-4094-8510-cfbe8c2a941a,separateschool.casa,available,17.98,,high,low,15,namecheap,,,
-a47c9c20-7a62-401e-8dc6-c9040d0fae05,interest.casa,premium,96,11.8,medium,low,8,namesilo,,,08/09/2026 14:02
-b1caf571-c119-4d63-b53f-7a31dbd7ea24,asphaltic.casa,available,1.98,17.98,low,low,9,namecheap,,,07/08/2026 04:46
-7879509e-4744-4383-abc3-4f4a03f111fc,astomatal.casa,available,1.98,17.98,low,low,9,namecheap,,,07/08/2026 09:41
-caab3c42-0e85-4369-8f1a-8ab979cd20bb,postoffice.casa,premium,47.2,11.8,medium,low,11,namesilo,,,
+6c698160-a81a-4929-b4b7-3604fd57f788,burry.casa,available,1.98,17.98,medium,low,5,namecheap,,,08/08/2026 17:29
+4684bd45-af17-4730-a2e8-1d304617a068,apparent.casa,available,1.98,17.98,high,low,8,namecheap,,,06/08/2026 05:08
+a47c9c20-7a62-401e-8dc6-c9040d0fae05,interest.casa,premium,96,11.8,high,low,8,namesilo,,,08/09/2026 14:02
+caab3c42-0e85-4369-8f1a-8ab979cd20bb,postoffice.casa,premium,47.2,11.8,high,low,11,namesilo,,,
 290bf32b-8630-41d1-9aef-28fd00991025,appeal.casa,premium,50,,high,low,6,name.com,,,
 831280af-79e7-45c6-b3e1-cc72808d2a64,somesing.casa,available,2.19,12.99,medium,low,8,namesilo,,,
 d88e85be-b4ac-41c2-a834-c3fb481509f8,sunhat.casa,available,17.98,,high,low,6,namecheap,,,
-0b9cf55c-c0aa-483e-8217-0cb1283e6c68,coffeemoney.casa,available,2.19,12.99,high,low,12,namesilo,,,
-5040faed-149a-48ec-b728-15a5ad87ef94,balanced.casa,available,2.19,12.99,medium,low,8,namesilo,,,22/09/2026 16:28
-a981dea7-3076-4331-9424-809d36b1c7fd,butcher.casa,available,2.19,12.99,medium,low,7,namesilo,,,
-51565c12-8aa1-489d-9424-6f7001477c36,paternal.casa,available,1.98,17.98,low,low,8,namecheap,,,
+a981dea7-3076-4331-9424-809d36b1c7fd,butcher.casa,available,2.19,12.99,high,low,7,namesilo,,,
+51565c12-8aa1-489d-9424-6f7001477c36,paternal.casa,available,1.98,17.98,high,low,8,namecheap,,,
 4d61b6a3-cbc0-4dd0-bd56-94ec41b82ac4,songbird.casa,available,2.19,12.99,high,low,8,namesilo,,,
-adca1c45-4d69-45b6-9499-7792142607d1,colligate.casa,available,1.98,17.98,low,low,9,namecheap,,,07/08/2026 07:08
-9c293bc0-fb27-4848-9bee-dd32c78be166,developing.casa,available,2.19,12.99,high,low,10,namesilo,,,
-7f4ccb40-9d52-4966-be9a-e019f2f4b98e,spiny.casa,available,1.98,17.98,low,low,5,namecheap,,,08/08/2026 17:49
-34c99868-6324-4128-9963-91158f602719,belittled.casa,available,1.98,17.98,low,low,9,namecheap,,,09/08/2026 13:06
-927f6a14-4976-488e-af86-7e269fd4dc42,sinners.casa,available,2.19,12.99,low,low,7,namesilo,,,
-f41f0134-e397-4601-a86e-644ba0aad07d,bedrid.casa,available,1.98,17.98,low,low,6,namecheap,,,09/08/2026 07:07
+7f4ccb40-9d52-4966-be9a-e019f2f4b98e,spiny.casa,available,1.98,17.98,medium,low,5,namecheap,,,08/08/2026 17:49
+927f6a14-4976-488e-af86-7e269fd4dc42,sinners.casa,available,2.19,12.99,medium,low,7,namesilo,,,
 7fd4c36c-5bf1-456c-b08d-96e90e8e02e3,righteous.casa,available,17.98,,high,low,9,namecheap,,,
 de371974-f083-4e84-b86a-c1cab7bc277b,susan.casa,premium,96,11.8,high,low,5,namesilo,,,
 9ab98a15-a565-4f89-b993-73789c00aedf,siri.casa,available,,,high,low,4,,,,
-6dda543f-94c5-4402-b9b0-e0bb42aab2b9,barky.casa,available,1.98,17.98,low,low,5,namecheap,,,08/08/2026 19:46
-b7c716bd-ba99-4aa9-ae3a-ddebc95937a6,takeonboard.casa,available,2.19,12.99,medium,low,13,namesilo,,,
-8b2cd765-6b6e-4545-b40b-7f58f0e43031,verywell.casa,available,2.19,12.99,low,low,9,namesilo,,,22/09/2026 01:12
-2a269f89-11a7-48e0-9a19-3e30b86912ab,areolar.casa,available,1.98,17.98,low,low,7,namecheap,,,06/08/2026 17:41
-20556659-54c4-4454-bd13-e6a5f4a014e2,airphoto.casa,available,2.19,12.99,high,low,9,namesilo,,,
-043299fe-2bbe-4e65-a6f2-e549b0f9c3de,golfgame.casa,available,17.98,,high,low,9,namecheap,,,
-5f0a5318-a318-43b6-9003-c8effd280bc4,vindicated.casa,available,1.98,17.98,low,low,10,namecheap,,,08/09/2026 05:23
-d89474cd-7c74-4432-89ba-bae1b6d80477,tail.casa,available,1.98,17.98,medium,low,4,namecheap,,,22/09/2026 19:11
-3a9838cf-8341-4aac-a593-c4f99e49ad40,fortieth.casa,available,1.98,17.98,low,low,8,namecheap,,,
+6dda543f-94c5-4402-b9b0-e0bb42aab2b9,barky.casa,available,1.98,17.98,medium,low,5,namecheap,,,08/08/2026 19:46
+5f0a5318-a318-43b6-9003-c8effd280bc4,vindicated.casa,available,1.98,17.98,high,low,10,namecheap,,,08/09/2026 05:23
 8a8fd62c-77e6-4ef9-9ac5-32a6fc9c257c,cappuccino.casa,available,2.19,12.99,high,low,10,namesilo,,,
-0067b7e8-5161-470b-a317-9d12c6d47182,deskorganizer.casa,available,2.19,12.99,medium,low,14,namesilo,,,
-91cf6219-5269-43c7-8123-f6d5800dec01,dock.casa,resell,,,low,low,4,Dynadot Inc,03/02/2026 00:01,03/02/2027 00:01,22/09/2026 23:34
-d053e813-4b6d-46a4-a726-a22cbb007899,cleartheair.casa,available,17.98,,high,low,13,namecheap,,,
-98e3f3b8-6c5d-44ff-9642-19aa60d6875c,yeahnah.casa,available,17.98,,low,low,8,namecheap,,,
-0be64234-dba5-4aa2-b17d-3c0adcacf06a,shall.casa,available,2.19,12.99,medium,low,5,namesilo,,,
-270d631d-7f98-4dab-a919-1b61292505a3,oldman.casa,available,2.19,12.99,medium,low,7,namesilo,,,
+0be64234-dba5-4aa2-b17d-3c0adcacf06a,shall.casa,available,2.19,12.99,high,low,5,namesilo,,,
 6be2193b-a699-4d35-9db5-5b92415416cc,acned.casa,available,1.98,17.98,low,low,5,namecheap,,,
-9d8b540a-3f06-43a8-a539-c55a580cbbdd,respiratory.casa,available,2.19,12.99,low,low,11,namesilo,,,
-46eba577-4b2e-4bb5-8e93-97bd2961c504,godgiven.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-c125c539-550b-4a8e-997a-482870717799,toiletpaper.casa,available,2.19,12.99,high,low,12,namesilo,,,
-b357eb07-efc7-49c1-a6df-4cab8561072d,toothenamel.casa,available,2.19,12.99,low,low,12,namesilo,,,
-78a3d19c-e847-432f-95a5-ab11e649f3d7,foodbank.casa,available,2.19,12.99,high,low,9,namesilo,,,
-f2b56a7f-cced-471f-8470-ef5eb6fc55fb,mincepie.casa,available,17.98,,high,low,9,namecheap,,,
-133b3714-715d-4723-897c-baca9c46dfcc,adolescent.casa,available,1.98,17.98,medium,low,10,namecheap,,,21/09/2026 19:03
-b4090b7c-f296-47ff-8400-56097c56d517,lowback.casa,available,2.19,12.99,medium,low,8,namesilo,,,
+9d8b540a-3f06-43a8-a539-c55a580cbbdd,respiratory.casa,available,2.19,12.99,high,low,11,namesilo,,,
 fd93d5e9-db0d-4a5a-afae-31e51739bf19,intrigue.casa,available,2.19,12.99,high,low,8,namesilo,,,
-90e3ca8b-c87e-4af8-b8dd-429af9ccda1a,yours.casa,available,,,medium,low,5,,,,
+90e3ca8b-c87e-4af8-b8dd-429af9ccda1a,yours.casa,available,,,high,low,5,,,,
 629a9c0d-fa9d-4342-b50e-5a90cd5d5948,response.casa,available,17.98,,high,low,8,namecheap,,,
-3d363316-fdee-4382-8ba7-fdd389720a64,fortyfive.casa,available,1.98,17.98,low,low,10,namecheap,,,
-680c6125-23a2-4ea3-9620-1e28a0a3c08d,chocolatecake.casa,available,2.19,12.99,low,low,14,namesilo,,,
 2cb18153-6270-42ca-81bc-46319d8395f1,coat.casa,available,,,high,low,4,,,,
-8ebc1a7f-f8f0-4aaf-92ab-b534198d438e,awheel.casa,available,1.98,17.98,low,low,6,namecheap,,,08/08/2026 01:05
-280de0ed-1563-4dd4-99ed-232e0822b95f,tornadoshelter.casa,available,2.19,12.99,medium,low,15,namesilo,,,
-af2cec25-b904-4f85-8d8f-20f2a239d477,generalpopulation.casa,available,2.19,12.99,medium,low,18,namesilo,,,
-15b4d039-1616-4b74-800c-cf7dc30c7d79,inthreedays.casa,available,17.98,,medium,low,13,namecheap,,,
-33b05c63-2e00-4ea8-aae5-97a92f89023f,indespiteof.casa,available,2.19,12.99,medium,low,13,namesilo,,,
-1f4701c9-6e49-4286-9dc3-fd8aec72b665,goodfriday.casa,premium,96,11.8,medium,low,11,namesilo,,,
-5cf7b823-cf7d-4263-a7c9-1a19b0225e86,americanenglish.casa,available,17.98,,high,low,16,namecheap,,,
-078675df-2377-4075-bf9e-c278008a3ccf,frenchpie.casa,available,17.98,,medium,low,10,namecheap,,,
-9c409a09-ce2d-4710-bd2c-a19dc6d9f6b6,records.casa,available,2.19,12.99,low,low,7,namesilo,,,
-8fed72c7-2e20-4006-bbc0-cdfb43b5ffa3,alchemic.casa,available,1.98,17.98,low,low,8,namecheap,,,
+8ebc1a7f-f8f0-4aaf-92ab-b534198d438e,awheel.casa,available,1.98,17.98,medium,low,6,namecheap,,,08/08/2026 01:05
+9c409a09-ce2d-4710-bd2c-a19dc6d9f6b6,records.casa,available,2.19,12.99,high,low,7,namesilo,,,
+8fed72c7-2e20-4006-bbc0-cdfb43b5ffa3,alchemic.casa,available,1.98,17.98,medium,low,8,namecheap,,,
 522c329f-2f8d-4784-9356-1fc149877ff4,pharmacist.casa,available,17.98,,high,low,10,namecheap,,,
-87860338-5044-4dc9-8f4f-dc5fd612ce46,sitloose.casa,available,17.98,,low,low,9,namecheap,,,
-5730bda0-099e-48ab-8477-ca5259c226fe,aquiline.casa,available,1.98,17.98,low,low,8,namecheap,,,06/08/2026 11:01
-4bd9dd5e-95df-4c39-93ff-b35223942998,creatively.casa,available,17.98,,medium,low,10,namecheap,,,
-13cef580-e986-4da7-8f3c-8a06539b3d61,duty.casa,available,2.19,12.99,medium,low,4,namesilo,,,
-7dacfb97-a74a-4f9e-9f4d-a6a7c6b52570,dependon.casa,available,2.19,12.99,high,low,9,namesilo,,,
-adc05008-e915-4c76-872d-94d2dbcf682a,ennead.casa,available,1.98,17.98,low,low,6,namecheap,,,
-1ef5bbc3-5685-4625-9ba1-c90bd857cdce,warmachine.casa,available,2.19,12.99,medium,low,11,namesilo,,,
+5730bda0-099e-48ab-8477-ca5259c226fe,aquiline.casa,available,1.98,17.98,medium,low,8,namecheap,,,06/08/2026 11:01
+4bd9dd5e-95df-4c39-93ff-b35223942998,creatively.casa,available,17.98,,high,low,10,namecheap,,,
+13cef580-e986-4da7-8f3c-8a06539b3d61,duty.casa,available,2.19,12.99,high,low,4,namesilo,,,
+adc05008-e915-4c76-872d-94d2dbcf682a,ennead.casa,available,1.98,17.98,medium,low,6,namecheap,,,
 43e25f94-071f-4e0d-94d4-cca1ac88aa11,passcode.casa,available,2.19,12.99,high,low,8,namesilo,,,
-8b78afca-90f7-4f5b-bee3-45663f78ffc2,thinkup.casa,available,2.19,12.99,high,low,8,namesilo,,,
-1aeaa1d0-ce3e-427e-85cd-a6f13f7e39a6,bloodtyping.casa,available,17.98,,high,low,12,namecheap,,,
-325a5f5d-a5d7-46d9-9d52-c97c7bfd6c79,rated.casa,available,2.19,12.99,medium,low,5,namesilo,,,
-4629ea81-f1f8-48d4-8977-a623cd288ef4,lxvii.casa,available,1.98,17.98,low,low,5,namecheap,,,
-d856bbb8-16f1-4ad2-b5f6-ce8a7f8ad383,dispatching.casa,available,2.19,12.99,medium,low,11,namesilo,,,
-58fa05b5-bb88-46c3-83f9-70ee5e145015,batholitic.casa,available,1.98,17.98,low,low,10,namecheap,,,09/08/2026 01:30
-a9a64265-3be1-48a4-a6d3-4ece2309828d,organizations.casa,available,2.19,12.99,low,low,13,namesilo,,,
-e2b8db5d-ea28-4354-bfb9-c4a96fb0c2cb,adept.casa,available,2.19,12.99,medium,low,5,namesilo,,,21/09/2026 17:17
-9c8705ef-3b59-465a-98e3-72c74307d0da,newatheism.casa,available,17.98,,low,low,11,namecheap,,,
-096c793d-6610-4c13-a57f-73ff7265071b,flop.casa,available,1.98,17.98,low,low,4,namecheap,,,23/09/2026 12:03
-388e829d-2597-4c36-93d6-47c6fd8774b0,sick.casa,available,2.19,12.99,low,low,4,namesilo,,,23/09/2026 02:10
+325a5f5d-a5d7-46d9-9d52-c97c7bfd6c79,rated.casa,available,2.19,12.99,high,low,5,namesilo,,,
+4629ea81-f1f8-48d4-8977-a623cd288ef4,lxvii.casa,available,1.98,17.98,medium,low,5,namecheap,,,
+d856bbb8-16f1-4ad2-b5f6-ce8a7f8ad383,dispatching.casa,available,2.19,12.99,high,low,11,namesilo,,,
+a9a64265-3be1-48a4-a6d3-4ece2309828d,organizations.casa,available,2.19,12.99,medium,low,13,namesilo,,,
 74952a6f-35c1-4cef-b714-56f9b99c09ad,useful.casa,available,2.19,12.99,high,low,6,namesilo,,,
-d7ec89cb-e770-4b68-b45c-62f8c46b3256,bacchantic.casa,available,1.98,17.98,low,low,10,namecheap,,,08/08/2026 04:40
-f02e6702-a725-4c3c-82cd-dc07d288b7a9,darkages.casa,available,2.19,12.99,low,low,9,namesilo,,,
 cbeeee8b-7249-4181-935d-b262fe461651,romance.casa,resell,17.98,,high,low,7,"Spaceship, Inc.",12/04/2026 03:54,12/04/2027 03:54,
-8c451dac-b319-4310-b30b-dc7041c24abb,childmolestation.casa,available,2.19,12.99,medium,low,17,namesilo,,,
-1df011e8-8895-47e7-90fe-14dcaca7b085,chairwoman.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-15347121-97cb-469f-af8d-9129b20e944e,idiotic.casa,available,2.19,12.99,low,low,7,namesilo,,,24/09/2026 01:17
-19d10547-8daa-42d3-a696-52c0982969ac,groundless.casa,available,1.98,17.98,low,low,10,namecheap,,,08/08/2026 21:49
-c7edf818-09d1-4bae-93b3-a9302a85f9b9,carryoff.casa,available,17.98,,medium,low,9,namecheap,,,
+1df011e8-8895-47e7-90fe-14dcaca7b085,chairwoman.casa,available,2.19,12.99,high,low,10,namesilo,,,
+19d10547-8daa-42d3-a696-52c0982969ac,groundless.casa,available,1.98,17.98,medium,low,10,namecheap,,,08/08/2026 21:49
 66479749-4f07-43cc-ae21-e7ac75612330,asking.casa,available,2.19,12.99,high,low,6,namesilo,,,
 6ab5e630-74d5-4cd2-bd65-696eb722734b,timer.casa,premium,100,,high,low,5,name.com,,,
-266a504c-1fa1-4429-ad07-af82d3b8ab3f,tolerable.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-4735d249-bdb2-4c4b-a05d-10bfefdccbeb,xcvii.casa,available,1.98,17.98,low,low,5,namecheap,,,
 25711710-82d9-4029-9061-d84065428ebe,russian.casa,premium,100,,high,low,7,name.com,,,
-6b8885d4-a24d-4706-b85e-ddc0ce483171,armless.casa,available,,,medium,low,7,,,,
-cc05dc64-a1bf-4a1e-a740-d2254a74543b,four.casa,premium,47.2,11.8,low,low,4,namesilo,,,21/09/2026 13:11
-400ea1cc-bbef-41d4-8328-3edae01fbab2,sixteen.casa,available,2.19,12.99,medium,low,7,namesilo,,,21/09/2026 11:48
-928b3001-e7bc-4f7e-8750-3701df380417,teen.casa,premium,104,13,low,low,4,namecheap,,,21/09/2026 19:11
-90262b27-fcb6-4016-841a-2de194d672b1,desired.casa,available,2.19,12.99,medium,low,7,namesilo,,,24/09/2026 00:57
-161b6492-319a-4741-8a26-386f1befd234,amnesic.casa,available,1.98,17.98,low,low,7,namecheap,,,
-034c7fc8-11af-4750-8c20-8dc3aa2c88b8,forced.casa,available,1.99,23.99,low,low,6,name.com,,,23/09/2026 21:10
+161b6492-319a-4741-8a26-386f1befd234,amnesic.casa,available,1.98,17.98,medium,low,7,namecheap,,,
 97250e2a-66e2-4037-8ec3-5f22b8bd08bd,retired.casa,available,17.98,,high,low,7,namecheap,,,
-f129e6ae-7688-4aa6-ae49-83853772d9c6,indentured.casa,available,1.98,17.98,low,low,10,namecheap,,,06/08/2026 08:34
-0e900aa6-b289-4653-b9eb-a37dacb53b12,noncompeteclause.casa,available,2.19,12.99,medium,low,17,namesilo,,,
+f129e6ae-7688-4aa6-ae49-83853772d9c6,indentured.casa,available,1.98,17.98,medium,low,10,namecheap,,,06/08/2026 08:34
 6117d13a-a95a-4e2c-a59e-b2ca30374125,alligator.casa,available,2.19,12.99,high,low,9,namesilo,,,
-9a807564-c396-4d20-953f-c1d34d0cec41,exclamation.casa,available,17.98,,medium,low,11,namecheap,,,
+9a807564-c396-4d20-953f-c1d34d0cec41,exclamation.casa,available,17.98,,high,low,11,namecheap,,,
 f3f10840-f8f4-46d0-9abc-3b6185e89856,king.casa,resell,,,high,medium,4,"GoDaddy.com, LLC",25/02/2024 21:28,25/02/2034 21:28,
-5845d2ac-7184-4de1-95e7-f7502577dc17,admittable.casa,available,1.98,17.98,low,low,10,namecheap,,,
-0dcba391-d1a3-4da7-9a12-768cb4196653,putinaword.casa,available,2.19,12.99,low,low,13,namesilo,,,
-3ad01caf-9362-44d2-83aa-bf46902910a8,proclaimed.casa,available,2.19,12.99,low,low,10,namesilo,,,22/09/2026 05:13
-baf19024-f840-403e-86ba-b00298b299d5,analphabet.casa,available,1.98,17.98,low,low,10,namecheap,,,
-598d97d4-920a-45fc-99f5-32e84c885a84,titlepolicy.casa,available,2.19,12.99,medium,low,12,namesilo,,,
-76f7650d-9078-4cff-b6de-b763f2387fb4,crafty.casa,available,2.19,12.99,low,low,6,namesilo,,,24/09/2026 01:24
-98a56f5c-4e30-48e6-ac34-b00f4754026d,youguys.casa,available,2.19,12.99,low,low,8,namesilo,,,
-2acfec8a-6027-4e7a-9e90-7f651504cd06,ensuant.casa,available,1.98,17.98,low,low,7,namecheap,,,
-b1bb1983-ff65-4282-a44e-d5a35630b31e,cxv.casa,premium,47.2,11.8,low,low,3,namesilo,,,
-7b4cab0d-dd56-48d4-97e3-73db53250ce4,ancestor.casa,available,1.98,17.98,medium,low,8,namecheap,,,
-104c62ca-be38-42e8-89a4-e41664cdd104,getrightwith.casa,available,2.19,12.99,medium,low,14,namesilo,,,
-497318d1-efd2-4786-a115-99ae4dc8f5bd,numb.casa,available,1.98,17.98,low,low,4,namecheap,,,22/09/2026 19:39
+baf19024-f840-403e-86ba-b00298b299d5,analphabet.casa,available,1.98,17.98,medium,low,10,namecheap,,,
+b1bb1983-ff65-4282-a44e-d5a35630b31e,cxv.casa,premium,47.2,11.8,high,low,3,namesilo,,,
+7b4cab0d-dd56-48d4-97e3-73db53250ce4,ancestor.casa,available,1.98,17.98,high,low,8,namecheap,,,
 a8253a91-7a5f-40fe-8eff-91392c698abd,ate.casa,premium,96,11.8,high,low,3,namesilo,,,
 1459fe57-0a72-40fe-bc02-3a6324ec5e7e,dubstep.casa,available,2.19,12.99,high,low,7,namesilo,,,
 6cd5bf3b-4671-4d7b-8e96-fcb45eb38d94,department.casa,available,2.19,12.99,high,low,10,namesilo,,,
 dc8df299-6861-49ec-aa1e-b73db41a0f7e,already.casa,available,2.19,12.99,high,low,7,namesilo,,,
-d24c8bc4-3200-4d30-a3e7-86ef44efc519,gummybear.casa,available,2.19,12.99,high,low,10,namesilo,,,
 a22b71f3-b437-4dbe-8adf-5657de5fb637,ship.casa,premium,47.2,11.8,high,low,4,namesilo,,,
 76806c30-4791-4e80-8426-b603e90d52e0,burn.casa,premium,47.2,11.8,high,low,4,namesilo,,,
-ecf43a92-3b3c-4cad-871a-9bf98dbe4852,yesandno.casa,available,2.19,12.99,low,low,10,namesilo,,,
-acb61581-4d82-4df6-a0ab-181347de3624,balking.casa,available,1.98,17.98,low,low,7,namecheap,,,08/08/2026 09:50
-e03c9c40-7114-4850-b129-9e623e87151d,ametropic.casa,available,1.98,17.98,low,low,9,namecheap,,,
-fc79d75a-1678-4d8a-a615-c9fda50b9a76,apetalous.casa,available,1.98,17.98,low,low,9,namecheap,,,05/08/2026 22:35
-87d2f9ed-d89b-4101-a27a-fcdae54c8824,bigmoney.casa,available,1.99,23.99,medium,low,9,name.com,,,23/09/2026 14:12
-d063c8e3-ab68-4caa-b779-47661564c0cb,abkhasian.casa,available,1.98,17.98,low,low,9,namecheap,,,
-deda3637-f4fc-4e53-ba91-a61417fc4e15,truant.casa,available,1.98,17.98,low,low,6,namecheap,,,08/08/2026 01:41
+d063c8e3-ab68-4caa-b779-47661564c0cb,abkhasian.casa,available,1.98,17.98,medium,low,9,namecheap,,,
+deda3637-f4fc-4e53-ba91-a61417fc4e15,truant.casa,available,1.98,17.98,high,low,6,namecheap,,,08/08/2026 01:41
 31545191-a850-46a9-9b89-07b269c3749f,window.casa,premium,96,11.8,high,low,6,namesilo,,,
 6d075bd2-dadf-4346-a160-7adf837bcd23,likely.casa,available,2.19,12.99,high,low,6,namesilo,,,
-a517faab-7443-4392-a9ae-3d3389b19aad,inorderto.casa,available,2.19,12.99,low,low,11,namesilo,,,
-b1c8d686-b2af-4834-8b02-6795c538dd88,westcoast.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-4f342bbc-e6a3-4da9-b1ba-608374bafc90,acrosstheboard.casa,available,2.19,12.99,high,low,16,namesilo,,,
-7a855424-a00a-4412-977e-07240a176019,fear.casa,premium,50,23.99,medium,low,4,name.com,,,
-8c70fa32-7478-4065-b8dc-3037c3ee40c8,grandchild.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-744ca1c2-eeb1-4581-a6b0-a19b8f15a05d,dig.casa,premium,96,11.8,high,low,3,namesilo,,,
-ff572c0d-7c72-40c3-b614-ce8107a5945b,surely.casa,available,2.19,12.99,high,low,6,namesilo,,,
-5e997a20-e825-46fe-a2d2-e3344b185713,pound.casa,available,17.98,,medium,low,5,namecheap,,,
+8c70fa32-7478-4065-b8dc-3037c3ee40c8,grandchild.casa,available,2.19,12.99,high,low,10,namesilo,,,
+5e997a20-e825-46fe-a2d2-e3344b185713,pound.casa,available,17.98,,high,low,5,namecheap,,,
 d9002704-d788-4019-b50a-089a11680701,contempt.casa,available,2.19,12.99,medium,low,8,namesilo,,,
-dfb2cc6a-a54f-4f78-b3e1-4570e08591b1,worthit.casa,available,2.19,12.99,medium,low,8,namesilo,,,
 fada9836-de27-44b5-9e18-e4345a95e186,powered.casa,available,2.19,12.99,high,low,7,namesilo,,,
 ae1dc6c9-800f-466b-9f28-618d1bc28d03,plug.casa,premium,47.2,11.8,high,low,4,namesilo,,,
-13443c5b-7b33-433d-bb67-df8977678644,teeshirt.casa,available,17.98,,high,low,9,namecheap,,,
 1faccba6-6d67-4c7b-bd44-5c3ca14fb8cd,speeding.casa,available,2.19,12.99,high,low,8,namesilo,,,
-e3179ed4-2c7a-49d7-822e-c37e3ffbce33,shouted.casa,available,2.19,12.99,medium,low,7,namesilo,,,
-02c1a89b-b3fd-40fe-9a25-963d2945ee0b,thankyoucard.casa,available,2.19,12.99,low,low,14,namesilo,,,
-c5d42e8f-c98f-4e70-959c-10f209794709,roughly.casa,available,2.19,12.99,low,low,7,namesilo,,,21/09/2026 14:14
-ff290de5-955d-4f95-94c4-659a94d51301,youwhat.casa,available,2.19,12.99,low,low,8,namesilo,,,
-684bd23e-8234-48c4-83c1-9971410e04a2,havemoneytoburn.casa,available,2.19,12.99,medium,low,18,namesilo,,,
-abe2cf8b-0e70-42c0-96bf-09f568c2d811,antheral.casa,available,1.98,17.98,low,low,8,namecheap,,,
-34312df6-320e-4087-bb25-b5d527ac79a0,rheumy.casa,available,1.98,17.98,low,low,6,namecheap,,,06/08/2026 23:15
-598c2ec0-6be4-4dd3-ae62-7f8820675a28,somebudy.casa,available,2.19,12.99,medium,low,8,namesilo,,,
-ac0d679f-4d47-4dec-8160-805bce6e0063,bagshaped.casa,available,1.98,17.98,low,low,10,namecheap,,,08/08/2026 08:17
-1adf7c13-c6d5-4f9f-9470-d5e8ea9ba182,stealaway.casa,available,2.19,12.99,low,low,10,namesilo,,,
-94878c88-1c63-47be-9dbc-6c6a4440fabe,ascetic.casa,available,1.98,17.98,low,low,7,namecheap,,,07/08/2026 00:56
-eb5f30e4-2590-459d-b6d0-dcd572f6defb,beg.casa,premium,96,11.8,medium,low,3,namesilo,,,
-0efe64b2-e271-47e5-9203-079699364539,escaped.casa,available,1.98,17.98,low,low,7,namecheap,,,07/08/2026 11:22
-5b78f156-5c22-4550-9958-6e24aa0138b6,intervening.casa,available,2.19,12.99,medium,low,11,namesilo,,,
-def0c327-f7fc-458a-9822-08407c1ab5b4,forecloser.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-a97ff68a-2a74-4225-95db-6a190082763f,chambers.casa,premium,242,11.8,medium,low,8,namesilo,,,08/09/2026 06:47
-3b8974da-360b-443b-ab7e-401058195af8,scowling.casa,available,1.98,17.98,low,low,8,namecheap,,,09/08/2026 08:33
-e9eab595-290b-4d4b-bc86-6a878d99a6f6,fallen.casa,available,2.19,12.99,high,low,6,namesilo,,,
-37f69825-7542-4c5c-be19-507f60e76d01,alate.casa,available,1.98,17.98,low,low,5,namecheap,,,
-62d41c05-3cdd-449a-bea7-c29423b1a227,heavyhanded.casa,available,2.19,12.99,medium,low,12,namesilo,,,
+e3179ed4-2c7a-49d7-822e-c37e3ffbce33,shouted.casa,available,2.19,12.99,high,low,7,namesilo,,,
+94878c88-1c63-47be-9dbc-6c6a4440fabe,ascetic.casa,available,1.98,17.98,high,low,7,namecheap,,,07/08/2026 00:56
+eb5f30e4-2590-459d-b6d0-dcd572f6defb,beg.casa,premium,96,11.8,high,low,3,namesilo,,,
+0efe64b2-e271-47e5-9203-079699364539,escaped.casa,available,1.98,17.98,medium,low,7,namecheap,,,07/08/2026 11:22
+a97ff68a-2a74-4225-95db-6a190082763f,chambers.casa,premium,242,11.8,high,low,8,namesilo,,,08/09/2026 06:47
+3b8974da-360b-443b-ab7e-401058195af8,scowling.casa,available,1.98,17.98,medium,low,8,namecheap,,,09/08/2026 08:33
+37f69825-7542-4c5c-be19-507f60e76d01,alate.casa,available,1.98,17.98,high,low,5,namecheap,,,
 2539cd02-d298-462d-bf25-4e4f09ef2e73,cameroon.casa,available,,,high,low,8,,,,
 a351745b-0a6b-422b-8447-83bafe67293a,stops.casa,available,17.98,,high,low,5,namecheap,,,
-5bcd4db8-5c37-4fcc-905e-7935f89c3c79,oneyearold.casa,available,17.98,,high,low,12,namecheap,,,
-a137ec0c-2453-47d4-b228-7dfa334539cd,their.casa,available,2.19,12.99,low,low,5,namesilo,,,
-6e78c7fe-14a8-42f6-9e0c-9fd10ba92eec,allometric.casa,available,1.98,17.98,low,low,10,namecheap,,,
-5d267299-5790-41f3-bcc7-bc8e8b8a448a,eastern.casa,available,2.19,12.99,high,low,7,namesilo,,,
-fb0b153f-9fcc-4f5b-919d-97d4a591a52a,animated.casa,available,2.19,12.99,medium,low,8,namesilo,,,22/09/2026 05:00
-4f6dee0b-75da-441a-8ff1-d08b4b1265b8,arguseyed.casa,available,1.98,17.98,low,low,10,namecheap,,,06/08/2026 18:38
-6765cb9f-21d4-416f-8659-7e7bb525cc7b,irrelevant.casa,available,2.19,12.99,medium,low,10,namesilo,,,
-8a2d5fff-0c9e-45a6-8205-894b53b5b250,countless.casa,available,2.19,12.99,medium,low,9,namesilo,,,24/09/2026 00:28
+a137ec0c-2453-47d4-b228-7dfa334539cd,their.casa,available,2.19,12.99,high,low,5,namesilo,,,
+6e78c7fe-14a8-42f6-9e0c-9fd10ba92eec,allometric.casa,available,1.98,17.98,medium,low,10,namecheap,,,
+6765cb9f-21d4-416f-8659-7e7bb525cc7b,irrelevant.casa,available,2.19,12.99,high,low,10,namesilo,,,
 f838c2bd-51c3-48bf-bb01-6e0acca0ec11,relapse.casa,available,17.98,,high,low,7,namecheap,,,
 9eedda56-e0c6-424b-8f2c-2df5de5f2eed,prudent.casa,available,2.19,12.99,high,low,7,namesilo,,,
-8d787113-6d24-43e7-9454-e75e9587db56,westcountry.casa,available,2.19,12.99,low,low,12,namesilo,,,
 96dfda5d-80bd-4a8d-87f4-f0db57a94d5f,jan.casa,premium,47.2,11.8,high,low,3,namesilo,,,
 0071be9a-feea-45a3-9a01-19f5eee2d4e2,waiting.casa,available,2.19,12.99,high,low,7,namesilo,,,
-163052b4-07f3-4a85-b802-2b4e8bb00ec2,riyadh.casa,available,2.19,12.99,medium,low,6,namesilo,,,
+163052b4-07f3-4a85-b802-2b4e8bb00ec2,riyadh.casa,available,2.19,12.99,high,low,6,namesilo,,,
 6dc74f34-efca-4350-9973-42110196d7c2,toilet.casa,premium,96,11.8,high,low,6,namesilo,,,
 0a127331-4ede-4e9a-a721-9e7af50c4d3c,traction.casa,available,2.19,12.99,high,low,8,namesilo,,,
-5c8e6313-c130-4152-a3ac-a07ec49e4276,similar.casa,available,1.98,17.98,medium,low,7,namecheap,,,
+5c8e6313-c130-4152-a3ac-a07ec49e4276,similar.casa,available,1.98,17.98,high,low,7,namecheap,,,
 c6be98d6-5cab-4b6d-a123-73dd9dd48651,exaggerate.casa,available,2.19,12.99,high,low,10,namesilo,,,
-315bd723-5e1e-4cf0-9848-76ecf2fd3fbd,sodawater.casa,available,2.19,12.99,high,low,10,namesilo,,,
 336fff31-056e-436e-8736-a5a277e07b77,instal.casa,available,2.19,12.99,high,low,6,namesilo,,,
 4695fe1b-b78f-4918-a57f-41c9dd70c8e9,resolute.casa,available,2.19,12.99,high,low,8,namesilo,,,
 9b3285f2-76f3-441c-a928-995f748c7894,enlighten.casa,available,2.19,12.99,high,low,9,namesilo,,,
-bb1e4866-0604-49d0-8703-89a3b54edaa3,heartattack.casa,available,2.19,12.99,medium,low,12,namesilo,,,
 2820842b-4826-4255-885c-d54ffd96d1ec,brie.casa,available,17.98,,high,low,4,namecheap,,,
-65462ad8-08cf-40a2-ad48-5095b0a5be57,greatbritain.casa,available,2.19,12.99,high,low,13,namesilo,,,
-c8833bc9-3a6c-4576-987e-69989db79eb5,analyzable.casa,available,1.98,17.98,low,low,10,namecheap,,,
-f111197a-23d7-4a6e-b457-f95294985732,morethan.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-a7dde000-ab60-44e3-8817-54b9d6fe17c0,aegeansea.casa,available,1.98,17.98,low,low,10,namecheap,,,
-bf9dcf01-4745-4e0a-a463-11706b23239b,comeover.casa,available,2.19,12.99,high,low,9,namesilo,,,
-a8e10c29-598a-4fff-86df-6d090f1b2402,balmy.casa,available,2.19,12.99,medium,low,5,namesilo,,,22/09/2026 08:11
-c36a4c04-c68e-4c85-8b5a-b23530186c8b,aestival.casa,available,1.98,17.98,low,low,8,namecheap,,,
+c8833bc9-3a6c-4576-987e-69989db79eb5,analyzable.casa,available,1.98,17.98,medium,low,10,namecheap,,,
+c36a4c04-c68e-4c85-8b5a-b23530186c8b,aestival.casa,available,1.98,17.98,medium,low,8,namecheap,,,
 8156de56-bc38-47a6-9daa-2e27eb77b98b,document.casa,available,2.19,12.99,high,low,8,namesilo,,,
-82d60f72-3635-4792-b66e-0d2f65687967,ripening.casa,available,1.98,17.98,low,low,8,namecheap,,,
+82d60f72-3635-4792-b66e-0d2f65687967,ripening.casa,available,1.98,17.98,high,low,8,namecheap,,,
 43db638d-1b8c-45f9-9036-faf57e3d6a5f,popular.casa,premium,47.2,11.8,high,low,7,namesilo,,,
-2a45710e-f0b8-4681-8ed3-466426a209ff,offhanded.casa,available,1.98,17.98,low,low,9,namecheap,,,
-68bce25c-7800-4e88-8196-44279cb73c9c,clxx.casa,available,1.98,17.98,low,low,4,namecheap,,,
+68bce25c-7800-4e88-8196-44279cb73c9c,clxx.casa,available,1.98,17.98,medium,low,4,namecheap,,,
 960cbb48-3506-436f-afed-3b4fbea6fb79,newspaper.casa,available,2.19,12.99,high,low,9,namesilo,,,
-3a0ec629-8d63-417f-9e72-1d7b058c61a4,ataraxic.casa,available,1.98,17.98,low,low,8,namecheap,,,07/08/2026 12:49
-8c65840c-f136-4b19-9b81-97f14c3a9a9c,trace.casa,available,2.19,12.99,medium,low,5,namesilo,,,
-cee396af-824d-4543-ae61-f3c63c63b43f,adducting.casa,available,1.98,17.98,low,low,9,namecheap,,,
+3a0ec629-8d63-417f-9e72-1d7b058c61a4,ataraxic.casa,available,1.98,17.98,medium,low,8,namecheap,,,07/08/2026 12:49
+8c65840c-f136-4b19-9b81-97f14c3a9a9c,trace.casa,available,2.19,12.99,high,low,5,namesilo,,,
 976c5bea-c6b5-499e-a6fc-31b808acfa85,christ.casa,available,2.19,12.99,high,low,6,namesilo,,,
-8396c45d-6cca-4c50-9581-5055b54dc830,twentieth.casa,available,2.19,12.99,medium,low,9,namesilo,,,21/09/2026 12:27
-a93abbdc-287c-4493-ac8d-e78d403ef6ee,accuser.casa,available,2.19,12.99,low,low,7,namesilo,,,
-08e89b64-95ee-4402-9a56-696daa80c2df,giveinto.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-78274d5a-96fb-4c9d-8082-c38516b8bc90,orangejuice.casa,available,2.19,12.99,medium,low,12,namesilo,,,
-f1a342c4-a0aa-4e4b-964e-abe65a90a55f,whatkindof.casa,available,2.19,12.99,low,low,12,namesilo,,,
-31f8d499-c67a-4b93-99eb-a606faf98e93,downtown.casa,premium,100,23.99,high,low,8,name.com,,,
-a746ec38-15f2-4369-8a29-4c8ee91a89aa,detailed.casa,available,2.19,12.99,medium,low,8,namesilo,,,
-3cf4d834-9f27-49e1-9c7f-c6993ae93661,naturewriting.casa,available,2.19,12.99,low,low,14,namesilo,,,
-a4ca3fe7-17e5-4dfc-95e2-08458d03cd84,deposits.casa,available,2.19,12.99,medium,low,8,namesilo,,,
+a93abbdc-287c-4493-ac8d-e78d403ef6ee,accuser.casa,available,2.19,12.99,high,low,7,namesilo,,,
+a4ca3fe7-17e5-4dfc-95e2-08458d03cd84,deposits.casa,available,2.19,12.99,high,low,8,namesilo,,,
 5eeadf1f-481a-4cee-8228-653d3821d45e,paste.casa,available,17.98,,high,low,5,namecheap,,,
-1513b94c-0aed-488e-81ad-29e04b541b3a,figureout.casa,available,2.19,12.99,high,low,10,namesilo,,,
 c55405ee-8a00-4a70-98ba-b771dadd4850,advantage.casa,available,2.19,12.99,high,low,9,namesilo,,,
-874cf56c-d16d-4260-92dd-fb171e75e41e,beadlike.casa,available,1.98,17.98,low,low,8,namecheap,,,09/08/2026 03:28
-2bfa6202-1d26-4252-a6e5-5fd79bf70ccc,granddaughterinlaw.casa,available,2.19,12.99,high,low,20,namesilo,,,
 aaaf9bee-aaf6-4b71-9793-b40d1eabdbd3,vector.casa,premium,47.2,11.8,high,low,6,namesilo,,,
-f09c3d8d-1f11-43ce-8b19-68734b83ae57,thong.casa,available,2.19,12.99,medium,low,5,namesilo,,,
+f09c3d8d-1f11-43ce-8b19-68734b83ae57,thong.casa,available,2.19,12.99,high,low,5,namesilo,,,
 a973b37b-fce6-43d8-8286-bd9b309fa729,lunar.casa,premium,47.2,11.8,high,low,5,namesilo,,,
 673a045e-4e7c-4747-8e44-9deb7ed2f016,buttons.casa,premium,47.2,11.8,high,low,7,namesilo,,,
 efb22117-584f-4512-a526-4ea4467ad8f1,having.casa,available,2.19,12.99,high,low,6,namesilo,,,
-6188c206-9ade-4fca-a034-23ee2a35b7a1,inquisitive.casa,available,17.98,,medium,low,11,namecheap,,,
-51b7e079-17e3-4168-9cf1-a582c6f50181,aged.casa,premium,47.2,11.8,medium,low,4,namesilo,,,21/09/2026 22:26
-b60e613e-67e8-4afa-8b0c-6c875b69cdaf,popmusic.casa,available,2.19,12.99,medium,low,9,namesilo,,,
-90affdf3-0dfa-4d0d-a935-dbd0b533bcbd,addable.casa,available,1.98,17.98,low,low,7,namecheap,,,
+6188c206-9ade-4fca-a034-23ee2a35b7a1,inquisitive.casa,available,17.98,,high,low,11,namecheap,,,
+90affdf3-0dfa-4d0d-a935-dbd0b533bcbd,addable.casa,available,1.98,17.98,medium,low,7,namecheap,,,
 052029bf-480b-45ea-a456-f47af6f39701,calender.casa,available,2.19,12.99,high,low,8,namesilo,,,
-6e58f5de-4f13-4268-b1b5-cd414335555d,setfoot.casa,available,17.98,,medium,low,8,namecheap,,,
+68b43ffe-c342-48bc-aa00-0b999ecc0b06,facetious.casa,available,1.98,17.98,medium,low,9,namecheap,,,08/08/2026 14:39
+93bfc22a-2c96-4781-8311-9180cefc2bf6,sadness.casa,available,,,high,low,7,,,,
+8448218e-58a1-4594-b08b-f60972e76129,reliability.casa,available,2.19,12.99,high,low,11,namesilo,,,
+bdde8810-38bd-4bb6-963b-58d45e77419a,underestimate.casa,available,2.19,12.99,high,low,13,namesilo,,,
+5d46c4e7-4264-42b0-8354-eb03ca8d29d2,greedy.casa,available,1.98,17.98,high,low,6,namecheap,,,07/08/2026 22:09
+561bf51c-b474-4208-a890-edbf1a757fcd,cornered.casa,available,1.98,17.98,medium,low,8,namecheap,,,07/08/2026 11:02
+401d866b-5fef-4e78-9627-a24db26c73d6,stranded.casa,available,2.19,12.99,high,low,8,namesilo,,,
+739ee806-aab6-4d8b-a95c-317f5e41605b,combative.casa,available,1.98,17.98,high,low,9,namecheap,,,
+311b4f99-c863-476c-a51d-3784e56403dc,rejection.casa,available,2.19,12.99,high,low,9,namesilo,,,
+5f84e823-9ec4-426f-bde5-5592906d87d4,rump.casa,available,1.98,17.98,medium,low,4,namecheap,,,09/08/2026 11:28
+ee91cc47-8719-4d45-8108-8fa35aa74741,aggravated.casa,available,1.98,17.98,high,low,10,namecheap,,,
+4985bfe7-5653-4f2f-a854-6f9883e50e3e,technique.casa,available,17.98,,high,low,9,namecheap,,,
+30a28ab2-11aa-47b8-bdcf-ad039af35237,building.casa,premium,104,13,high,low,8,namecheap,,,
+1f193e72-a0b9-4093-98ff-d80f3b832111,respond.casa,available,17.98,,high,low,7,namecheap,,,
+be07e590-97f6-4a17-bc6c-5b0401783de2,wine.casa,premium,50,,high,low,4,name.com,,,
+f5568eaf-1bb1-480e-aee0-d173972df0ff,shrimp.casa,premium,50,,high,low,6,name.com,,,
+bf16cbf2-21ef-4a92-87dc-86731a14b23f,vii.casa,premium,47.2,11.8,high,low,3,namesilo,,,
+3433089c-da0c-49fb-b803-103381d10231,chorus.casa,available,2.19,12.99,high,low,6,namesilo,,,
+0d2e8940-a513-4133-9dfb-91030aa9b5e2,blanched.casa,available,1.98,17.98,medium,low,8,namecheap,,,07/08/2026 02:14
+24649d49-f8c1-4068-9bcb-5e1dc1e5cabc,lightweight.casa,available,2.19,12.99,high,low,11,namesilo,,,
+38de6bf7-5b1e-4896-a3a0-43b2855dac3c,solvable.casa,available,2.19,12.99,high,low,8,namesilo,,,
+ec2b3e8e-d997-4822-a58a-6160c5ec6e22,round.casa,premium,47.2,11.8,high,low,5,namesilo,,,09/08/2026 05:09
+f532752d-3ac4-442b-ba88-162bfbfb02e9,thorpe.casa,available,2.19,12.99,high,low,6,namesilo,,,
+6efd136e-d3b8-4915-9d85-5f331e0ccb62,gee.casa,premium,96,11.8,high,low,3,namesilo,,,
+41c3d575-aa46-4c0c-8a08-bfe300e2fa46,affirmative.casa,available,2.19,12.99,high,low,11,namesilo,,,
+4f0dfcb6-9bb0-40a6-b2ba-041a464d6395,alarming.casa,available,1.98,17.98,medium,low,8,namecheap,,,
+e9336970-d703-4754-a83d-524ff986ace6,advisable.casa,available,1.98,17.98,high,low,9,namecheap,,,
+424f3c80-ae1b-4ad8-b257-a8b93d06a121,accomplished.casa,available,2.19,12.99,high,low,12,namesilo,,,
+727bf100-231e-4a17-8cf4-ef9d92fc546b,profess.casa,available,2.19,12.99,high,low,7,namesilo,,,
+62f634da-83b8-44f6-ad76-06cdaf160f39,daylight.casa,available,17.98,,high,low,8,namecheap,,,
+b5dbb6f7-f9f9-4498-8726-11bbd806bde6,restructure.casa,available,2.19,12.99,high,low,11,namesilo,,,
+d53cc6b8-1678-458e-abbe-209c1bf7c19f,disneyland.casa,available,2.19,12.99,high,low,10,namesilo,,,
+08b7e976-521e-4e66-9f56-26f8515d2781,shout.casa,available,2.19,12.99,high,low,5,namesilo,,,
+4136e167-2117-473c-bbdd-066a1dc95f7d,notwithstanding.casa,available,2.19,12.99,medium,low,15,namesilo,,,
+f37eae65-9bd1-4662-a631-320a48f42f58,stable.casa,premium,47.2,11.8,high,low,6,namesilo,,,
+21db36e6-ef77-4ffe-af9f-0795073f9f7e,promise.casa,available,2.19,12.99,high,low,7,namesilo,,,
+32bf5aca-6890-4f50-add1-7f83d4691cc6,incompatible.casa,available,2.19,12.99,high,low,12,namesilo,,,
+220e1930-b317-42bd-a65b-048d0c333efa,banking.casa,available,2.19,12.99,high,low,7,namesilo,,,
+2973a3c7-1761-464b-9252-359d14a04c5c,indigenous.casa,available,1.98,17.98,high,low,10,namecheap,,,07/08/2026 19:31
+e684f43f-5a09-4899-8f56-50a1f7f1e669,accusative.casa,available,1.98,17.98,high,low,10,namecheap,,,
+c246435a-37d8-4171-a829-cdaaa0e19424,livid.casa,available,1.98,17.98,medium,low,5,namecheap,,,07/08/2026 02:24
+18dfee48-819a-4992-9796-c390b1e4953f,luminous.casa,available,1.98,17.98,high,low,8,namecheap,,,
+b57c714c-536c-4fc2-a37f-e7edae7235b1,bell.casa,premium,242,11.8,high,low,4,namesilo,,,
+667fd698-7f51-412a-acb8-4c1a8a0f43fd,argue.casa,available,2.19,12.99,high,low,5,namesilo,,,
+0432a509-38b3-496b-9f1e-119544392f32,hahaha.casa,available,17.98,,high,low,6,namecheap,,,
+ad73b6f3-53eb-49b2-87a9-402b67465968,maintained.casa,available,2.19,12.99,high,low,10,namesilo,,,
+5e4d6a13-43fa-46b9-9fa7-32d7aa28d01b,without.casa,available,17.98,,high,low,7,namecheap,,,
+853d8322-c227-481b-8bc3-988171cc62c8,weakest.casa,available,2.19,12.99,medium,low,7,namesilo,,,
+19d046ba-797a-4c54-862f-a2254bbb6588,abstruse.casa,available,1.98,17.98,medium,low,8,namecheap,,,
+ad098651-f7b4-4a06-90c0-7f7a965f2cd1,barefooted.casa,available,1.98,17.98,medium,low,10,namecheap,,,08/08/2026 18:59
+4a9c2eec-0ab3-416e-98e7-f216ea910aae,contrasting.casa,available,2.19,12.99,high,low,11,namesilo,,,
+e6040cca-a6c6-4159-986f-39f785a08609,watchful.casa,available,1.98,17.98,high,low,8,namecheap,,,
+ced61f41-e3c9-404a-a1bd-aaa09e5b7d62,transparency.casa,available,2.19,12.99,high,low,12,namesilo,,,
+ffe40748-2204-4eb2-aed3-c7a099bcc6e6,invariably.casa,available,2.19,12.99,high,low,10,namesilo,,,
+26e5f1d9-3d63-44eb-8571-b7fa896035d1,its.casa,premium,96,11.8,high,medium,3,namesilo,,,
+15068758-53da-45ea-b7e1-3a1a409c0eef,heel.casa,available,2.19,12.99,high,low,4,namesilo,,,
+3129bcc4-0262-417f-a1dc-f4ed19e6433e,archaic.casa,available,,,high,low,7,,,,
+0135e32e-12ab-4888-a395-ec02246d838f,fervent.casa,available,1.98,17.98,high,low,7,namecheap,,,06/08/2026 16:14
+17c73df0-7ed4-48d0-b4ee-bbd2a0b6bc8b,birthday.casa,premium,47.2,11.8,high,low,8,namesilo,,,
+aec03455-688b-414b-af13-5693ae3ab948,prior.casa,available,2.19,12.99,high,low,5,namesilo,,,
+8f4b4478-1cdd-4256-b1a4-932da41669e5,dji.casa,premium,47.2,11.8,high,low,3,namesilo,,,
+70088937-c83e-4ada-9f36-93c8ecc6a590,clickbait.casa,available,2.19,12.99,medium,low,9,namesilo,,,
+16cac852-96c8-4528-86f5-946df944d4b0,solicit.casa,available,17.98,,high,low,7,namecheap,,,
+03cae362-396c-4a14-a642-5eed6991e1c1,pretending.casa,available,2.19,12.99,high,low,10,namesilo,,,
+9d87ec5f-a75a-49ab-b518-591763eb261d,arco.casa,premium,47.2,11.8,high,low,4,namesilo,,,06/08/2026 16:02
+619c97b6-a379-42e8-b511-a5eaf5cbc63a,informed.casa,available,2.19,12.99,high,low,8,namesilo,,,
+ab381106-2c9d-4dba-9001-f3958af82739,occur.casa,available,2.19,12.99,high,low,5,namesilo,,,
+daaf4040-e725-49db-9cdd-80de962a3686,cracking.casa,available,1.98,17.98,high,low,8,namecheap,,,08/08/2026 12:25
+e2077d78-3705-4952-a3f8-8ded9edaa5a3,manner.casa,available,2.19,12.99,high,low,6,namesilo,,,
+43c9ad54-b748-4a57-96a0-ed31a8f08f5e,disgrace.casa,available,2.19,12.99,high,low,8,namesilo,,,
+190a2b80-2924-47c8-8867-487d0d018e30,vexing.casa,available,1.98,17.98,high,low,6,namecheap,,,
+89f027da-65a9-40b3-8b71-be81f3b59641,prayer.casa,premium,52,13,high,low,6,namecheap,,,
+714b74f1-8d0b-4105-b3cb-3cacc0606452,fiery.casa,available,1.98,17.98,high,low,5,namecheap,,,06/08/2026 16:24
+da54f260-9418-4687-924b-b583f032ca6d,earmark.casa,available,1.98,17.98,high,low,7,namecheap,,,06/08/2026 09:08
+2698193f-fa59-4e0a-a750-a59158f4c7b3,incline.casa,available,2.19,12.99,high,low,7,namesilo,,,
+ccbb16a8-c045-4af8-aedd-8d4f2c43991f,moderately.casa,available,2.19,12.99,medium,low,10,namesilo,,,
+004b6e15-cbff-40f8-acda-ba99871d6b18,runabout.casa,available,2.19,12.99,high,low,9,namesilo,,,
+437b2830-2a62-4d27-84d9-dd67b7dc9d27,eolian.casa,available,1.98,17.98,medium,low,6,namecheap,,,
+8a52bfa2-a0f0-4bda-b547-745a10e863de,exit.casa,available,17.98,,high,low,4,namecheap,,,
+8bcd52e7-993e-4ce2-a868-7665b82d9553,foul.casa,premium,47.2,11.8,high,low,4,namesilo,,,
+2a01313b-781e-44ed-954f-638b09e2f43f,aspherical.casa,available,1.98,17.98,medium,low,10,namecheap,,,07/08/2026 04:57
+7831aa8a-a6d1-4905-99a2-81f5b2379a3c,flak.casa,available,1.98,17.98,medium,low,4,namecheap,,,
+13d9b477-8742-481c-b8b4-2f07792d35d8,mothafucker.casa,available,2.19,12.99,medium,low,11,namesilo,,,
+2176fcde-a855-4ead-876f-987525d53bc5,abusive.casa,available,1.98,17.98,medium,low,7,namecheap,,,
+864cc361-6a6e-4365-a4a5-1829bf0b8098,skilled.casa,available,2.19,12.99,high,low,7,namesilo,,,
+995f8589-271d-4b01-a81a-dd389c2a669b,ilx.casa,premium,47.2,11.8,medium,low,3,namesilo,,,
+c2ae392b-d914-4f46-ad5a-bfee3648c0ad,placed.casa,available,2.19,12.99,high,low,6,namesilo,,,
+7dec546d-db64-49d1-a061-146709aa3d3d,majestic.casa,available,2.19,12.99,high,low,8,namesilo,,,
+2430614a-0286-4bc4-ac1d-b3e4b231dc19,andantino.casa,available,1.98,17.98,medium,low,9,namecheap,,,
+de813cd0-b1fb-480c-8313-0e11fb1c60e3,supersize.casa,available,2.19,12.99,high,low,9,namesilo,,,
+0e6e8971-20ac-4618-b494-ca95d0780fd5,aft.casa,premium,96,11.8,high,low,3,namesilo,,,
+d965f73b-e551-4a62-ac9b-961651937af8,beaded.casa,available,1.98,17.98,medium,low,6,namecheap,,,09/08/2026 03:18
+9d4d80ce-f978-4f77-8db5-d8c43a2b4e87,colombo.casa,premium,96,11.8,high,low,7,namesilo,,,
+e1592b66-da46-4227-818f-fe6b064ec900,complain.casa,available,2.19,12.99,high,low,8,namesilo,,,
+e8b3abda-fea0-4461-88e5-2cf3807fe184,thumping.casa,available,1.98,17.98,high,low,8,namecheap,,,08/08/2026 13:08
+c80758fd-c03b-41e9-89ce-6a30c4844578,granddad.casa,available,17.98,,high,low,8,namecheap,,,
+8736712b-9f90-43ea-a714-ecd41291050b,friend.casa,resell,,,high,low,6,"Spaceship, Inc.",25/02/2026 21:27,25/02/2027 21:27,
+f035dad1-28b1-45e3-a6b0-2755a556cdd0,jenny.casa,premium,96,11.8,high,low,5,namesilo,,,
+53ea266e-40b1-478a-860b-49b898a9c4e9,abnaki.casa,available,1.98,17.98,medium,low,6,namecheap,,,
+116a55c6-5035-4afd-8153-66959acfd008,channels.casa,available,2.19,12.99,high,low,8,namesilo,,,
+1b172a98-8c52-4abd-ada6-6d0ff06302c6,bagel.casa,premium,47.2,11.8,high,low,5,namesilo,,,
+f59d6d41-ccb8-4c82-8e04-3c13af6ffdc0,tribute.casa,available,2.19,12.99,high,low,7,namesilo,,,
+9471ec34-0670-4229-841e-7ff5b3401857,scummy.casa,available,1.98,17.98,medium,low,6,namecheap,,,
+e97238eb-d6fe-44e7-a801-a9f61ac52291,passionately.casa,available,2.19,12.99,high,low,12,namesilo,,,
+4f27c0ac-00b5-4741-bd37-c081e612b6ea,prepare.casa,premium,47.2,11.8,high,low,7,namesilo,,,
+814b6eaa-7a93-46e2-ab2f-ee8d4e774b49,adient.casa,available,1.98,17.98,medium,low,6,namecheap,,,
+43c339e6-2092-47f1-a707-6f8318ef4844,fairs.casa,available,2.19,12.99,high,low,5,namesilo,,,
+bcc5061b-b4e7-4f33-a5e2-b1bf8105b2ff,burly.casa,available,1.98,17.98,medium,low,5,namecheap,,,09/08/2026 07:54
+b193995e-358c-4427-b8b2-2aaf1916239f,org.casa,resell,,,high,medium,3,"Spaceship, Inc.",14/08/2025 01:18,14/08/2027 01:18,20/09/2026 20:58
+040cdfbf-c7a8-4296-a4d3-0943b0d12ede,aunt.casa,premium,47.2,11.8,high,low,4,namesilo,,,
+5b14bcd1-ee4a-4ec4-8195-3e2f752399ac,pita.casa,premium,96,11.8,high,low,4,namesilo,,,
+70f358dd-41a9-419e-814d-13248bc334d8,abridged.casa,available,1.98,17.98,high,low,8,namecheap,,,
+734a339f-e36c-4d83-b9d2-595752e924c6,passive.casa,available,2.19,12.99,high,low,7,namesilo,,,
+a9f351d5-ee02-49cb-8f2c-ae7a0003f01a,roll.casa,premium,50,,high,low,4,name.com,,,
+d3714609-f6ab-4dba-a874-20daa82f9302,obey.casa,premium,47.2,11.8,high,low,4,namesilo,,,
+0f8677fc-fa39-4b5e-ac2f-972770248a80,criticise.casa,available,2.19,12.99,high,low,9,namesilo,,,
+26c53772-50e1-46c3-aff5-dcd2fc7faa2c,whoever.casa,available,2.19,12.99,medium,low,7,namesilo,,,
+1d14aff1-ad03-47a9-9878-49f57d6c7a8c,assurgent.casa,available,1.98,17.98,medium,low,9,namecheap,,,07/08/2026 08:26
+bd9a091a-e2b8-4a9d-9007-5a09ec78f861,coffeeman.casa,available,2.19,12.99,high,low,9,namesilo,,,
+ed5f8c53-4811-4d05-baff-e586426a8a02,bahrain.casa,available,,,high,low,7,,,,
+5cd1276f-dd24-4755-9146-4fc0a0b1751d,messy.casa,available,2.19,12.99,high,low,5,namesilo,,,
+cb137935-6583-4580-8e22-86f2d4379c0f,afghan.casa,premium,96,11.8,high,low,6,namesilo,,,
+38ded49f-20ac-4235-befa-b11c79c18364,namely.casa,available,2.19,12.99,high,low,6,namesilo,,,
+600e1b17-fe68-45bd-ab1b-8315eb44f4b5,boer.casa,available,1.98,17.98,high,low,4,namecheap,,,
+baf2e20c-3bea-47a1-a0e4-da86495a96a3,batrachian.casa,available,1.98,17.98,medium,low,10,namecheap,,,05/08/2026 20:53
+33630012-8456-43b7-8df4-58c2adc1b585,barring.casa,available,2.19,12.99,medium,low,7,namesilo,,,
+10b04014-4a53-4eea-b91b-f341990c96fb,shrek.casa,available,17.98,,high,medium,5,namecheap,,,
+208399c5-b9bb-4131-8b5d-49aeb19b3fa2,bashful.casa,available,1.98,17.98,high,low,7,namecheap,,,08/08/2026 22:01
+a7a37bd1-d39b-45ca-9544-1db3d71f5009,bonkers.casa,available,,,medium,low,7,,,,
+48c7c787-e4da-4a58-ad43-a7c0ac69ab75,unkeyed.casa,available,1.98,17.98,low,low,7,namecheap,,,07/08/2026 13:50
+c04be70e-231e-4937-a5ee-83e046726119,jason.casa,premium,47.2,11.8,high,low,5,namesilo,,,
+a1931c7a-03b2-42b4-ba12-1e2c8d875640,believable.casa,available,1.98,17.98,high,low,10,namecheap,,,09/08/2026 13:01
+fdbbfbc1-abbb-479f-9856-0fde8e384ef3,absolutely.casa,available,2.19,12.99,high,low,10,namesilo,,,
+0543d1d8-736b-4d6d-b007-ff669ad9a04b,cxx.casa,premium,47.2,11.8,high,low,3,namesilo,,,
+42f074b1-8072-4ced-8b65-a6a140838ff5,baric.casa,available,1.98,17.98,low,low,5,namecheap,,,08/08/2026 19:31
+d5eadb34-770c-4a81-9de9-12e322a9fa1a,sweets.casa,available,2.19,12.99,high,low,6,namesilo,,,
+1990df59-bca5-451c-b5c8-a248af74de76,illness.casa,available,2.19,12.99,high,low,7,namesilo,,,
+13b3b69b-d296-4e9e-abc4-712d6ff1238e,press.casa,premium,47.2,11.8,high,low,5,namesilo,,,
+96c900b6-e944-4025-891f-1c24643b9fbd,currently.casa,available,17.98,,high,low,9,namecheap,,,
+2bbdc98c-616c-4e75-96fa-c266366d2d41,appreciative.casa,available,17.98,,high,low,12,namecheap,,,
+bfd3d7ba-2dbf-428b-a454-25e954faab4e,locally.casa,available,17.98,,high,low,7,namecheap,,,
+0c940a74-2872-43ef-b24d-798ba5704701,prolific.casa,available,2.19,12.99,high,low,8,namesilo,,,
+b0e753c6-9591-4209-b062-b8d66ad81f24,xxxii.casa,available,1.98,17.98,medium,low,5,namecheap,,,
+f4607478-63be-4fa5-b45b-4851c4ae1f96,appreciate.casa,premium,47.2,11.8,high,low,10,namesilo,,,
+7cc83d0e-619d-4e68-849c-0491658bd4fc,incentive.casa,available,2.19,12.99,high,low,9,namesilo,,,
+453ec769-2f8b-4912-b3f4-b027707a7f59,autumnal.casa,available,1.98,17.98,medium,low,8,namecheap,,,07/08/2026 21:23
+87ba0ac8-661e-4569-9617-408ee7a4595d,pronounce.casa,available,2.19,12.99,high,low,9,namesilo,,,
+a6d159b7-0722-45b5-b1d4-adaaffe16d24,kidney.casa,available,,,high,low,6,,,,
+69212526-4c29-4164-9e06-d44fd00ec76e,publicly.casa,available,17.98,,high,low,8,namecheap,,,
+342f02d6-cba9-4132-af3b-195826347510,modest.casa,premium,47.2,11.8,high,low,6,namesilo,,,
+e43e05b9-1741-4fa3-9288-7805e6d4e2a8,oriented.casa,available,2.19,12.99,high,low,8,namesilo,,,
+b6289263-1108-485e-ac3d-ddd3be175458,macedonia.casa,available,2.19,12.99,high,high,9,namesilo,,,
+2bc6ee09-bad5-458f-9511-62f361f827d4,fake.casa,available,1.98,17.98,high,low,4,namecheap,,,08/08/2026 23:02
+8ba91cf8-d679-489d-9eca-970d848b5227,mothafucka.casa,available,2.19,12.99,medium,low,10,namesilo,,,
+73fb4f48-ac12-4ec8-80c9-aa2678d0be6c,distract.casa,available,2.19,12.99,high,low,8,namesilo,,,
+62634b5c-ca41-4455-b9ef-894d529192f7,nettled.casa,available,1.98,17.98,medium,low,7,namecheap,,,
+3e129df3-1672-4221-b472-ec6cb984019c,americas.casa,available,2.19,12.99,high,low,8,namesilo,,,
+07abe7fa-8787-405b-8147-b2e19c3862de,covenant.casa,available,2.19,12.99,high,low,8,namesilo,,,
+8efaea32-ab0d-4a21-827e-05bb8dfe1ea9,prosecution.casa,available,17.98,,high,low,11,namecheap,,,
+1c9f5e81-e3c1-446f-bbf6-298e6b60515c,skirt.casa,available,17.98,,high,low,5,namecheap,,,
+cb89c12e-ab3a-418f-a1ff-d7d62fd5da9a,canal.casa,premium,47.2,11.8,high,low,5,namesilo,,,
+39da4b5c-232a-49bc-8dc9-863cfcc0e73b,incorrect.casa,available,2.19,12.99,high,low,9,namesilo,,,
+72def2f7-ccf8-49a4-8147-0a9bf2c394d4,taal.casa,available,1.98,17.98,medium,low,4,namecheap,,,
+ea4d2463-adf0-4d1d-b2aa-f6d8bf39323e,barefaced.casa,available,1.98,17.98,medium,low,9,namecheap,,,08/08/2026 09:20
+b4d72d62-4744-44ba-a0a8-2690cbe776cf,discount.casa,premium,47.2,11.8,high,low,8,namesilo,,,
+89cda9c7-59aa-4d21-8f5c-bf83396d3789,anticipated.casa,available,1.98,17.98,high,low,11,namecheap,,,08/09/2026 14:34
+96215f85-510b-46ad-97c4-f3be4bd7f0d8,parallel.casa,available,1.98,17.98,high,low,8,namecheap,,,
+00abad2d-e238-49be-8d03-d80fc259cbb8,hello.casa,resell,,,high,high,5,UM Domains Pte. Ltd.,28/02/2026 00:00,28/02/2027 00:00,
+d0d827d1-515c-413c-b3b8-c3f65c4b8d15,loss.casa,available,2.19,12.99,high,low,4,namesilo,,,
+e1eaa1ab-11a1-4a85-91f8-3358fe20d8ef,ever.casa,resell,,,high,medium,4,Dynadot Inc,13/02/2026 00:01,13/02/2027 00:01,
+ebf818cd-3c74-47ba-b46f-708ac804e6bd,alkalizer.casa,available,1.98,17.98,high,low,9,namecheap,,,
+207d7796-ba00-41d0-b930-fa888207742c,armada.casa,available,2.19,12.99,high,low,6,namesilo,,,
+a9ae5621-b800-425c-9f46-9a230bcf1cc2,clay.casa,premium,47.2,11.8,high,low,4,namesilo,,,
+5d7c027f-0e01-49ce-9675-21576347ce7f,fla.casa,premium,47.2,11.8,high,low,3,namesilo,,,
+d8514351-e78f-41df-b472-a96e1a7d634d,specially.casa,available,17.98,,high,low,9,namecheap,,,
+5099e028-93a6-43b3-ae1e-486af4fd53ab,dorsal.casa,available,1.98,17.98,high,low,6,namecheap,,,
+2a292be3-881b-43ba-a0fa-970a10976fc9,sore.casa,available,1.98,17.98,high,low,4,namecheap,,,
+6c0aa0c4-99ac-4237-93db-0f7d874649fd,aperiodic.casa,available,1.98,17.98,medium,low,9,namecheap,,,05/08/2026 22:30
+0d38f543-98a7-4454-b93e-7bc399db7dc6,backpack.casa,premium,47.2,11.8,high,low,8,namesilo,,,
+a3ba48b3-28d3-4621-9e24-4f1c13e5dbfe,carrying.casa,available,2.19,12.99,high,low,8,namesilo,,,
+5324afec-a567-4c91-97bc-5b6c84b75e9b,recognizable.casa,available,2.19,12.99,high,low,12,namesilo,,,
+2551488b-6eee-4c1b-9a68-94347fd77f26,returning.casa,available,17.98,,high,low,9,namecheap,,,
+cccbfefb-351b-492a-9d30-3d0ff8e014b2,untrustworthy.casa,available,2.19,12.99,medium,low,13,namesilo,,,
+b1627cfd-dd4c-4e40-b2b4-db5a78596ccd,seemly.casa,available,1.98,17.98,medium,low,6,namecheap,,,09/08/2026 06:27
+b6943bce-9fda-4cd1-850f-df004b4107dc,clxv.casa,available,1.98,17.98,medium,low,4,namecheap,,,
+dd6cc51c-ff67-47b5-b8fc-cfc4528ee93b,squinty.casa,available,1.98,17.98,medium,low,7,namecheap,,,07/08/2026 03:20
+7efa2bab-2304-477a-ac47-54bb0f8b287f,rid.casa,premium,96,11.8,high,low,3,namesilo,,,
+2aac3a2f-4cdd-4c11-8d29-222e1728a344,islands.casa,available,2.19,12.99,high,low,7,namesilo,,,
+78af16fe-63e2-4846-8146-62ab0eb06fee,facilitating.casa,available,2.19,12.99,medium,low,12,namesilo,,,
+f04be018-fd9c-4518-ac0f-cbda764d331f,division.casa,premium,47.2,11.8,high,low,8,namesilo,,,
+db7b5230-d8ea-425d-acbf-49dfcd212753,rare.casa,available,,,high,low,4,,,,
+f139ada0-b3c1-4d34-971f-02806cae6f96,ted.casa,premium,100,,high,low,3,name.com,,,
+f720d902-da73-47d8-b414-cd70ecb237bb,flaring.casa,available,1.98,17.98,high,low,7,namecheap,,,
+4685591f-a2ea-4c2f-8190-87a01694e504,oar.casa,premium,96,11.8,high,low,3,namesilo,,,
+24efadeb-d685-4fb1-b5cb-9db85c66f285,legs.casa,available,2.19,12.99,high,low,4,namesilo,,,
+eeb63fe4-7e35-44ec-9a83-5566c1877286,temple.casa,available,,,high,low,6,,,,
+ac50a922-635a-49af-b5d7-c3e9161667be,visibility.casa,available,2.19,12.99,high,low,10,namesilo,,,
+5e8214db-6775-480c-b77a-fc30ca311e8b,astringent.casa,available,1.98,17.98,medium,low,10,namecheap,,,
+50793d56-48b9-44d5-93b0-914e14e3047d,summoned.casa,available,2.19,12.99,medium,low,8,namesilo,,,
+fc80b4b3-bafe-444a-b277-94fe86b1f8f2,icon.casa,resell,,,high,medium,4,"Spaceship, Inc.",15/09/2025 20:14,15/09/2026 20:14,
+61a1af83-d2cd-40d1-8efc-a3e21c9d8b1a,reported.casa,available,2.19,12.99,high,low,8,namesilo,,,
+96ae1f44-b7b3-4a2e-a85e-5754c7c4ee74,election.casa,available,2.19,12.99,high,low,8,namesilo,,,
+35d38cc1-cec1-44fb-994a-d47c2dcbb6db,stand.casa,premium,47.2,11.8,high,low,5,namesilo,,,
+7cf84f77-8639-40be-9479-12e117de2df7,grimy.casa,premium,47.2,11.8,medium,low,5,namesilo,,,09/08/2026 09:25
+48b2d1dd-fe93-4334-9ac4-1d6db66ac872,affective.casa,available,1.98,17.98,high,low,9,namecheap,,,
+5e471277-493e-4a9d-b538-57d64cc39a59,consultive.casa,available,1.98,17.98,high,low,10,namecheap,,,
+dfe6b4e8-c13a-43db-9e1d-ab7a8c2f1a09,increasing.casa,available,2.19,12.99,high,low,10,namesilo,,,
+3b4cbc04-cbbf-46bd-ae2d-e85b7943f0da,land.casa,resell,,,high,low,4,"Spaceship, Inc.",16/10/2025 02:18,16/10/2026 02:18,
+1f95be2f-76cc-4c6b-8ddb-92d541bb0149,maximum.casa,available,2.19,12.99,high,low,7,namesilo,,,
+dcac7a20-31a0-4a49-8dbd-13018f08d072,neighbour.casa,available,2.19,12.99,high,low,9,namesilo,,,
+1b78b31f-0121-41bc-9798-8f98a76fc33f,needle.casa,available,2.19,12.99,high,low,6,namesilo,,,
+06818b95-0906-47c1-8676-ad5c40e9c899,awe.casa,premium,96,11.8,high,low,3,namesilo,,,
+4e364053-b2b5-4a68-b05c-a4b7e0311754,aligned.casa,available,1.98,17.98,high,low,7,namecheap,,,
+cbdec274-1070-4018-85f0-e797e2a6a006,avuncular.casa,available,1.98,17.98,medium,low,9,namecheap,,,07/08/2026 23:51
+d70138d2-bb39-46f5-9360-c56679dad326,phoebe.casa,available,1.98,17.98,medium,low,6,namecheap,,,
+8b65f8b6-7c6e-49f4-9f1a-5434ec839cb7,quickness.casa,available,2.19,12.99,high,low,9,namesilo,,,
+9c3d489d-bf63-4ed4-812e-cf81ef8fbfa4,lisbon.casa,premium,96,11.8,high,low,6,namesilo,,,
+d2e716a1-af1d-48a4-9c8a-7480dcf6b60e,accretive.casa,available,1.98,17.98,medium,low,9,namecheap,,,
+35250b00-2cee-42b8-8660-072d3d786d30,haste.casa,available,17.98,,high,low,5,namecheap,,,
+7a4a6254-1643-4812-9260-b302ff90a992,function.casa,premium,96,11.8,high,low,8,namesilo,,,
+fc79d2a1-b8c5-4499-b62b-f0031f6fa7ae,higher.casa,available,2.19,12.99,high,low,6,namesilo,,,
+1d54ecbd-cdb9-4671-baa4-05223776aa95,perforation.casa,available,17.98,,high,low,11,namecheap,,,
+c234ce7d-ea13-4920-9591-8c4d9170ad75,aguacate.casa,premium,96,11.8,medium,low,8,namesilo,,,07/08/2026 23:46
+e2337a7a-97df-4adc-8f70-71b71989d6a4,lunch.casa,available,2.19,12.99,high,low,5,namesilo,,,
+1ab93e1a-00f4-4384-b4bd-3d2f7279d526,zone.casa,premium,47.2,11.8,high,low,4,namesilo,,,
+a2964428-1113-4288-b0d4-631d556c8021,burred.casa,available,1.98,17.98,medium,low,6,namecheap,,,08/08/2026 17:23
+8c7c71a8-f3b2-43f3-9a54-e0c17edc6abb,cone.casa,premium,47.2,11.8,high,low,4,namesilo,,,
+9688b6db-ed44-488b-a65d-45bc940f51a3,accounted.casa,available,2.19,12.99,medium,low,9,namesilo,,,
+61bada7f-ec2e-487e-aaff-244b0a386e1f,uphill.casa,available,1.98,17.98,medium,low,6,namecheap,,,
+dc05cb2f-cfa0-453a-b6d9-36d3453f95b2,pencil.casa,available,2.19,12.99,high,low,6,namesilo,,,
+8b136092-c323-4fab-b22b-80152ab54736,assumed.casa,available,1.98,17.98,medium,low,7,namecheap,,,07/08/2026 07:45
+fd25a263-f4de-4493-b498-02e7f763503f,remington.casa,available,2.19,12.99,high,low,9,namesilo,,,
+cf97315e-4a42-42d2-ba56-f766e0170259,lobby.casa,available,2.19,12.99,high,low,5,namesilo,,,
+7ea02e30-695b-4176-b89d-cd79480786cc,awol.casa,available,1.98,17.98,high,low,4,namecheap,,,08/08/2026 01:46
+8ad64333-1803-4eed-b0e0-bb8d92deed80,boxing.casa,premium,50,,high,low,6,name.com,,,
+cf27c5e0-ecd2-4096-9b7f-b075e173dc6f,affirm.casa,available,,,high,low,6,,,,
+053ff04d-c512-4e87-a7e4-729245327f83,packed.casa,available,2.19,12.99,high,low,6,namesilo,,,
+00877f97-4116-4511-96fa-b2bc4f305f71,grabby.casa,available,1.98,17.98,medium,low,6,namecheap,,,07/08/2026 21:58
+ee4e5d84-f146-465f-abcc-b4437892cf72,wax.casa,premium,96,11.8,high,low,3,namesilo,,,
+ff6dd9d5-e831-4e63-af1f-397110ddfae4,anesthetic.casa,available,1.98,17.98,high,low,10,namecheap,,,
+10a727f8-9ed7-4970-b3fd-83c4b18a30ed,quatern.casa,available,1.98,17.98,medium,low,7,namecheap,,,
+197b1c68-1477-42f4-9d90-5278d9d02a31,fascinate.casa,available,2.19,12.99,high,low,9,namesilo,,,
+937faded-2c51-45cc-9e43-a376a0bae2a1,energizing.casa,available,1.98,17.98,high,low,10,namecheap,,,
+0a343b68-00b2-45ea-b0bc-229b7a24e31d,ghostlike.casa,available,1.98,17.98,medium,low,9,namecheap,,,06/08/2026 05:23
+0e3ac0dc-0247-44b6-8594-20cd6806fcbb,attempted.casa,available,1.98,17.98,high,low,9,namecheap,,,07/08/2026 15:12
+713eb1f1-6029-4308-93a0-3c5d7808dc83,seat.casa,available,,,medium,low,4,,,,
+9cb90f37-1cfc-4e41-9394-576bb03646b3,clearance.casa,available,1.98,17.98,high,low,9,namecheap,,,08/09/2026 08:11
+6a65bb5a-8581-4849-8ba7-b9ada8e28804,twist.casa,available,,,high,low,5,,,,
+62178e73-f344-4a59-a3c0-48c6256fd3e3,lyric.casa,available,2.19,12.99,high,low,5,namesilo,,,
+36e4f513-25ce-4140-a22b-f54fabccbe0c,planetarium.casa,available,2.19,12.99,high,low,11,namesilo,,,
+827ab458-4996-4c5f-990d-29cf3e425333,ixl.casa,premium,47.2,11.8,medium,low,3,namesilo,,,
+1f5e4605-aa30-4b81-a9aa-96a2514912a3,orchestra.casa,available,2.19,12.99,high,low,9,namesilo,,,
+cb664a47-fde8-4dd9-b2d0-8b8ab8dbf0a4,coalesced.casa,available,1.98,17.98,medium,low,9,namecheap,,,
+ff46300a-481d-4a25-8396-329a21c4aa15,panic.casa,available,,,high,low,5,,,,
+6ce8fb01-3443-4f21-a05f-c03e8e9b6039,cassette.casa,available,,,high,low,8,,,,
+c3f3765c-c190-493c-ae55-83dbffca1677,formless.casa,available,1.98,17.98,high,low,8,namecheap,,,
+3a909a87-c93f-4da7-b5ff-0a1a9840ba37,furious.casa,available,,,high,low,7,,,,
+13baa0b2-f4e4-4c26-b7bf-dfff7b673bd4,grocery.casa,available,1.98,17.98,high,low,7,namecheap,,,08/09/2026 13:48
+7cb33b6b-b559-4655-a28d-5610fa70e924,torn.casa,available,2.19,12.99,high,low,4,namesilo,,,
+05f0c2f9-0f14-4cef-b104-452f5e4138b5,asymptotic.casa,available,1.98,17.98,medium,low,10,namecheap,,,07/08/2026 10:30
+5933b1d4-b82d-4b30-8fc3-d20c4f5b4a0a,aborigine.casa,available,1.98,17.98,high,low,9,namecheap,,,
+f5b9ca6c-3e25-4188-8487-9b2bd6d42a76,effect.casa,premium,96,11.8,high,low,6,namesilo,,,
+66f38911-a625-4ddc-895d-8242d2d358c1,waterless.casa,available,1.98,17.98,medium,low,9,namecheap,,,06/08/2026 19:03
+2d70fcca-52ac-411b-8bd9-a0887dbc463d,axonal.casa,available,1.98,17.98,medium,low,6,namecheap,,,08/08/2026 02:01
+c75a1edc-e5e3-4e05-80d5-6ed4c8caf459,result.casa,available,2.19,12.99,high,low,6,namesilo,,,
+ce2342c8-de4b-44cd-9164-e5aed2681e45,overhang.casa,available,1.98,17.98,medium,low,8,namecheap,,,09/08/2026 08:28
+6891eaf2-fdbe-4e5c-95e4-8d8062b5d9a0,addresses.casa,available,17.98,,medium,low,9,namecheap,,,
+b1e8f253-5018-422b-81fd-acff859c16b5,bought.casa,available,2.19,12.99,high,low,6,namesilo,,,
+09d760d4-971b-4a5c-bf05-e43545ce97cf,adiabatic.casa,available,1.98,17.98,medium,low,9,namecheap,,,
+46d62f74-3538-41bc-8c4e-346acea2dc8d,his.casa,premium,242,11.8,high,low,3,namesilo,,,
+e0a6491f-e9d7-499a-bc17-595ad257ab22,tho.casa,premium,1000,,medium,low,3,name.com,,,
+bcfa310f-fd96-41b8-a3ac-16c185e20435,amused.casa,available,1.98,17.98,high,low,6,namecheap,,,
+bd716e05-7d44-4391-82ec-7351db6ad938,beaming.casa,available,1.98,17.98,high,low,7,namecheap,,,09/08/2026 04:03
+148b8fc9-7040-49d3-897a-7c866360719a,coldly.casa,available,2.19,12.99,medium,low,6,namesilo,,,
+8d468991-a73b-433b-b3a6-d92158ab0164,seek.casa,available,2.19,12.99,high,low,4,namesilo,,,
+611ce40c-d841-4fcb-b181-4b4cd3bbfe0a,beating.casa,available,2.19,12.99,high,low,7,namesilo,,,
+7e410ab6-8e5b-4670-88a5-eb6d1fc8f4dc,insolvent.casa,available,1.98,17.98,medium,low,9,namecheap,,,08/08/2026 13:34
+10409eee-9b5c-434d-9447-a7f45a66d1b1,countries.casa,available,17.98,,medium,low,9,namecheap,,,
+ae0acfe4-9f77-4c1a-b07d-22f32295d184,recommend.casa,available,2.19,12.99,high,low,9,namesilo,,,
+96730e3c-9759-4f64-bea7-273f7826fa35,anger.casa,available,17.98,,high,low,5,namecheap,,,
+1d77fa5a-e603-4449-b0eb-84f4398217ea,neighboring.casa,available,17.98,,high,low,11,namecheap,,,
+fbc0848c-3a93-440a-968a-90e2e45dc044,rhoda.casa,available,2.19,12.99,high,low,5,namesilo,,,
+be3ec8e9-8e66-494f-9dbe-c5bf9877bf76,affirmable.casa,available,1.98,17.98,medium,low,10,namecheap,,,
+ccd6ad26-34d6-4e17-9099-c23203e2da97,substantial.casa,premium,47.2,11.8,high,low,11,namesilo,,,
+db77a7d6-844b-4456-9901-f470162d77fc,auxetic.casa,available,,,medium,low,7,,,,
+ce92e00c-7278-4d4c-9cc4-76f1c6a32ae2,phony.casa,available,1.98,17.98,high,low,5,namecheap,,,08/08/2026 23:09
+ee40d669-092a-40a9-b29d-075bb4921bab,traveled.casa,available,2.19,12.99,high,low,8,namesilo,,,
+f1190e15-6c39-43ca-9f44-6ed618b66257,gang.casa,available,2.19,12.99,high,low,4,namesilo,,,
+9893f024-ba29-4ef5-9a41-caf6448b5592,committee.casa,available,2.19,12.99,high,low,9,namesilo,,,
+5630bbcc-8a4d-47e4-a305-b58391eea630,maven.casa,available,1.98,17.98,high,low,5,namecheap,,,
+f9ad44ee-86ce-434f-b8a5-ad0f0c464a32,feelings.casa,available,2.19,12.99,high,low,8,namesilo,,,
+b7ef1256-b660-4627-991d-198d6a82ceae,how.casa,premium,242,11.8,high,low,3,namesilo,,,
+596af50b-c756-4284-81d7-6975ae2139a4,highway.casa,available,2.19,12.99,high,low,7,namesilo,,,
+a2ad8b13-de39-4141-a089-7491bf20d346,graspable.casa,available,1.98,17.98,medium,low,9,namecheap,,,06/08/2026 08:18
+a3b0f900-f657-4f15-816a-831c4d5db21e,workfare.casa,available,2.19,12.99,high,low,8,namesilo,,,
+51e27992-839a-4559-8704-87c7703aa0b6,showcase.casa,available,2.19,12.99,high,low,8,namesilo,,,
+9a16942f-a58d-4efb-8a36-7d290f5e4cf2,stately.casa,available,1.98,17.98,high,low,7,namecheap,,,08/08/2026 20:22
+fc694759-f4ed-46af-bd01-29180f757b48,basal.casa,available,1.98,17.98,high,low,5,namecheap,,,08/08/2026 21:24
+d130b667-f0e7-451e-8712-774c3a4c207e,acknowledge.casa,available,17.98,,high,low,11,namecheap,,,
+58c13900-0c21-43c9-9ec0-11b22e62030b,glossary.casa,available,17.98,,high,low,8,namecheap,,,
+707cd4fe-cb42-44eb-8bb1-ee43bf808847,importance.casa,available,17.98,,high,low,10,namecheap,,,
+008abf7a-1d0c-4780-b7e2-3f45cef80c0d,receipt.casa,available,2.19,12.99,high,low,7,namesilo,,,
+11b52384-834a-4a6d-9192-d6984257aa47,departed.casa,available,1.98,17.98,medium,low,8,namecheap,,,07/08/2026 11:31
+7d48ee1a-2423-497f-b65e-6b0daede25ef,crossroads.casa,available,17.98,,high,low,10,namecheap,,,
+0ed1ef1e-9cb6-483e-be3a-754b04b4f8ed,calf.casa,premium,47.2,11.8,high,low,4,namesilo,,,
+0646f611-3c83-4d2a-8a8b-60963b79c2c0,industrial.casa,premium,52,13,high,low,10,namecheap,,,
+22bb818f-6a51-4cf8-bd6a-f4c0e4596ea1,numbers.casa,available,17.98,,high,low,7,namecheap,,,
+ec3d0c1c-57f2-43e5-ba77-781adde58596,darken.casa,available,2.19,12.99,high,low,6,namesilo,,,
+0761ed92-2326-40e9-a0e5-466922a21266,wife.casa,premium,100,,high,low,4,name.com,,,
+d78ceb42-4bd6-465e-94c4-098bd9c50bd7,baffling.casa,available,1.98,17.98,medium,low,8,namecheap,,,08/08/2026 08:02
+35a52552-5bc8-41b1-bdbd-16450c640947,repel.casa,available,2.19,12.99,high,low,5,namesilo,,,
+cfea64ed-70e5-4381-b8a9-f4df8b2348e6,removal.casa,available,2.19,12.99,high,low,7,namesilo,,,
+35eca53c-4e6c-4733-82f0-e759685cace6,banked.casa,available,2.19,12.99,medium,low,6,namesilo,,,
+2ba3cf8d-bf3f-4928-bffe-7746817c5f65,thirtieth.casa,available,1.98,17.98,high,low,9,namecheap,,,
+77450dea-104f-47fb-a383-19b1f527cde2,syndrome.casa,available,17.98,,high,low,8,namecheap,,,
+a77aad07-4ae3-472c-85ad-40d4098ae9b9,cricket.casa,premium,50,,high,low,7,name.com,,,
+bcd77b25-016e-4079-aaec-38fe2287cdae,uppercase.casa,available,2.19,12.99,high,low,9,namesilo,,,
+f5051ff3-4869-4eca-b899-a0adc46790af,friends.casa,resell,,,high,low,7,"Spaceship, Inc.",01/12/2025 21:38,01/12/2026 21:38,
+2dcecb77-35ca-4b23-b494-576e7fd66203,fence.casa,resell,,,high,low,5,Porkbun,13/09/2024 14:33,13/09/2026 14:33,
+f1fb847e-0446-4e92-9531-9d4165bc0bf4,agonising.casa,available,1.98,17.98,medium,low,9,namecheap,,,
+b9a1f6d0-5cef-4619-a6ea-145bbd0c5ec6,definition.casa,available,2.19,12.99,high,low,10,namesilo,,,
+40ba76ab-381f-4a03-a852-94aa9877f820,disposed.casa,available,2.19,12.99,high,low,8,namesilo,,,
+1c3a2377-0f0b-45b8-ad10-2c23a97a995d,citibank.casa,available,2.19,12.99,high,medium,8,namesilo,,,
+0e5ec25e-b536-41e0-966b-afdac5ff6b00,sensing.casa,available,2.19,12.99,high,low,7,namesilo,,,
+c0c4c9a4-9beb-4a09-a00d-51533b9d237b,innocence.casa,available,2.19,12.99,high,low,9,namesilo,,,
+12da483c-bd09-4c91-8630-4001c6711adc,trees.casa,premium,47.2,11.8,high,low,5,namesilo,,,
+2da12da6-29fb-41e6-8118-3f127522eb11,aeriform.casa,available,1.98,17.98,medium,low,8,namecheap,,,
+cf583b8d-0576-46ae-9b25-c00ebd013797,corresponding.casa,available,2.19,12.99,high,low,13,namesilo,,,
+a4863260-210a-4734-8858-ec9ff95fd72c,also.casa,available,2.19,12.99,high,low,4,namesilo,,,
+326e9124-f9bc-4099-a282-5cfa7a6e4ba2,mention.casa,available,2.19,12.99,high,low,7,namesilo,,,
+d18bb25e-756e-4ec0-8cd8-73c6b504fee5,trolling.casa,available,2.19,12.99,high,low,8,namesilo,,,
+329a370b-9f8f-44d7-85e7-6991c95ee03a,challenging.casa,available,2.19,12.99,high,low,11,namesilo,,,
+e37c1a54-077c-4ec1-9e8b-80eec009b506,esteem.casa,available,2.19,12.99,high,low,6,namesilo,,,
+38a02a17-db4e-4ebf-b27b-9c6b5a20a9b8,adenoid.casa,available,1.98,17.98,medium,low,7,namecheap,,,
+d674b6c5-52d0-4968-8123-1cbef83b853c,agnostical.casa,available,1.98,17.98,medium,low,10,namecheap,,,
+4411d4a4-496f-425c-8cc4-f1cf9e5f6309,anguine.casa,available,1.98,17.98,low,low,7,namecheap,,,
+8a3e0485-5f9d-4f87-a740-af7029bfeb80,motley.casa,available,1.98,17.98,medium,low,6,namecheap,,,07/08/2026 07:29
+8c8e35c6-c9df-444a-84a0-ea9cc9955087,barbecue.casa,premium,47.2,11.8,high,low,8,namesilo,,,
+6afb9f3c-5326-4d69-977e-260cc0eaca35,melt.casa,available,1.99,,high,low,4,name.com,,,
+907840d0-e814-459c-91a2-2fc98e159f85,whisking.casa,available,2.19,12.99,high,low,8,namesilo,,,
+b3b465e5-39bd-44e4-8722-00d9b2c8537a,grassroots.casa,available,1.98,17.98,high,low,11,namecheap,,,20/08/2026 18:16
+4ea4a539-1ff4-436a-83d9-dc49a0095d75,monthly.casa,available,2.19,12.99,high,low,7,namesilo,,,
+abf1d40d-2604-40ab-a033-2b6fb0f50d4f,tasking.casa,available,2.19,12.99,high,low,7,namesilo,,,
+bd0c0f80-c50f-4ea1-9238-04996d66d40a,treelike.casa,available,1.98,17.98,medium,low,8,namecheap,,,06/08/2026 14:01
+b807e37a-83d9-499c-bc93-3941cd3514de,vivid.casa,premium,47.2,11.8,high,low,5,namesilo,,,
+b0b7ee78-b76e-480d-a46f-4ecf58c9f661,venerable.casa,available,17.98,,high,low,9,namecheap,,,
+19fae4df-a8fc-4450-b23b-5723d8b6f04a,bottom.casa,available,1.98,17.98,high,low,6,namecheap,,,09/08/2026 11:50
+8de3cda6-36ad-442e-8e51-e74751aa8bbf,systematically.casa,available,17.98,,medium,low,14,namecheap,,,
+46eb5197-0326-43cf-a926-af865d5ff404,refrigerator.casa,premium,96,11.8,high,low,12,namesilo,,,
+b2f20c25-d91a-4314-93d4-49c10aa920b3,lot.casa,premium,96,11.8,high,low,3,namesilo,,,
+7fad53f2-7a9b-423a-bb2f-93def40ebacd,allergist.casa,available,2.19,12.99,medium,low,9,namesilo,,,
+3d162914-a985-496e-a982-10a7725ddb88,baffled.casa,available,1.98,17.98,medium,low,7,namecheap,,,07/08/2026 11:36
+fc1648d0-3d57-4b05-8e32-158ce76646ed,allies.casa,available,2.19,12.99,high,low,6,namesilo,,,
+56347d0b-608a-4145-84ca-bea70de70567,referable.casa,available,1.98,17.98,medium,low,9,namecheap,,,07/08/2026 01:28
+12861098-7792-4d61-802e-3963acda94c2,whereas.casa,available,17.98,,high,low,7,namecheap,,,
+8fedfa97-3533-43f3-ac41-a62e47596f70,willingness.casa,available,2.19,12.99,high,low,11,namesilo,,,
+cbed83bf-e20e-4fc2-8889-ee100a564c31,superuser.casa,available,2.19,12.99,high,low,9,namesilo,,,
+1de6fa18-00c2-4331-bfc4-c82b82d444df,aboral.casa,available,1.98,17.98,medium,low,6,namecheap,,,
+96f23882-e42c-4dfb-b6d3-ceb18b2797aa,treed.casa,available,1.98,17.98,medium,low,5,namecheap,,,07/08/2026 11:13
+998d3453-a51d-4a7a-acb6-88eaffa2967e,antifungal.casa,available,1.98,17.98,high,low,10,namecheap,,,
+bd0fa3f5-07d6-4252-9064-96514ad6d18a,altaic.casa,available,1.98,17.98,medium,low,6,namecheap,,,
+ecab66a2-e59f-4f2a-bcac-fefda048e91e,hence.casa,available,17.98,,high,low,5,namecheap,,,
+fa6297a6-b83a-4778-884e-b5640da01337,dye.casa,premium,96,11.8,high,low,3,namesilo,,,
+d575e888-92de-415a-b1d7-57ae0f0aacfb,parched.casa,available,1.98,17.98,medium,low,7,namecheap,,,
+885e67d6-56b7-4375-a141-c487252b2f2f,shortfall.casa,available,2.19,12.99,high,low,9,namesilo,,,
+9128fc53-1d7a-4970-b42e-c84ab5499b87,browser.casa,available,2.19,12.99,high,low,7,namesilo,,,
+e2756f99-01a6-42af-a345-1655115e1ddd,display.casa,premium,96,11.8,high,low,7,namesilo,,,08/09/2026 08:33
+d61b7c2e-b053-4396-8e8a-07cb62e477a4,befitting.casa,available,1.98,17.98,medium,low,9,namecheap,,,09/08/2026 08:38
+4b2f936a-b429-41c4-bce5-97091e2207fb,sec.casa,premium,96,11.8,high,low,3,namesilo,,,
+6e75b94f-a279-494a-9f81-8452a1bb17e5,knot.casa,premium,47.2,11.8,high,low,4,namesilo,,,
+9a9b19cb-0929-4ff3-86f5-4dbed6400bf2,depression.casa,available,2.19,12.99,medium,low,10,namesilo,,,
+803a6bf5-f21c-4438-996d-eba1643ba261,beardless.casa,available,1.98,17.98,medium,low,9,namecheap,,,09/08/2026 04:43
+15f08fcc-7a5e-4084-a087-b87aa39774aa,orleans.casa,premium,47.2,11.8,high,low,7,namesilo,,,
+d8f7fc39-9ebf-4b33-886b-4f8126f1e0a3,opt.casa,premium,96,11.8,high,low,3,namesilo,,,
+d70d1357-3964-4bb6-9cba-643027155cc4,phrase.casa,available,2.19,12.99,high,low,6,namesilo,,,
+36918d90-1b5f-4274-90f5-985bcd71772f,supervisor.casa,available,2.19,12.99,high,low,10,namesilo,,,
+c4e5db26-df1a-488a-9642-9e33467abe13,sextet.casa,available,1.98,17.98,high,low,6,namecheap,,,
+ad8dea7e-fea6-4f28-8045-5c3db3840f84,globular.casa,available,1.98,17.98,high,low,8,namecheap,,,08/08/2026 10:06
+d7933478-e54e-4fdd-a8c4-4b5f2429528d,person.casa,premium,242,11.8,high,low,6,namesilo,,,
+507c9904-d0d9-40fc-ba77-8590433b69a1,camera.casa,premium,47.2,11.8,high,low,6,namesilo,,,
+f5bac4b4-ddda-4d7a-97b5-f0b43bf21ae1,xxiv.casa,available,1.98,17.98,high,low,4,namecheap,,,
+66e822c0-433b-4e37-8b00-c1bc724cb24b,disclosure.casa,available,17.98,,high,low,10,namecheap,,,
+a33b0cdf-b1ac-4746-8b50-e2cf8ac081ac,amuse.casa,available,2.19,12.99,high,low,5,namesilo,,,
+7e23101e-aaeb-4144-93fb-4bbadd0c81ec,pleased.casa,available,2.19,12.99,high,low,7,namesilo,,,
+9c2d0167-990d-4dcd-a5e2-5fa4c58b0989,disturb.casa,available,2.19,12.99,high,low,7,namesilo,,,
+6e01d84c-eef9-4a08-ae33-98fc75cd5e4f,grievous.casa,available,1.98,17.98,medium,low,8,namecheap,,,07/08/2026 14:41
+98a836ee-a747-4510-87c1-86279f309f98,things.casa,resell,,,high,low,6,Dynadot Inc,03/02/2026 00:00,03/02/2027 00:00,
+b9e142a8-00fd-489e-98fa-1624294600c7,importantly.casa,available,2.19,12.99,high,low,11,namesilo,,,
+4c5824f8-ec6f-4f5c-831b-4e7a69d6a190,congratulations.casa,available,17.98,,high,low,15,namecheap,,,
+13973775-bef2-4888-be9d-cbbad701045b,formalise.casa,available,2.19,12.99,high,low,9,namesilo,,,
+2fd28ad6-afe6-4c31-8b76-aa9a18fa2328,feeling.casa,premium,96,11.8,high,low,7,namesilo,,,
+727fe4a4-6c75-4200-a46d-2539b7dba2f3,engagement.casa,available,2.19,12.99,high,low,10,namesilo,,,
+2d001b9a-a2e3-49d3-adb1-3a8330146609,making.casa,available,2.19,12.99,high,low,6,namesilo,,,
+2b552ac3-0046-45ff-b283-8fecc3c0e272,brow.casa,premium,50,,high,low,4,name.com,,,
+da969b16-0420-49c0-8e72-dced7e135940,atonal.casa,available,1.98,17.98,medium,low,6,namecheap,,,07/08/2026 13:46
+237cb95a-f603-45e5-a10d-dfb3a97c139d,soppy.casa,available,1.98,17.98,medium,low,5,namecheap,,,09/08/2026 01:14
+436e2457-f94e-46e1-9e73-bb9a81b09c13,yell.casa,premium,47.2,11.8,high,low,4,namesilo,,,
+d72732a1-e474-4899-91d1-fca7ecc14049,entranced.casa,available,1.98,17.98,medium,low,9,namecheap,,,09/08/2026 10:11
+e3316f88-361d-4abf-832e-5d6d016baa23,burden.casa,available,2.19,12.99,medium,low,6,namesilo,,,
+aa5f117c-fbf9-48c3-a563-2a8c7e05578f,patient.casa,premium,52,13,high,low,7,namecheap,,,
+5237f9e4-0c66-4845-aed8-f2f9ca56a9c9,trend.casa,premium,47.2,11.8,high,low,5,namesilo,,,
+c5c1bc76-d41e-4983-a9f5-c984b0c35b64,snippet.casa,available,2.19,12.99,high,low,7,namesilo,,,
+3bce8fa3-0e48-4133-9117-93eb7bf95f7c,sounding.casa,available,2.19,12.99,high,low,8,namesilo,,,
+8a28aee8-49f2-4547-af71-8451c49206da,point.casa,premium,47.2,11.8,high,low,5,namesilo,,,
+99011f23-c227-4df7-bfd8-11c7fe6bea4b,bothersome.casa,available,1.98,17.98,medium,low,10,namecheap,,,
+5d7543a4-9482-4247-ae59-fb980ba54fb4,posterior.casa,available,1.98,17.98,medium,low,9,namecheap,,,09/08/2026 11:12
+ae2cd1e4-0d37-4f93-bf12-410e06dbf8b3,seated.casa,available,2.19,12.99,high,low,6,namesilo,,,
+60c1a3c9-912f-4858-8fc2-92998b61cb7b,plaguey.casa,available,1.98,17.98,medium,low,7,namecheap,,,
+50f951ca-3e36-47a9-9088-a060b1db0204,tierce.casa,available,1.98,17.98,medium,low,6,namecheap,,,
+b75cf4ff-5095-4f82-87e3-88f4d321899c,including.casa,available,2.19,12.99,medium,low,9,namesilo,,,
+4648a5d3-d7ad-45b8-9f8f-ca011b377fe3,lxi.casa,premium,47.2,11.8,medium,low,3,namesilo,,,
+f62a468d-0aab-4684-860a-e45ff11acd9a,lxii.casa,available,1.98,17.98,medium,low,4,namecheap,,,
+6f0aa70c-fb9d-4814-9fc7-ae09cac0bccb,lorry.casa,available,2.19,12.99,high,low,5,namesilo,,,
+6ac87fda-a856-4596-ac8c-36a543b57ce7,lady.casa,premium,50,,high,low,4,name.com,,,
+e4fde299-d7c7-40c2-a843-ddc60110dba5,analytical.casa,available,1.98,17.98,high,low,10,namecheap,,,
+597f0f84-2549-418e-87ea-c91c9273fdee,pretoria.casa,available,2.19,12.99,high,low,8,namesilo,,,
+476fff7f-e6bf-4fc5-b730-df04bdfa8c53,giraffe.casa,available,,,high,low,7,,,,
+32962302-d7a8-4086-af4e-f41246fc37e3,suck.casa,premium,96,11.8,high,low,4,namesilo,,,
+f57403c0-f480-488a-a945-bd9bfa2c16b6,acquirable.casa,available,1.98,17.98,high,low,10,namecheap,,,
+d2d809a5-b966-46b9-84e7-b48aa1b16375,within.casa,available,2.19,12.99,high,low,6,namesilo,,,
+fcbec46f-0ac3-48a5-9fa2-127096cd5982,shelf.casa,available,2.19,12.99,high,low,5,namesilo,,,
+608afaeb-ee10-44e3-8eff-25dbd0d2a15f,coverage.casa,premium,47.2,11.8,high,low,8,namesilo,,,
+010af672-1456-49d9-8670-6f6d0073e703,surprising.casa,available,2.19,12.99,high,low,10,namesilo,,,
+53e59427-329f-4fcd-8588-cfbc29f6799e,restrain.casa,available,2.19,12.99,high,low,8,namesilo,,,
+46dd4321-567a-4779-beef-ae87f8ed3d26,backside.casa,available,1.98,17.98,medium,low,8,namecheap,,,09/08/2026 10:44
+2c930d6c-a4d5-43f2-8c23-944d4180da33,despite.casa,available,2.19,12.99,high,low,7,namesilo,,,
+60b53d87-3371-4735-a2aa-b74e5ad10578,hereditary.casa,available,1.98,17.98,high,low,10,namecheap,,,
+b5688b71-8943-4dcb-b1d1-41a0a0540be2,sacrificial.casa,available,17.98,,high,low,11,namecheap,,,
+fa648819-6329-4688-acca-93134b30f322,ink.casa,premium,96,11.8,high,medium,3,namesilo,,,
+d7449d43-d4f9-4ad4-bf69-7f4b76ce8f22,vandalism.casa,available,2.19,12.99,high,low,9,namesilo,,,
+aad21957-7f5f-438e-a698-b54abaf1f415,hangout.casa,available,2.19,12.99,high,low,8,namesilo,,,
+fb2bb4ce-a6e3-4823-900f-eaccf69e52d4,chore.casa,available,2.19,12.99,high,low,5,namesilo,,,
+3dca3e72-ffd7-44f6-8308-4d77cc6f0d1b,racist.casa,available,1.98,17.98,medium,low,6,namecheap,,,
+3999a7db-fe98-465f-a03c-863d4fc7857b,recondite.casa,available,1.98,17.98,high,low,9,namecheap,,,
+fb5a8e87-98a7-408b-a73b-86fbcbaa2209,surprisingly.casa,available,2.19,12.99,high,low,12,namesilo,,,
+9e0314e6-23dd-47d0-8eb3-4382794bb861,autonomic.casa,available,1.98,17.98,high,low,9,namecheap,,,07/08/2026 20:52
+aca852be-00c8-47b7-a418-fc90da99b709,airworthy.casa,available,1.98,17.98,high,low,9,namecheap,,,
+aea7cb51-ef4a-465f-bab3-bb1915236597,tons.casa,available,17.98,,high,low,4,namecheap,,,
+a81e0d87-c6f4-4f43-90e1-6edbaef2dc4c,alert.casa,available,,,high,low,5,,,,
+2aebcbe8-92c0-4a90-ba35-90978284674c,interior.casa,premium,96,11.8,high,low,8,namesilo,,,
+dce34526-828e-40f0-99a3-3362313701f8,aquatic.casa,available,1.98,17.98,high,low,7,namecheap,,,06/08/2026 10:45
+aef6405c-c7d6-45c6-8202-ba14a7c3bf7f,outing.casa,available,2.19,12.99,high,low,6,namesilo,,,
+b1f16bf9-92e3-470c-8665-52037de10829,england.casa,available,2.19,12.99,high,low,7,namesilo,,,
+b4518b7c-d994-4b56-b3bd-6170e86e6d5f,infuriated.casa,available,1.98,17.98,medium,low,10,namecheap,,,
+bea8a159-5f6b-4e90-ac61-63826c21490b,visited.casa,available,2.19,12.99,high,low,7,namesilo,,,
+fd33a5a1-ca96-4407-989f-4d603093de0e,thousandth.casa,available,1.98,17.98,high,low,10,namecheap,,,
+3b0d123a-1282-40ac-8c07-0f3de2c5eb41,unwell.casa,available,1.98,17.98,high,low,6,namecheap,,,
+c41242f6-817e-481d-8444-62c977e17822,wonky.casa,available,,,medium,low,5,,,,
+f305dd02-e357-41b0-8b1a-68c06d4cb7ea,eyry.casa,available,1.98,17.98,high,low,4,namecheap,,,
+2b26c09a-5bab-4577-a2c7-179696fe50fc,prove.casa,available,2.19,12.99,high,low,5,namesilo,,,
+65bd9146-1128-437d-9c7b-2312850f7e6e,gave.casa,available,2.19,12.99,medium,low,4,namesilo,,,
+04ade12f-e240-4452-9649-8dc13c5f69e6,psychologist.casa,available,17.98,,high,low,12,namecheap,,,
+942c8402-8dca-4bd7-b01e-de85c3c32920,addressed.casa,available,1.98,17.98,high,low,9,namecheap,,,
+8487974d-37c5-46f6-a3a3-984483ca4e4b,rice.casa,premium,242,11.8,high,low,4,namesilo,,,
+8b84ac96-d4be-42a5-98e0-e08e3074ae37,flags.casa,available,2.19,12.99,high,low,5,namesilo,,,
+80993c42-d671-44e5-b72a-a16b8c41dce5,bce.casa,premium,47.2,11.8,high,low,3,namesilo,,,
+79715553-1c43-4aa7-9bb4-865cb013e946,sanctioned.casa,available,1.98,17.98,high,low,10,namecheap,,,06/08/2026 09:24
+0c4ad8c0-88b6-4c8d-8ec7-08eb4ef60f29,andrew.casa,premium,250,,high,medium,6,name.com,,,
+ab36e427-b3e9-48b9-8944-eb02caeb51e0,latter.casa,available,2.19,12.99,high,low,6,namesilo,,,
+d5b726d3-ec8b-4301-a034-df4cd176ea19,miracle.casa,available,17.98,,high,low,7,namecheap,,,
+c05d489d-24bc-4916-af88-a1a07ebd5e77,seventy.casa,available,1.98,17.98,high,low,7,namecheap,,,
+af83fe4a-97ea-41a9-bd0a-7334bde6e20f,painted.casa,available,2.19,12.99,high,low,7,namesilo,,,
+6ff849fe-2458-4fd8-ac55-4f964efe21e7,girl.casa,premium,100,,high,low,4,name.com,,,
+4e0c2613-bcf4-43fa-bb8a-ae64b81bde6b,alley.casa,resell,,,high,low,5,"GoDaddy.com, LLC",15/01/2018 07:06,15/01/2027 07:06,
+fd14a650-455d-4029-a0c1-ca65b83b9104,artwork.casa,premium,52,13,high,low,7,namecheap,,,
+0c46a100-33a8-48b6-9350-9ec3732634c9,years.casa,available,17.98,,high,low,5,namecheap,,,
+56afcdd0-eb98-4d5b-895b-9d55329a9177,speedup.casa,available,2.19,12.99,high,low,8,namesilo,,,
+7bb55e1a-ad8e-4f88-9f24-3fb4b46517aa,listen.casa,available,2.19,12.99,high,low,6,namesilo,,,
+a9fc702c-16fc-4962-86b2-235bb4e0c7c1,perhaps.casa,available,17.98,,high,low,7,namecheap,,,
+6759cb23-0841-48c0-b7b8-0cd9f956b350,xxvii.casa,available,1.98,17.98,medium,low,5,namecheap,,,
+d139d02a-a306-4f45-8866-74d43fe0dd03,reversible.casa,available,2.19,12.99,high,low,10,namesilo,,,
+31a9d886-be1a-4b88-b482-c6e026699649,afoot.casa,available,1.98,17.98,medium,low,5,namecheap,,,
+67f33f44-62b4-4c6b-b58a-071c9b412a0e,rejoin.casa,available,2.19,12.99,high,low,6,namesilo,,,
+447c35ad-b4c8-4ec8-b820-d858b114de07,activation.casa,available,1.98,17.98,high,low,10,namecheap,,,
+bb6f57a0-25bf-4a6f-9183-607c3b9a5eec,fingers.casa,available,2.19,12.99,medium,low,7,namesilo,,,
+10543854-6260-4721-8133-ecd1b0ca71af,agrarian.casa,available,1.98,17.98,high,low,8,namecheap,,,
+dc85172c-9486-40da-9927-5a2069c98d5b,piston.casa,available,2.19,12.99,high,low,6,namesilo,,,
+7dc14702-d777-4681-924d-3bef9c6c5c68,loco.casa,premium,250,23.99,high,low,4,name.com,,,06/08/2026 21:13
+8e9129f8-9015-4fb8-bb6a-4efb7b65c359,january.casa,available,2.19,12.99,high,low,7,namesilo,,,
+289c735b-0447-4d53-861b-ef4a43c0bd2c,median.casa,available,2.19,12.99,high,low,6,namesilo,,,
+6bec5744-8754-4ec7-99db-045f67d5af85,eyes.casa,premium,47.2,11.8,high,low,4,namesilo,,,
+df38da75-a3cc-437e-a549-9fe0f4f6df2d,unit.casa,premium,47.2,11.8,high,low,4,namesilo,,,08/09/2026 06:04
+e8899c11-ec84-4baf-a59c-cb5af42beaa8,multiple.casa,available,2.19,12.99,high,low,8,namesilo,,,
+cba44345-c3cd-4bf5-a6c4-a6bb2941f94c,sidelong.casa,available,1.98,17.98,medium,low,8,namecheap,,,07/08/2026 03:26
+4974ba30-2c9c-40ca-b028-ccf5e192ece2,hook.casa,premium,47.2,11.8,high,low,4,namesilo,,,
+92ba752e-867a-4850-862e-aeee3ad316af,addition.casa,available,2.19,12.99,high,low,8,namesilo,,,
+5c5d2870-b21f-40f8-8d4e-b85e8ad303d8,endurance.casa,available,2.19,12.99,high,low,9,namesilo,,,
+92ca8aa2-90a9-43f6-868a-f613eb3b3c86,avestan.casa,available,1.98,17.98,medium,low,7,namecheap,,,07/08/2026 23:07
+881b982c-8a76-4098-ba94-8220e3141187,arced.casa,available,1.98,17.98,medium,low,5,namecheap,,,06/08/2026 14:28
+237ab458-7485-4e4f-a870-1860784777ed,political.casa,available,2.19,12.99,high,low,9,namesilo,,,
+bf7ca066-9eaf-4e04-99dd-44ca308af9c8,media.casa,resell,,,high,low,5,"Spaceship, Inc.",25/02/2024 03:15,25/02/2026 03:15,
