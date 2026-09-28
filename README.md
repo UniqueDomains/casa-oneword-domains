@@ -1,10 +1,10 @@
-# Available .CASA One-Word Domains (21,829)
+# Available .CASA One-Word Domains (22,266)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C829%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C266%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .casa one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,829 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,266 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,829 domains · **Median ask:** $18.41 · **High-demand under $2,500:** 22
+**Public extract:** 1,000 rows · **Live catalog:** 22,266 domains · **Median ask:** $18.78 · **High-demand under $2,500:** 22
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/casa`
@@ -72,17 +72,17 @@ print(df.head())
 | adz.casa       | premium   | $96       | $11.80        | medium         | low    | 3      | namesilo         |
 | anpu.casa      | available | $2.19     | $12.99        | medium         | low    | 4      | namesilo         |
 | events.casa    | resell    | —         | —             | high           | low    | 6      | Dynadot Inc      |
-| bag.casa       | premium   | $96       | $11.80        | high           | low    | 3      | namesilo         |
+| bid.casa       | premium   | $242      | $11.80        | high           | low    | 3      | namesilo         |
 | atop.casa      | available | $2.19     | $12.99        | medium         | low    | 4      | namesilo         |
 | betting.casa   | resell    | —         | —             | high           | low    | 7      | NameCheap, Inc.  |
-| bid.casa       | premium   | $242      | $11.80        | high           | low    | 3      | namesilo         |
+| diy.casa       | premium   | $242      | $11.80        | high           | low    | 3      | namesilo         |
 | auld.casa      | available | $1.98     | $17.98        | medium         | low    | 4      | namecheap        |
 | startup.casa   | resell    | —         | —             | high           | medium | 7      | Porkbun          |
-| diy.casa       | premium   | $242      | $11.80        | high           | low    | 3      | namesilo         |
-| bier.casa      | available | $1.98     | $17.98        | medium         | low    | 4      | namecheap        |
 | edo.casa       | premium   | $41.60    | $10.55        | high           | low    | 3      | spaceship        |
-| blur.casa      | available | $1.98     | $17.98        | high           | low    | 4      | namecheap        |
+| bier.casa      | available | $1.98     | $17.98        | medium         | low    | 4      | namecheap        |
 | gil.casa       | premium   | $260      | $13           | high           | low    | 3      | namecheap        |
+| blur.casa      | available | $1.98     | $17.98        | high           | low    | 4      | namecheap        |
+| gun.casa       | premium   | $96       | $11.80        | high           | low    | 3      | namesilo         |
 | bris.casa      | available | $2.19     | $12.99        | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,829 live domains                        |
+| 1,000-row public sample | 22,266 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 22 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
